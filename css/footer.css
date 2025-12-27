@@ -1,0 +1,128 @@
+/* ===============================
+   FOOTER (APP)
+=============================== */
+.app-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: linear-gradient(
+    180deg,
+    rgba(20, 40, 80, 0.75),
+    rgba(10, 20, 40, 0.9)
+  );
+  border-top: 1px solid rgba(120, 120, 255, 0.2);
+  backdrop-filter: blur(8px);
+  z-index: 500;
+}
+
+.footer-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 20px 20px 40px;
+
+  
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+/* LEFT */
+.footer-logo {
+  font-weight: 700;
+  letter-spacing: 1px;
+  background: linear-gradient(90deg, #ff6ad5, #a45bff, #4ad4ff);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.footer-copy {
+  margin-left: 10px;
+  font-size: 12px;
+  opacity: 0.6;
+}
+
+/* CENTER */
+.footer-center {
+  display: flex;
+  gap: 14px;
+}
+
+.footer-center button {
+  background: none;
+  border: none;
+  color: #cfd3ff;
+  font-size: 13px;
+  cursor: pointer;
+  transition: color 0.2s, text-shadow 0.2s;
+}
+
+.footer-center button:hover {
+  color: #ffffff;
+  text-shadow: 0 0 6px rgba(120, 140, 255, 0.8);
+}
+
+/* RESPONSIVE FOOTER */
+@media (max-width: 700px) {
+  .footer-inner {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .footer-center {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+/* SUPPORT LINK */
+.support-link {
+  font-size: 14px;
+  text-decoration: none;
+  color: #b88cff;
+  font-weight: 500;
+  transition:
+    text-shadow 0.2s ease,
+    transform 0.2s ease,
+    color 0.2s ease;
+}
+
+/* ===============================
+   USER INFO + GLOW
+=============================== */
+.user-info {
+  text-align: center;
+  margin-bottom: 14px;
+  font-size: 14px;
+  color: #9aa7ff;
+}
+
+.user-info strong {
+  display: inline-block;
+  margin-top: 4px;
+  font-size: 18px;
+  color: #7bd7ff;
+  animation: userGlow 2.8s ease-in-out infinite;
+}
+
+@keyframes userGlow {
+  0%   { text-shadow: 0 0 6px rgba(123, 215, 255, 0.4); }
+  50%  {
+    text-shadow:
+      0 0 10px rgba(123, 215, 255, 0.8),
+      0 0 18px rgba(123, 215, 255, 0.4);
+  }
+  100% { text-shadow: 0 0 6px rgba(123, 215, 255, 0.4); }
+}
+
+@media (max-width: 768px) {
+  body.menu-open footer {
+    display: none !important;
+  }
+
+  body.menu-open {
+    overflow: hidden;
+  }
+}
+
+

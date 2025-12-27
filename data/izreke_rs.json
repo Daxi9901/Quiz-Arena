@@ -1,0 +1,4083 @@
+[
+  {
+    "id": 1,
+    "category": "filozofija",
+    "text": "Čovek je ___ biće koje ___ slobodu, ali često ___ odgovornost koja sa tom slobodom ___, jer je lakše ___ nego ___.",
+    "missing": ["slobodno", "bira", "izbegava", "dolazi", "birati", "snositi"],
+    "full": "Čovek je slobodno biće koje bira slobodu, ali često izbegava odgovornost koja sa tom slobodom dolazi, jer je lakše birati nego snositi.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+  {
+    "id": 2,
+    "category": "filozofija",
+    "text": "Onaj ko ___ razlog da ___, može da ___ gotovo svako ___ koje mu se ___.",
+    "missing": ["ima", "živi", "podnese", "kako", "nametne"],
+    "full": "Onaj ko ima razlog da živi, može da podnese gotovo svako kako koje mu se nametne.",
+    "source": { "type": "Filozofija", "author": "Fridrih Niče", "note": "slobodan prevod" }
+  },
+  {
+    "id": 3,
+    "category": "književnost",
+    "text": "Čovek se ___ celog života, ali najčešće ___ tek onda kada ___ da je ___ sam sa ___.",
+    "missing": ["menja", "shvati", "ostane", "zapravo", "sobom"],
+    "full": "Čovek se menja celog života, ali najčešće shvati tek onda kada ostane da je zapravo sam sa sobom.",
+    "source": { "type": "Književnost", "author": "Ivo Andrić", "note": "parafraza" }
+  },
+  {
+    "id": 4,
+    "category": "književnost",
+    "text": "Sve ___ odluke koje čovek ___ u ___ trenutku, kasnije ___ kao ___ njegove ___.",
+    "missing": ["teške", "donosi", "pogrešnom", "dolaze", "posledice", "slobode"],
+    "full": "Sve teške odluke koje čovek donosi u pogrešnom trenutku, kasnije dolaze kao posledice njegove slobode.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+  {
+    "id": 5,
+    "category": "filozofija",
+    "text": "Najopasnija ___ nije ona koja ___ spolja, već ona koja ___ u ___ i ___ se u ___.",
+    "missing": ["laž", "dolazi", "nastaje", "čoveku", "prikriva", "istinu"],
+    "full": "Najopasnija laž nije ona koja dolazi spolja, već ona koja nastaje u čoveku i prikriva se u istinu.",
+    "source": { "type": "Filozofija", "author": "Martin Hajdeger", "note": "parafraza" }
+  },
+  {
+    "id": 6,
+    "category": "književnost",
+    "text": "Čovek ___ mir tek kada ___ da ne može ___ svet, već samo ___ sebe u ___.",
+    "missing": ["nalazi", "prihvati", "promeniti", "razume", "njemu"],
+    "full": "Čovek nalazi mir tek kada prihvati da ne može promeniti svet, već samo razume sebe u njemu.",
+    "source": { "type": "Književnost", "author": "Lav Tolstoj", "note": "parafraza" }
+  },
+  {
+    "id": 7,
+    "category": "filozofija",
+    "text": "Sloboda bez ___ vodi u ___, dok odgovornost bez ___ vodi u ___.",
+    "missing": ["odgovornosti", "haos", "slobode", "ropstvo"],
+    "full": "Sloboda bez odgovornosti vodi u haos, dok odgovornost bez slobode vodi u ropstvo.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+  {
+    "id": 8,
+    "category": "književnost",
+    "text": "Čovek ___ svoje ___ tek kada ___ da ih je ___ previše ___ drugima.",
+    "missing": ["razume", "misli", "shvati", "govorio", "retko"],
+    "full": "Čovek razume svoje misli tek kada shvati da ih je govorio previše retko drugima.",
+    "source": { "type": "Književnost", "author": "Danilo Kiš", "note": "parafraza" }
+  },
+  {
+    "id": 9,
+    "category": "filozofija",
+    "text": "Najveća ___ čoveka nije u tome da ___, već da ___ kada zna da ___ ne može ___.",
+    "missing": ["snaga", "pobedi", "nastavi", "ishod", "promeniti"],
+    "full": "Najveća snaga čoveka nije u tome da pobedi, već da nastavi kada zna da ishod ne može promeniti.",
+    "source": { "type": "Filozofija", "author": "Albert Kami", "note": "parafraza" }
+  },
+  {
+    "id": 10,
+    "category": "filozofija",
+    "text": "Sumnja nije ___ slabosti, već ___ mišljenja koje ___ da ___ prihvati ___.",
+    "missing": ["znak", "početak", "odbija", "olako", "odgovore"],
+    "full": "Sumnja nije znak slabosti, već početak mišljenja koje odbija da olako prihvati odgovore.",
+    "source": { "type": "Filozofija", "author": "René Descartes", "note": "parafraza" }
+  },
+
+  {
+    "id": 11,
+    "category": "filozofija",
+    "text": "Čovek koji ___ istinu mora biti spreman da ___ sve ono što mu ___ sigurnost i ___ ga sa ___.",
+    "missing": ["traži", "izgubi", "pruža", "štiti", "sumnjom"],
+    "full": "Čovek koji traži istinu mora biti spreman da izgubi sve ono što mu pruža sigurnost i štiti ga od sumnje.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 12,
+    "category": "književnost",
+    "text": "Navika je ___ tamnica u kojoj čovek ___ ne zato što mora, već zato što ___ da ___ može ___.",
+    "missing": ["najtiša", "ostaje", "veruje", "drugačije", "izađe"],
+    "full": "Navika je najtiša tamnica u kojoj čovek ostaje ne zato što mora, već zato što veruje da drugačije ne može izaći.",
+    "source": { "type": "Književnost", "author": "Mihail Bulgakov", "note": "parafraza" }
+  },
+  {
+    "id": 13,
+    "category": "filozofija",
+    "text": "Znanje bez ___ postaje ___, a moć bez ___ pretvara se u ___.",
+    "missing": ["moralnosti", "opasnost", "odgovornosti", "zloupotrebu"],
+    "full": "Znanje bez moralnosti postaje opasnost, a moć bez odgovornosti pretvara se u zloupotrebu.",
+    "source": { "type": "Filozofija", "author": "Hannah Arendt", "note": "parafraza" }
+  },
+  {
+    "id": 14,
+    "category": "književnost",
+    "text": "Čovek se ___ istini tek kada ___ da je ___ lagao ___ nego ___.",
+    "missing": ["približi", "shvati", "više", "sebi", "drugima"],
+    "full": "Čovek se približi istini tek kada shvati da je više lagao sebi nego drugima.",
+    "source": { "type": "Književnost", "author": "Dostojevski", "note": "parafraza" }
+  },
+  {
+    "id": 15,
+    "category": "filozofija",
+    "text": "Najdublja ___ nije odsustvo ___, već gubitak ___ koji im ___ smisao.",
+    "missing": ["patnja", "radosti", "značenja", "daje"],
+    "full": "Najdublja patnja nije odsustvo radosti, već gubitak značenja koji im daje smisao.",
+    "source": { "type": "Filozofija", "author": "Viktor Frankl", "note": "parafraza" }
+  },
+
+  {
+    "id": 16,
+    "category": "književnost",
+    "text": "Čovek ___ svet onako kako ___ sebe, jer ___ stvarnost kroz ___ iskustva.",
+    "missing": ["vidi", "razume", "tumači", "sopstvena"],
+    "full": "Čovek vidi svet onako kako razume sebe, jer tumači stvarnost kroz sopstvena iskustva.",
+    "source": { "type": "Književnost", "author": "Herman Hese", "note": "parafraza" }
+  },
+  {
+    "id": 17,
+    "category": "filozofija",
+    "text": "Strah od ___ često je jači od ___, jer ___ zahteva da ___ sopstvene ___.",
+    "missing": ["slobode", "ropstva", "sloboda", "preuzme", "izbore"],
+    "full": "Strah od slobode često je jači od ropstva, jer sloboda zahteva da preuzme sopstvene izbore.",
+    "source": { "type": "Filozofija", "author": "Erich Fromm", "note": "parafraza" }
+  },
+  {
+    "id": 18,
+    "category": "književnost",
+    "text": "Čovek ___ vreme tek kada ___ da ga ___ troši na ___ koje ___ pamti.",
+    "missing": ["ceni", "shvati", "nepovratno", "stvari", "ne"],
+    "full": "Čovek ceni vreme tek kada shvati da ga nepovratno troši na stvari koje ne pamti.",
+    "source": { "type": "Književnost", "author": "Marcel Proust", "note": "parafraza" }
+  },
+  {
+    "id": 19,
+    "category": "filozofija",
+    "text": "Istina nije ___ onima koji ___, već onima koji ___ da ___ sopstvene ___.",
+    "missing": ["prijatna", "je traže", "su spremni", "preispitaju", "zablude"],
+    "full": "Istina nije prijatna onima koji je traže, već onima koji su spremni da preispitaju sopstvene zablude.",
+    "source": { "type": "Filozofija", "author": "Karl Popper", "note": "parafraza" }
+  },
+  {
+    "id": 20,
+    "category": "književnost",
+    "text": "Ćutanje ponekad ___ više od ___, jer u sebi ___ ono što ___ ne može ___.",
+    "missing": ["govori", "reči", "sadrži", "jezik", "izraziti"],
+    "full": "Ćutanje ponekad govori više od reči, jer u sebi sadrži ono što jezik ne može izraziti.",
+    "source": { "type": "Književnost", "author": "Samuel Beket", "note": "parafraza" }
+  },
+
+  {
+    "id": 21,
+    "category": "filozofija",
+    "text": "Moral bez ___ postaje ___, a zakon bez ___ pretvara se u ___.",
+    "missing": ["empatije", "okrutnost", "pravde", "nasilje"],
+    "full": "Moral bez empatije postaje okrutnost, a zakon bez pravde pretvara se u nasilje.",
+    "source": { "type": "Filozofija", "author": "Aristotel", "note": "parafraza" }
+  },
+  {
+    "id": 22,
+    "category": "književnost",
+    "text": "Čovek ___ sam sebe tek kada ___ da ne može ___ sliku koju drugi ___ o ___.",
+    "missing": ["upozna", "prihvati", "kontrolisati", "stvaraju", "njemu"],
+    "full": "Čovek upozna sam sebe tek kada prihvati da ne može kontrolisati sliku koju drugi stvaraju o njemu.",
+    "source": { "type": "Književnost", "author": "Franz Kafka", "note": "parafraza" }
+  },
+  {
+    "id": 23,
+    "category": "filozofija",
+    "text": "Razum bez ___ je ___, a osećaj bez ___ postaje ___.",
+    "missing": ["iskustva", "apstrakcija", "razuma", "haos"],
+    "full": "Razum bez iskustva je apstrakcija, a osećaj bez razuma postaje haos.",
+    "source": { "type": "Filozofija", "author": "Immanuel Kant", "note": "parafraza" }
+  },
+  {
+    "id": 24,
+    "category": "književnost",
+    "text": "Čovek ___ prošlost ne zato što ___ da je zaboravi, već zato što ___ da je ___.",
+    "missing": ["nosi", "ne može", "ne sme", "razume"],
+    "full": "Čovek nosi prošlost ne zato što ne može da je zaboravi, već zato što ne sme da je razume.",
+    "source": { "type": "Književnost", "author": "Danilo Kiš", "note": "parafraza" }
+  },
+  {
+    "id": 25,
+    "category": "filozofija",
+    "text": "Spoznaja ___ zahteva ___, jer ___ razbija ono što ___ štiti ___.",
+    "missing": ["istine", "hrabrost", "ona", "nas", "iluzija"],
+    "full": "Spoznaja istine zahteva hrabrost, jer ona razbija ono što nas štiti iluzija.",
+    "source": { "type": "Filozofija", "author": "Platon", "note": "parafraza" }
+  },
+  {
+    "id": 26,
+    "category": "književnost",
+    "text": "Čovek ___ druge onako kako ___ sebe, jer je ___ uvek ___ sopstvenog ___.",
+    "missing": ["razume", "doživljava", "svet", "odraz", "unutrašnjeg"],
+    "full": "Čovek razume druge onako kako doživljava sebe, jer je svet uvek odraz unutrašnjeg.",
+    "source": { "type": "Književnost", "author": "Herman Hese", "note": "parafraza" }
+  },
+  {
+    "id": 27,
+    "category": "filozofija",
+    "text": "Najveći ___ nije u tome da ___, već da ___ ono što ___ da je ___.",
+    "missing": ["izazov", "znaš", "živiš", "misliš", "istinito"],
+    "full": "Najveći izazov nije u tome da znaš, već da živiš ono što misliš da je istinito.",
+    "source": { "type": "Filozofija", "author": "Sokrat", "note": "parafraza" }
+  },
+  {
+    "id": 28,
+    "category": "književnost",
+    "text": "Čovek ___ sreću tek kada ___ da ona ne ___ iz onoga što ___, već iz onoga što ___.",
+    "missing": ["nalazi", "shvati", "dolazi", "ima", "jeste"],
+    "full": "Čovek nalazi sreću tek kada shvati da ona ne dolazi iz onoga što ima, već iz onoga što jeste.",
+    "source": { "type": "Književnost", "author": "Erich Maria Remarque", "note": "parafraza" }
+  },
+  {
+    "id": 29,
+    "category": "filozofija",
+    "text": "Sloboda ___ smisao kada ___ bez ___, jer tada ___ postaje ___.",
+    "missing": ["gubi", "postoji", "odgovornosti", "izbor", "teret"],
+    "full": "Sloboda gubi smisao kada postoji bez odgovornosti, jer tada izbor postaje teret.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+  {
+    "id": 30,
+    "category": "književnost",
+    "text": "Čovek ___ sam tek kada ___ da više ___ kome da ___ ono što ___.",
+    "missing": ["ostaje", "shvati", "nema", "kaže", "misli"],
+    "full": "Čovek ostaje sam tek kada shvati da više nema kome da kaže ono što misli.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+
+  {
+    "id": 31,
+    "category": "filozofija",
+    "text": "Čovek ___ smisao tek kada ___ da ga ne može ___, već samo ___ kroz ___.",
+    "missing": ["pronalazi", "shvati", "nametnuti", "otkriti", "iskustvo"],
+    "full": "Čovek pronalazi smisao tek kada shvati da ga ne može nametnuti, već samo otkriti kroz iskustvo.",
+    "source": { "type": "Filozofija", "author": "Viktor Frankl", "note": "parafraza" }
+  },
+  {
+    "id": 32,
+    "category": "književnost",
+    "text": "Čovek ___ reči tek kada ___ da su ___ od ___ koje su ___.",
+    "missing": ["razume", "shvati", "tišina", "reči", "izgovorene"],
+    "full": "Čovek razume reči tek kada shvati da su tišina od reči koje su izgovorene.",
+    "source": { "type": "Književnost", "author": "Ivo Andrić", "note": "parafraza" }
+  },
+  {
+    "id": 33,
+    "category": "filozofija",
+    "text": "Istinska ___ ne dolazi iz ___, već iz ___ da se ___ ono što ___.",
+    "missing": ["sloboda", "izbora", "hrabrosti", "prihvati", "jeste"],
+    "full": "Istinska sloboda ne dolazi iz izbora, već iz hrabrosti da se prihvati ono što jeste.",
+    "source": { "type": "Filozofija", "author": "Epiktet", "note": "parafraza" }
+  },
+  {
+    "id": 34,
+    "category": "književnost",
+    "text": "Čovek ___ sebe ne u ___, već u ___ kada ___ da ___.",
+    "missing": ["otkriva", "uspehu", "sumnji", "prestane", "beži"],
+    "full": "Čovek otkriva sebe ne u uspehu, već u sumnji kada prestane da beži.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+  {
+    "id": 35,
+    "category": "filozofija",
+    "text": "Najveća ___ razuma nije u tome da ___, već da ___ granice sopstvenog ___.",
+    "missing": ["snaga", "zna", "prepozna", "znanja"],
+    "full": "Najveća snaga razuma nije u tome da zna, već da prepozna granice sopstvenog znanja.",
+    "source": { "type": "Filozofija", "author": "Sokrat", "note": "parafraza" }
+  },
+  {
+    "id": 36,
+    "category": "književnost",
+    "text": "Čovek ___ prošlost ne zato što ___ da je ____, već zato što ___ da je ___.",
+    "missing": ["pamti", "želi", "sačuva", "ne ume", "razume"],
+    "full": "Čovek pamti prošlost ne zato što želi da je sačuva, već zato što ne ume da je razume.",
+    "source": { "type": "Književnost", "author": "Danilo Kiš", "note": "parafraza" }
+  },
+  {
+    "id": 37,
+    "category": "filozofija",
+    "text": "Strah ne ___ stvarnost, već ___ način na koji je ___.",
+    "missing": ["menja", "oblikuje", "vidimo"],
+    "full": "Strah ne menja stvarnost, već oblikuje način na koji je vidimo.",
+    "source": { "type": "Filozofija", "author": "Martin Hajdeger", "note": "parafraza" }
+  },
+  {
+    "id": 38,
+    "category": "književnost",
+    "text": "Čovek ___ bliskost ne onda kada ___, već kada ___ da ___.",
+    "missing": ["nalazi", "govori", "prestane", "se skriva"],
+    "full": "Čovek nalazi bliskost ne onda kada govori, već kada prestane da se skriva.",
+    "source": { "type": "Književnost", "author": "Franz Kafka", "note": "parafraza" }
+  },
+  {
+    "id": 39,
+    "category": "filozofija",
+    "text": "Znanje koje ___ sa ___ ne vodi ka ___, već ka ___.",
+    "missing": ["nije", "sumnjom", "mudrosti", "dogmi"],
+    "full": "Znanje koje nije sa sumnjom ne vodi ka mudrosti, već ka dogmi.",
+    "source": { "type": "Filozofija", "author": "Karl Popper", "note": "parafraza" }
+  },
+  {
+    "id": 40,
+    "category": "književnost",
+    "text": "Čovek ___ smisao tek kada ___ da život ne ___, već se ___.",
+    "missing": ["pronalazi", "shvati", "objašnjava", "živi"],
+    "full": "Čovek pronalazi smisao tek kada shvati da život ne objašnjava, već se živi.",
+    "source": { "type": "Književnost", "author": "Albert Kami", "note": "parafraza" }
+  },
+
+  {
+    "id": 41,
+    "category": "filozofija",
+    "text": "Čovek ___ istinu ne kada ___ odgovore, već kada ___ da ___ prava ___.",
+    "missing": ["nalazi", "dobije", "prestane", "postavlja", "pitanja"],
+    "full": "Čovek nalazi istinu ne kada dobije odgovore, već kada prestane da postavlja pogrešna pitanja.",
+    "source": { "type": "Filozofija", "author": "Ludwig Wittgenstein", "note": "parafraza" }
+  },
+  {
+    "id": 42,
+    "category": "književnost",
+    "text": "Čovek ___ svoje ___ tek kada ___ da ih je ___ iz ___.",
+    "missing": ["čuje", "misli", "shvati", "govorio", "straha"],
+    "full": "Čovek čuje svoje misli tek kada shvati da ih je govorio iz straha.",
+    "source": { "type": "Književnost", "author": "Samuel Beket", "note": "parafraza" }
+  },
+  {
+    "id": 43,
+    "category": "filozofija",
+    "text": "Odgovornost ne ___ iz ___, već iz ___ da se ___ posledice ___.",
+    "missing": ["nastaje", "pravila", "spremnosti", "prihvate", "izbora"],
+    "full": "Odgovornost ne nastaje iz pravila, već iz spremnosti da se prihvate posledice izbora.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+  {
+    "id": 44,
+    "category": "književnost",
+    "text": "Čovek ___ sebe najviše onda kada ___ da mora ___ ono što ___.",
+    "missing": ["izdaje", "shvati", "priznati", "jeste"],
+    "full": "Čovek izdaje sebe najviše onda kada shvati da mora priznati ono što jeste.",
+    "source": { "type": "Književnost", "author": "Fjodor Dostojevski", "note": "parafraza" }
+  },
+  {
+    "id": 45,
+    "category": "filozofija",
+    "text": "Sloboda bez ___ postaje ___, jer ___ prestaje da bude ___.",
+    "missing": ["svesti", "iluzija", "tada", "izbor"],
+    "full": "Sloboda bez svesti postaje iluzija, jer tada prestaje da bude izbor.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+  {
+    "id": 46,
+    "category": "književnost",
+    "text": "Čovek ___ druge onoliko koliko ___ da ___ sopstvene ___.",
+    "missing": ["razume", "ume", "prihvati", "slabosti"],
+    "full": "Čovek razume druge onoliko koliko ume da prihvati sopstvene slabosti.",
+    "source": { "type": "Književnost", "author": "Herman Hese", "note": "parafraza" }
+  },
+  {
+    "id": 47,
+    "category": "filozofija",
+    "text": "Najopasnija ___ je ona koja ___ kao ___ i ___ da je ___.",
+    "missing": ["greška", "dolazi", "istina", "odbija", "ispitana"],
+    "full": "Najopasnija greška je ona koja dolazi kao istina i odbija da je ispitana.",
+    "source": { "type": "Filozofija", "author": "Karl Popper", "note": "parafraza" }
+  },
+  {
+    "id": 48,
+    "category": "književnost",
+    "text": "Čovek ___ tišinu tek kada ___ da nema ___ da ___.",
+    "missing": ["čuje", "shvati", "više", "beži"],
+    "full": "Čovek čuje tišinu tek kada shvati da nema više gde da beži.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+  {
+    "id": 49,
+    "category": "filozofija",
+    "text": "Sumnja nije ___ vere, već ___ njenog ___.",
+    "missing": ["neprijatelj", "uslov", "postojanja"],
+    "full": "Sumnja nije neprijatelj vere, već uslov njenog postojanja.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 50,
+    "category": "književnost",
+    "text": "Čovek ___ život tek kada ___ da ga ___ onako kako ___.",
+    "missing": ["razume", "shvati", "ne živi", "želi"],
+    "full": "Čovek razume život tek kada shvati da ga ne živi onako kako želi.",
+    "source": { "type": "Književnost", "author": "Marcel Proust", "note": "parafraza" }
+  },
+
+  {
+    "id": 51,
+    "category": "filozofija",
+    "text": "Moć bez ___ ne ___ svet, već ___ ono što ___ krhko ___.",
+    "missing": ["mudrosti", "menja", "razara", "je", "u njemu"],
+    "full": "Moć bez mudrosti ne menja svet, već razara ono što je u njemu krhko.",
+    "source": { "type": "Filozofija", "author": "Hannah Arendt", "note": "parafraza" }
+  },
+  {
+    "id": 52,
+    "category": "književnost",
+    "text": "Čovek ___ bol ne kada ___, već kada ___ da ___.",
+    "missing": ["prevazilazi", "zaboravi", "prestane", "beži"],
+    "full": "Čovek prevazilazi bol ne kada zaboravi, već kada prestane da beži.",
+    "source": { "type": "Književnost", "author": "Ernest Hemingvej", "note": "parafraza" }
+  },
+  {
+    "id": 53,
+    "category": "filozofija",
+    "text": "Razum koji ___ granice ___ prestaje da bude ___.",
+    "missing": ["ne priznaje", "sebe", "razum"],
+    "full": "Razum koji ne priznaje granice sebe prestaje da bude razum.",
+    "source": { "type": "Filozofija", "author": "Immanuel Kant", "note": "parafraza" }
+  },
+  {
+    "id": 54,
+    "category": "književnost",
+    "text": "Čovek ___ mir ne onda kada ___ svet, već kada ___ sebe u ___.",
+    "missing": ["nalazi", "razume", "prihvati", "njemu"],
+    "full": "Čovek nalazi mir ne onda kada razume svet, već kada prihvati sebe u njemu.",
+    "source": { "type": "Književnost", "author": "Lav Tolstoj", "note": "parafraza" }
+  },
+  {
+    "id": 55,
+    "category": "filozofija",
+    "text": "Istina koja ___ bez ___ postaje ___, a ne ___.",
+    "missing": ["dolazi", "empatije", "oružje", "razumevanje"],
+    "full": "Istina koja dolazi bez empatije postaje oružje, a ne razumevanje.",
+    "source": { "type": "Filozofija", "author": "Aristotel", "note": "parafraza" }
+  },
+  {
+    "id": 56,
+    "category": "književnost",
+    "text": "Čovek ___ sreću tek kada ___ da ona ne ___, već se ___.",
+    "missing": ["razume", "shvati", "čeka", "gradi"],
+    "full": "Čovek razume sreću tek kada shvati da ona ne čeka, već se gradi.",
+    "source": { "type": "Književnost", "author": "Erich Maria Remarque", "note": "parafraza" }
+  },
+  {
+    "id": 57,
+    "category": "filozofija",
+    "text": "Sloboda ___ smisao kada ___ da se ___ od ___.",
+    "missing": ["dobija", "prestane", "beži", "sebe"],
+    "full": "Sloboda dobija smisao kada prestane da se beži od sebe.",
+    "source": { "type": "Filozofija", "author": "Erich Fromm", "note": "parafraza" }
+  },
+  {
+    "id": 58,
+    "category": "književnost",
+    "text": "Čovek ___ svoje ___ tek kada ___ da ih je ___ pogrešno ___.",
+    "missing": ["razume", "reči", "shvati", "izgovarao", "drugima"],
+    "full": "Čovek razume svoje reči tek kada shvati da ih je izgovarao pogrešno drugima.",
+    "source": { "type": "Književnost", "author": "Danilo Kiš", "note": "parafraza" }
+  },
+  {
+    "id": 59,
+    "category": "filozofija",
+    "text": "Najdublja ___ dolazi ne iz ___, već iz ___ da ___ smisla ___.",
+    "missing": ["praznina", "gubitka", "osećaja", "nema", "više"],
+    "full": "Najdublja praznina dolazi ne iz gubitka, već iz osećaja da nema više smisla.",
+    "source": { "type": "Filozofija", "author": "Viktor Frankl", "note": "parafraza" }
+  },
+  {
+    "id": 60,
+    "category": "književnost",
+    "text": "Čovek ___ sam tek kada ___ da više ___ kome da ___.",
+    "missing": ["ostaje", "shvati", "nema", "veruje"],
+    "full": "Čovek ostaje sam tek kada shvati da više nema kome da veruje.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+
+  {
+    "id": 61,
+    "category": "filozofija",
+    "text": "Istinska ___ ne ___ buku, jer ___ dolazi iz ___.",
+    "missing": ["mudrost", "pravi", "ona", "tišine"],
+    "full": "Istinska mudrost ne pravi buku, jer ona dolazi iz tišine.",
+    "source": { "type": "Filozofija", "author": "Lao Ce", "note": "parafraza" }
+  },
+  {
+    "id": 62,
+    "category": "književnost",
+    "text": "Čovek ___ prošlost jer ___ da je ___, a ne zato što ___ da ___.",
+    "missing": ["nosi", "veruje", "razume", "ne može", "zaboravi"],
+    "full": "Čovek nosi prošlost jer veruje da je razume, a ne zato što ne može da zaboravi.",
+    "source": { "type": "Književnost", "author": "Franz Kafka", "note": "parafraza" }
+  },
+  {
+    "id": 63,
+    "category": "filozofija",
+    "text": "Spoznaja ___ nije ___, već ___ da se ___ u ___.",
+    "missing": ["sebe", "slabost", "hrabrost", "pogleda", "istinu"],
+    "full": "Spoznaja sebe nije slabost, već hrabrost da se pogleda u istinu.",
+    "source": { "type": "Filozofija", "author": "Platon", "note": "parafraza" }
+  },
+  {
+    "id": 64,
+    "category": "književnost",
+    "text": "Čovek ___ svet onako kako ___ sopstvene ___.",
+    "missing": ["doživljava", "nosi", "rane"],
+    "full": "Čovek doživljava svet onako kako nosi sopstvene rane.",
+    "source": { "type": "Književnost", "author": "Herman Hese", "note": "parafraza" }
+  },
+  {
+    "id": 65,
+    "category": "filozofija",
+    "text": "Odgovornost ___ tek onda kada ___ da se ___ iza ___.",
+    "missing": ["počinje", "prestane", "skriva", "drugih"],
+    "full": "Odgovornost počinje tek onda kada prestane da se skriva iza drugih.",
+    "source": { "type": "Filozofija", "author": "Karl Jaspers", "note": "parafraza" }
+  },
+  {
+    "id": 66,
+    "category": "književnost",
+    "text": "Čovek ___ smisao ne u ___, već u ___ kako ih ___.",
+    "missing": ["nalazi", "događajima", "načinu", "nosi"],
+    "full": "Čovek nalazi smisao ne u događajima, već u načinu kako ih nosi.",
+    "source": { "type": "Književnost", "author": "Albert Kami", "note": "parafraza" }
+  },
+  {
+    "id": 67,
+    "category": "filozofija",
+    "text": "Najveća ___ nije u ___, već u ___ da se ___ ono što ___.",
+    "missing": ["snaga", "znanju", "spremnosti", "živi", "shvata"],
+    "full": "Najveća snaga nije u znanju, već u spremnosti da se živi ono što se shvata.",
+    "source": { "type": "Filozofija", "author": "Sokrat", "note": "parafraza" }
+  },
+  {
+    "id": 68,
+    "category": "književnost",
+    "text": "Čovek ___ bliskost tek kada ___ da ne mora ___ da bi ___.",
+    "missing": ["doživi", "shvati", "glumi", "bio prihvaćen"],
+    "full": "Čovek doživi bliskost tek kada shvati da ne mora glumiti da bi bio prihvaćen.",
+    "source": { "type": "Književnost", "author": "Erich Fromm", "note": "parafraza" }
+  },
+  {
+    "id": 69,
+    "category": "filozofija",
+    "text": "Istina ___ retko ___, ali uvek ___ da se ___.",
+    "missing": ["je", "prijatna", "zahteva", "prihvati"],
+    "full": "Istina je retko prijatna, ali uvek zahteva da se prihvati.",
+    "source": { "type": "Filozofija", "author": "Friedrich Nietzsche", "note": "parafraza" }
+  },
+  {
+    "id": 70,
+    "category": "književnost",
+    "text": "Čovek ___ sebe tek kada ___ da više ___ šta treba da ___.",
+    "missing": ["čuje", "shvati", "ne zna", "dokazuje"],
+    "full": "Čovek čuje sebe tek kada shvati da više ne zna šta treba da dokazuje.",
+    "source": { "type": "Književnost", "author": "Milan Kundera", "note": "parafraza" }
+  },
+
+  {
+    "id": 71,
+    "category": "filozofija",
+    "text": "Čovek ___ zrelost ne kada ___ odgovore, već kada ___ da sa ___ živi ___.",
+    "missing": ["dostiže", "pronađe", "nauči", "pitanjima", "mirno"],
+    "full": "Čovek dostiže zrelost ne kada pronađe odgovore, već kada nauči da sa pitanjima živi mirno.",
+    "source": { "type": "Filozofija", "author": "Karl Jaspers", "note": "parafraza" }
+  },
+  {
+    "id": 72,
+    "category": "književnost",
+    "text": "Čovek ___ sam sebi tek kada ___ da više ___ kome da ___.",
+    "missing": ["postaje", "shvati", "nema", "se pravda"],
+    "full": "Čovek postaje sam sebi tek kada shvati da više nema kome da se pravda.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+  {
+    "id": 73,
+    "category": "filozofija",
+    "text": "Sloboda ___ teret samo onima koji ___ da ___ odgovornost ___.",
+    "missing": ["postaje", "odbacuju", "prihvate", "za sebe"],
+    "full": "Sloboda postaje teret samo onima koji odbacuju da prihvate odgovornost za sebe.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+  {
+    "id": 74,
+    "category": "književnost",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da ga ___ više ___.",
+    "missing": ["sazna", "prestane", "laž", "ne štiti"],
+    "full": "Čovek sazna istinu o sebi tek kada prestane da ga laž više ne štiti.",
+    "source": { "type": "Književnost", "author": "Fjodor Dostojevski", "note": "parafraza" }
+  },
+  {
+    "id": 75,
+    "category": "filozofija",
+    "text": "Razmišljanje koje ___ sumnju prestaje da bude ___ i postaje ___.",
+    "missing": ["odbacuje", "razmišljanje", "uverenje"],
+    "full": "Razmišljanje koje odbacuje sumnju prestaje da bude razmišljanje i postaje uverenje.",
+    "source": { "type": "Filozofija", "author": "René Descartes", "note": "parafraza" }
+  },
+  {
+    "id": 76,
+    "category": "književnost",
+    "text": "Čovek ___ mir tek kada ___ da ne mora ___ sve da bi ___.",
+    "missing": ["nalazi", "shvati", "razume", "živeo"],
+    "full": "Čovek nalazi mir tek kada shvati da ne mora razume sve da bi živeo.",
+    "source": { "type": "Književnost", "author": "Albert Kami", "note": "parafraza" }
+  },
+  {
+    "id": 77,
+    "category": "filozofija",
+    "text": "Najveća ___ čoveka nije u ___ sveta, već u ___ prema ___.",
+    "missing": ["snaga", "kontroli", "odnosu", "sebi"],
+    "full": "Najveća snaga čoveka nije u kontroli sveta, već u odnosu prema sebi.",
+    "source": { "type": "Filozofija", "author": "Epiktet", "note": "parafraza" }
+  },
+  {
+    "id": 78,
+    "category": "književnost",
+    "text": "Čovek ___ sopstveni ___ tek kada ___ da ga je ___ previše ___.",
+    "missing": ["čuje", "glas", "shvati", "ignorisao", "dugo"],
+    "full": "Čovek čuje sopstveni glas tek kada shvati da ga je ignorisao previše dugo.",
+    "source": { "type": "Književnost", "author": "Herman Hese", "note": "parafraza" }
+  },
+  {
+    "id": 79,
+    "category": "filozofija",
+    "text": "Znanje koje ___ primenu ostaje ___ bez ___.",
+    "missing": ["nema", "teorija", "smisla"],
+    "full": "Znanje koje nema primenu ostaje teorija bez smisla.",
+    "source": { "type": "Filozofija", "author": "Aristotel", "note": "parafraza" }
+  },
+  {
+    "id": 80,
+    "category": "književnost",
+    "text": "Čovek ___ vreme tek kada ___ da je ___ prolazno, a on ___.",
+    "missing": ["ceni", "shvati", "sve", "ostaje"],
+    "full": "Čovek ceni vreme tek kada shvati da je sve prolazno, a on ostaje.",
+    "source": { "type": "Književnost", "author": "Marcel Proust", "note": "parafraza" }
+  },
+
+  {
+    "id": 81,
+    "category": "filozofija",
+    "text": "Odgovornost ___ kada ___ da se ___ krivica ___.",
+    "missing": ["počinje", "prestane", "traži", "drugde"],
+    "full": "Odgovornost počinje kada prestane da se traži krivica drugde.",
+    "source": { "type": "Filozofija", "author": "Hannah Arendt", "note": "parafraza" }
+  },
+  {
+    "id": 82,
+    "category": "književnost",
+    "text": "Čovek ___ sebe najčešće onda kada ___ da mora ___ ono što ___.",
+    "missing": ["gubi", "shvati", "menjati", "jeste"],
+    "full": "Čovek gubi sebe najčešće onda kada shvati da mora menjati ono što jeste.",
+    "source": { "type": "Književnost", "author": "Franz Kafka", "note": "parafraza" }
+  },
+  {
+    "id": 83,
+    "category": "filozofija",
+    "text": "Istina ___ slobodu samo onima koji ___ da je ___ ___.",
+    "missing": ["donosi", "mogu", "nose", "do kraja"],
+    "full": "Istina donosi slobodu samo onima koji mogu da je nose do kraja.",
+    "source": { "type": "Filozofija", "author": "Friedrich Nietzsche", "note": "parafraza" }
+  },
+  {
+    "id": 84,
+    "category": "književnost",
+    "text": "Čovek ___ bliskost ne u ___, već u ___ da bude ___.",
+    "missing": ["nalazi", "rečima", "hrabrosti", "ranjiv"],
+    "full": "Čovek nalazi bliskost ne u rečima, već u hrabrosti da bude ranjiv.",
+    "source": { "type": "Književnost", "author": "Erich Fromm", "note": "parafraza" }
+  },
+  {
+    "id": 85,
+    "category": "filozofija",
+    "text": "Svest bez ___ postaje ___, a akcija bez ___ ___.",
+    "missing": ["delovanja", "pasivnost", "svesti", "haos"],
+    "full": "Svest bez delovanja postaje pasivnost, a akcija bez svesti haos.",
+    "source": { "type": "Filozofija", "author": "Immanuel Kant", "note": "parafraza" }
+  },
+  {
+    "id": 86,
+    "category": "književnost",
+    "text": "Čovek ___ tišinu tek kada ___ da su ___ već ___.",
+    "missing": ["razume", "shvati", "reči", "potrošene"],
+    "full": "Čovek razume tišinu tek kada shvati da su reči već potrošene.",
+    "source": { "type": "Književnost", "author": "Samuel Beket", "note": "parafraza" }
+  },
+  {
+    "id": 87,
+    "category": "filozofija",
+    "text": "Najveća ___ nije u ___ bola, već u ___ kroz ___.",
+    "missing": ["snaga", "izbegavanju", "prolasku", "njega"],
+    "full": "Najveća snaga nije u izbegavanju bola, već u prolasku kroz njega.",
+    "source": { "type": "Filozofija", "author": "Viktor Frankl", "note": "parafraza" }
+  },
+  {
+    "id": 88,
+    "category": "književnost",
+    "text": "Čovek ___ prošlost dokle god ___ da je ___ ono što ___.",
+    "missing": ["nosi", "veruje", "definiše", "jeste"],
+    "full": "Čovek nosi prošlost  god veruje da je ona ono što jeste.",
+    "source": { "type": "Književnost", "author": "Danilo Kiš", "note": "parafraza" }
+  },
+  {
+    "id": 89,
+    "category": "filozofija",
+    "text": "Sloboda ___ kada ___ da se ___ iza ___.",
+    "missing": ["nestaje", "pokuša", "sakrije", "straha"],
+    "full": "Sloboda nestaje kada pokuša da se sakrije iza straha.",
+    "source": { "type": "Filozofija", "author": "Erich Fromm", "note": "parafraza" }
+  },
+  {
+    "id": 90,
+    "category": "književnost",
+    "text": "Čovek ___ smisao tek kada ___ da ne mora ___ svima ___.",
+    "missing": ["pronađe", "shvati", "objasniti", "sve"],
+    "full": "Čovek pronađe smisao tek kada shvati da ne mora objasniti svima sve.",
+    "source": { "type": "Književnost", "author": "Milan Kundera", "note": "parafraza" }
+  },
+
+  {
+    "id": 91,
+    "category": "filozofija",
+    "text": "Razum ___ vrednost tek kada ___ da ne može ___ sve ___.",
+    "missing": ["dobija", "prizna", "objasniti", "do kraja"],
+    "full": "Razum dobija vrednost tek kada prizna da ne može objasniti sve do kraja.",
+    "source": { "type": "Filozofija", "author": "Blaise Pascal", "note": "parafraza" }
+  },
+  {
+    "id": 92,
+    "category": "književnost",
+    "text": "Čovek ___ sebe onda kada ___ da ne mora ___ ono što ___.",
+    "missing": ["spašava", "shvati", "postati", "drugi očekuju"],
+    "full": "Čovek spašava sebe onda kada shvati da ne mora postati ono što drugi očekuju.",
+    "source": { "type": "Književnost", "author": "Herman Hese", "note": "parafraza" }
+  },
+  {
+    "id": 93,
+    "category": "filozofija",
+    "text": "Istina ___ smisao samo ako ___ da bude ___ ___.",
+    "missing": ["ima", "može", "izrečena", "tiho"],
+    "full": "Istina ima smisao samo ako može da bude izrečena tiho.",
+    "source": { "type": "Filozofija", "author": "Lao Ce", "note": "parafraza" }
+  },
+  {
+    "id": 94,
+    "category": "književnost",
+    "text": "Čovek ___ snagu ne u ___, već u ___ da ___.",
+    "missing": ["nalazi", "pobedi", "spremnosti", "nastavi"],
+    "full": "Čovek nalazi snagu ne u pobedi, već u spremnosti da nastavi.",
+    "source": { "type": "Književnost", "author": "Ernest Hemingvej", "note": "parafraza" }
+  },
+  {
+    "id": 95,
+    "category": "filozofija",
+    "text": "Moral bez ___ postaje ___, jer ___ zaboravlja ___.",
+    "missing": ["razumevanja", "krutost", "tada", "čoveka"],
+    "full": "Moral bez razumevanja postaje krutost, jer tada zaboravlja čoveka.",
+    "source": { "type": "Filozofija", "author": "Aristotel", "note": "parafraza" }
+  },
+  {
+    "id": 96,
+    "category": "književnost",
+    "text": "Čovek ___ mir ne zato što ___ odgovore, već zato što ___ da ___ bez ___.",
+    "missing": ["nalazi", "ima", "prihvati", "živi", "njih"],
+    "full": "Čovek nalazi mir ne zato što ima odgovore, već zato što prihvati da živi bez njih.",
+    "source": { "type": "Književnost", "author": "Albert Kami", "note": "parafraza" }
+  },
+  {
+    "id": 97,
+    "category": "filozofija",
+    "text": "Sloboda ___ oblik tek kada ___ da se ___ posledice ___.",
+    "missing": ["dobija", "prihvati", "nose", "izbora"],
+    "full": "Sloboda dobija oblik tek kada se prihvate posledice izbora.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+  {
+    "id": 98,
+    "category": "književnost",
+    "text": "Čovek ___ vreme najčešće onda kada ___ da ga ___ ___.",
+    "missing": ["gubi", "veruje", "ima", "beskonačno"],
+    "full": "Čovek gubi vreme najčešće onda kada veruje da ga ima beskonačno.",
+    "source": { "type": "Književnost", "author": "Marcel Proust", "note": "parafraza" }
+  },
+  {
+    "id": 99,
+    "category": "filozofija",
+    "text": "Spoznaja ___ nije kraj ___, već početak ___.",
+    "missing": ["sebe", "puta", "odgovornosti"],
+    "full": "Spoznaja sebe nije kraj puta, već početak odgovornosti.",
+    "source": { "type": "Filozofija", "author": "Sokrat", "note": "parafraza" }
+  },
+  {
+    "id": 100,
+    "category": "književnost",
+    "text": "Čovek ___ sreću tek kada ___ da ona ne ___ spolja, već ___.",
+    "missing": ["prepozna", "shvati", "dolazi", "nastaje"],
+    "full": "Čovek prepozna sreću tek kada shvati da ona ne dolazi spolja, već nastaje.",
+    "source": { "type": "Književnost", "author": "Lav Tolstoj", "note": "parafraza" }
+  },
+
+  {
+    "id": 101,
+    "category": "psihologija",
+    "text": "Čovek ___ emocije ne zato što ___ da ih ____, već zato što ___ da će ga ___.",
+    "missing": ["potiskuje", "ne ume", "izrazi", "veruje", "preplaviti"],
+    "full": "Čovek potiskuje emocije ne zato što ne ume da ih izrazi, već zato što veruje da će ga preplaviti.",
+    "source": { "type": "Psihologija", "author": "Sigmund Freud", "note": "parafraza" }
+  },
+  {
+    "id": 102,
+    "category": "psihologija",
+    "text": "Ono što čovek ___ kod drugih često je ono što ___ da ___ kod ___.",
+    "missing": ["osuđuje", "odbija", "vidi", "sebe"],
+    "full": "Ono što čovek osuđuje kod drugih često je ono što odbija da vidi kod sebe.",
+    "source": { "type": "Psihologija", "author": "Carl Gustav Jung", "note": "parafraza" }
+  },
+  {
+    "id": 103,
+    "category": "filozofija",
+    "text": "Sloboda ___ opterećenje samo onima koji ___ da ___ izbore ___.",
+    "missing": ["postaje", "ne žele", "preuzmu", "svoje"],
+    "full": "Sloboda postaje opterećenje samo onima koji ne žele da preuzmu svoje izbore.",
+    "source": { "type": "Filozofija", "author": "Erich Fromm", "note": "parafraza" }
+  },
+  {
+    "id": 104,
+    "category": "psihologija",
+    "text": "Anksioznost se ne ___ zbog ___, već zbog ___ koje im ___.",
+    "missing": ["javlja", "događaja", "značenja", "dajemo"],
+    "full": "Anksioznost se ne javlja zbog događaja, već zbog značenja koje im dajemo.",
+    "source": { "type": "Psihologija", "author": "Albert Ellis", "note": "parafraza" }
+  },
+  {
+    "id": 105,
+    "category": "književnost",
+    "text": "Čovek ___ sebe najviše onda kada ___ da mora ___ ono što ___.",
+    "missing": ["izgubi", "veruje", "sakriti", "oseća"],
+    "full": "Čovek izgubi sebe najviše onda kada veruje da mora sakriti ono što oseća.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+  {
+    "id": 106,
+    "category": "psihologija",
+    "text": "Samopouzdanje ne ___ iz ___, već iz ___ da se ___ sa ___.",
+    "missing": ["nastaje", "uspeha", "spremnosti", "suoči", "nesigurnošću"],
+    "full": "Samopouzdanje ne nastaje iz uspeha, već iz spremnosti da se suoči sa nesigurnošću.",
+    "source": { "type": "Psihologija", "author": "Alfred Adler", "note": "parafraza" }
+  },
+  {
+    "id": 107,
+    "category": "filozofija",
+    "text": "Istina ___ boli ne zato što ___, već zato što ___ iluzije ___.",
+    "missing": ["najviše", "je surova", "ruši", "o sebi"],
+    "full": "Istina najviše boli ne zato što je surova, već zato što ruši iluzije o sebi.",
+    "source": { "type": "Filozofija", "author": "Friedrich Nietzsche", "note": "parafraza" }
+  },
+  {
+    "id": 108,
+    "category": "psihologija",
+    "text": "Čovek ___ kontrolu najviše onda kada ___ da se ___ od ___.",
+    "missing": ["traži", "plaši", "prepusti", "neizvesnosti"],
+    "full": "Čovek traži kontrolu najviše onda kada se plaši da se prepusti neizvesnosti.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+  {
+    "id": 109,
+    "category": "književnost",
+    "text": "Čovek ___ snagu ne u ___, već u ___ da ___ i ___.",
+    "missing": ["nalazi", "otporu", "hrabrosti", "oseća", "prizna"],
+    "full": "Čovek nalazi snagu ne u otporu, već u hrabrosti da oseća i prizna.",
+    "source": { "type": "Književnost", "author": "Herman Hese", "note": "parafraza" }
+  },
+  {
+    "id": 110,
+    "category": "psihologija",
+    "text": "Trauma ne ___ prošlost, već ___ način na koji se ___ ___.",
+    "missing": ["ostaje", "menja", "doživljava", "sadašnjost"],
+    "full": "Trauma ne ostaje u prošlosti, već menja način na koji se doživljava sadašnjost.",
+    "source": { "type": "Psihologija", "author": "Bessel van der Kolk", "note": "parafraza" }
+  },
+
+  {
+    "id": 111,
+    "category": "filozofija",
+    "text": "Čovek ___ mir ne kada ___ odgovore, već kada ___ da ___ bez ___.",
+    "missing": ["nalazi", "dobije", "prihvati", "živi", "njih"],
+    "full": "Čovek nalazi mir ne kada dobije odgovore, već kada prihvati da živi bez njih.",
+    "source": { "type": "Filozofija", "author": "Albert Kami", "note": "parafraza" }
+  },
+  {
+    "id": 112,
+    "category": "psihologija",
+    "text": "Empatija ne ___ saglasnost, već ___ razumevanje ___.",
+    "missing": ["zahteva", "pretpostavlja", "drugog"],
+    "full": "Empatija ne zahteva saglasnost, već pretpostavlja razumevanje drugog.",
+    "source": { "type": "Psihologija", "author": "Carl Rogers", "note": "parafraza" }
+  },
+  {
+    "id": 113,
+    "category": "književnost",
+    "text": "Čovek ___ sam tek kada ___ da više ___ kome da ___.",
+    "missing": ["ostaje", "shvati", "nema", "se pravda"],
+    "full": "Čovek ostaje sam tek kada shvati da više nema kome da se pravda.",
+    "source": { "type": "Književnost", "author": "Milan Kundera", "note": "parafraza" }
+  },
+  {
+    "id": 114,
+    "category": "psihologija",
+    "text": "Ljutnja često ___ tugu, jer je ___ lakše ___.",
+    "missing": ["skriva", "nju", "osećati"],
+    "full": "Ljutnja često skriva tugu, jer je nju lakše osećati.",
+    "source": { "type": "Psihologija", "author": "Daniel Goleman", "note": "parafraza" }
+  },
+  {
+    "id": 115,
+    "category": "filozofija",
+    "text": "Odgovornost ___ tek kada ___ da se ___ iza ___.",
+    "missing": ["počinje", "prestane", "skriva", "okolnosti"],
+    "full": "Odgovornost počinje tek kada prestane da se skriva iza okolnosti.",
+    "source": { "type": "Filozofija", "author": "Karl Jaspers", "note": "parafraza" }
+  },
+  {
+    "id": 116,
+    "category": "psihologija",
+    "text": "Čovek ___ samopoštovanje ne kroz ___, već kroz ___ granica ___.",
+    "missing": ["gradi", "odobravanje", "postavljanje", "drugima"],
+    "full": "Čovek gradi samopoštovanje ne kroz odobravanje, već kroz postavljanje granica drugima.",
+    "source": { "type": "Psihologija", "author": "Nathaniel Branden", "note": "parafraza" }
+  },
+  {
+    "id": 117,
+    "category": "književnost",
+    "text": "Čovek ___ prošlost  god ___ da je ona ___ što ___.",
+    "missing": ["nosi", "veruje", "jedino", "ima"],
+    "full": "Čovek nosi prošlost dokle god veruje da je ona jedino što ima.",
+    "source": { "type": "Književnost", "author": "Danilo Kiš", "note": "parafraza" }
+  },
+  {
+    "id": 118,
+    "category": "psihologija",
+    "text": "Strah ne ___ budućnost, već ___ sadašnjost ___.",
+    "missing": ["predviđa", "zarobljava", "u mislima"],
+    "full": "Strah ne predviđa budućnost, već zarobljava sadašnjost u mislima.",
+    "source": { "type": "Psihologija", "author": "Aaron Beck", "note": "parafraza" }
+  },
+  {
+    "id": 119,
+    "category": "filozofija",
+    "text": "Sloboda ___ vrednost samo ako ___ da se ___ ___.",
+    "missing": ["ima", "može", "nosi", "odgovorno"],
+    "full": "Sloboda ima vrednost samo ako može da se nosi odgovorno.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+  {
+    "id": 120,
+    "category": "psihologija",
+    "text": "Čovek ___ sebe najteže onda kada ___ da je ___ ___.",
+    "missing": ["prihvata", "shvati", "ranjiv", "ljudski"],
+    "full": "Čovek prihvata sebe najteže onda kada shvati da je ranjiv i ljudski.",
+    "source": { "type": "Psihologija", "author": "Brené Brown", "note": "parafraza" }
+  },
+
+  {
+    "id": 121,
+    "category": "književnost",
+    "text": "Čovek ___ smisao ne u ___, već u ___ kako ih ___.",
+    "missing": ["nalazi", "rečima", "načinu", "živi"],
+    "full": "Čovek nalazi smisao ne u rečima, već u načinu kako ih živi.",
+    "source": { "type": "Književnost", "author": "Lav Tolstoj", "note": "parafraza" }
+  },
+  {
+    "id": 122,
+    "category": "psihologija",
+    "text": "Nesigurnost ne ___ slabost, već ___ za ___.",
+    "missing": ["znači", "signal", "rast"],
+    "full": "Nesigurnost ne znači slabost, već signal za rast.",
+    "source": { "type": "Psihologija", "author": "Abraham Maslow", "note": "parafraza" }
+  },
+  {
+    "id": 123,
+    "category": "filozofija",
+    "text": "Spoznaja ___ nije kraj ___, već početak ___.",
+    "missing": ["sebe", "puta", "odgovornosti"],
+    "full": "Spoznaja sebe nije kraj puta, već početak odgovornosti.",
+    "source": { "type": "Filozofija", "author": "Sokrat", "note": "parafraza" }
+  },
+  {
+    "id": 124,
+    "category": "psihologija",
+    "text": "Čovek ___ ponavljanje ne zato što ___, već zato što ___ da ___.",
+    "missing": ["bira", "ne vidi", "se plaši", "promeni"],
+    "full": "Čovek bira ponavljanje ne zato što ne vidi, već zato što se plaši da promeni.",
+    "source": { "type": "Psihologija", "author": "Carl Jung", "note": "parafraza" }
+  },
+  {
+    "id": 125,
+    "category": "književnost",
+    "text": "Čovek ___ sreću tek kada ___ da ona ne ___, već se ___.",
+    "missing": ["razume", "shvati", "čeka", "gradi"],
+    "full": "Čovek razume sreću tek kada shvati da ona ne čeka, već se gradi.",
+    "source": { "type": "Književnost", "author": "Erich Maria Remarque", "note": "parafraza" }
+  },
+  {
+    "id": 126,
+    "category": "psihologija",
+    "text": "Zrelost ne ___ odsustvo ___, već sposobnost da se ___ ___.",
+    "missing": ["znači", "straha", "sa njim", "živi"],
+    "full": "Zrelost ne znači odsustvo straha, već sposobnost da se sa njim živi.",
+    "source": { "type": "Psihologija", "author": "Rollo May", "note": "parafraza" }
+  },
+  {
+    "id": 127,
+    "category": "filozofija",
+    "text": "Istina ___ tišinu više nego ___, jer ___ da ___.",
+    "missing": ["voli", "buku", "zahteva", "se čuje"],
+    "full": "Istina voli tišinu više nego buku, jer zahteva da se čuje.",
+    "source": { "type": "Filozofija", "author": "Lao Ce", "note": "parafraza" }
+  },
+  {
+    "id": 128,
+    "category": "psihologija",
+    "text": "Čovek ___ odnose ne kroz ___, već kroz ___ da ___.",
+    "missing": ["gradi", "savete", "prisustvo", "sluša"],
+    "full": "Čovek gradi odnose ne kroz savete, već kroz prisustvo i slušanje.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+  {
+    "id": 129,
+    "category": "književnost",
+    "text": "Čovek ___ sam tek kada ___ da više ___ kome da ___.",
+    "missing": ["ostaje", "shvati", "nema", "se objašnjava"],
+    "full": "Čovek ostaje sam tek kada shvati da više nema kome da se objašnjava.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+  {
+    "id": 130,
+    "category": "psihologija",
+    "text": "Prihvatanje ne ___ odustajanje, već ___ sa ___.",
+    "missing": ["znači", "prestanak borbe", "realnošću"],
+    "full": "Prihvatanje ne znači odustajanje, već prestanak borbe sa realnošću.",
+    "source": { "type": "Psihologija", "author": "Carl Rogers", "note": "parafraza" }
+  },
+
+  {
+    "id": 131,
+    "category": "psihologija",
+    "text": "Čovek ___ promenu ne zato što ___ da ____, već zato što ___ da će ___.",
+    "missing": ["odlaže", "ne zna", "kako", "se plaši", "izgubiti"],
+    "full": "Čovek odlaže promenu ne zato što ne zna kako, već zato što se plaši da će nešto izgubiti.",
+    "source": { "type": "Psihologija", "author": "William James", "note": "parafraza" }
+  },
+  {
+    "id": 132,
+    "category": "psihologija",
+    "text": "Ego se ___ najčešće onda kada ___ da je ___ ___.",
+    "missing": ["brani", "oseti", "ugrožen", "iznutra"],
+    "full": "Ego se brani najčešće onda kada oseti da je ugrožen iznutra.",
+    "source": { "type": "Psihologija", "author": "Sigmund Freud", "note": "parafraza" }
+  },
+  {
+    "id": 133,
+    "category": "filozofija",
+    "text": "Sloboda ___ neizvesnost samo onima koji ___ da ___ kontrolu ___.",
+    "missing": ["donosi", "pokušavaju", "zadrže", "po svaku cenu"],
+    "full": "Sloboda donosi neizvesnost samo onima koji pokušavaju da zadrže kontrolu po svaku cenu.",
+    "source": { "type": "Filozofija", "author": "Erich Fromm", "note": "parafraza" }
+  },
+  {
+    "id": 134,
+    "category": "psihologija",
+    "text": "Samokritika postaje ___ kada ___ da ___ zaštiti ___.",
+    "missing": ["štetna", "prestane", "pomaže", "rast"],
+    "full": "Samokritika postaje štetna kada prestane da pomaže rast.",
+    "source": { "type": "Psihologija", "author": "Kristin Neff", "note": "parafraza" }
+  },
+  {
+    "id": 135,
+    "category": "književnost",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da se ___ iza ___.",
+    "missing": ["otkrije", "prestane", "krije", "rečima"],
+    "full": "Čovek otkrije istinu o sebi tek kada prestane da se krije iza reči.",
+    "source": { "type": "Književnost", "author": "Ivo Andrić", "note": "parafraza" }
+  },
+  {
+    "id": 136,
+    "category": "psihologija",
+    "text": "Nesvesno ne ___ greške, već ___ ono što ___ da ___.",
+    "missing": ["pravi", "ponavlja", "svesno", "prizna"],
+    "full": "Nesvesno ne pravi greške, već ponavlja ono što svesno ne želi da prizna.",
+    "source": { "type": "Psihologija", "author": "Carl Gustav Jung", "note": "parafraza" }
+  },
+  {
+    "id": 137,
+    "category": "filozofija",
+    "text": "Istina ___ hrabrost ne zato što ___, već zato što ___ da ___.",
+    "missing": ["zahteva", "je teška", "tera", "se menja"],
+    "full": "Istina zahteva hrabrost ne zato što je teška, već zato što tera da se menja.",
+    "source": { "type": "Filozofija", "author": "Sokrat", "note": "parafraza" }
+  },
+  {
+    "id": 138,
+    "category": "psihologija",
+    "text": "Perfekcionizam često ___ strah, jer ___ da ___ dovoljno ___.",
+    "missing": ["maskira", "veruje", "nikada", "dobro"],
+    "full": "Perfekcionizam često maskira strah, jer veruje da nikada nije dovoljno dobro.",
+    "source": { "type": "Psihologija", "author": "Brené Brown", "note": "parafraza" }
+  },
+  {
+    "id": 139,
+    "category": "književnost",
+    "text": "Čovek ___ mir ne onda kada ___ sve, već kada ___ da ___ ___.",
+    "missing": ["nalazi", "razume", "prihvati", "ne mora", "sve"],
+    "full": "Čovek nalazi mir ne onda kada razume sve, već kada prihvati da ne mora sve.",
+    "source": { "type": "Književnost", "author": "Albert Kami", "note": "parafraza" }
+  },
+  {
+    "id": 140,
+    "category": "psihologija",
+    "text": "Anksioznost se ___ kada ___ da se ___ sa ___.",
+    "missing": ["smanjuje", "nauči", "ostane", "neprijatnošću"],
+    "full": "Anksioznost se smanjuje kada se nauči da se ostane sa neprijatnošću.",
+    "source": { "type": "Psihologija", "author": "Steven Hayes", "note": "parafraza" }
+  },
+
+  {
+    "id": 141,
+    "category": "filozofija",
+    "text": "Sloboda ___ smisao tek kada ___ da se ___ odgovornost ___.",
+    "missing": ["dobija", "prihvati", "nosi", "svesno"],
+    "full": "Sloboda dobija smisao tek kada se prihvati da se odgovornost nosi svesno.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+  {
+    "id": 142,
+    "category": "psihologija",
+    "text": "Čovek ___ bliskost kada ___ da će ___ ako ___.",
+    "missing": ["izbegava", "veruje", "biti povređen", "se otvori"],
+    "full": "Čovek izbegava bliskost kada veruje da će biti povređen ako se otvori.",
+    "source": { "type": "Psihologija", "author": "John Bowlby", "note": "parafraza" }
+  },
+  {
+    "id": 143,
+    "category": "književnost",
+    "text": "Čovek ___ snagu ne u ___, već u ___ da ___.",
+    "missing": ["nalazi", "pobedi", "spremnosti", "ostane"],
+    "full": "Čovek nalazi snagu ne u pobedi, već u spremnosti da ostane.",
+    "source": { "type": "Književnost", "author": "Ernest Hemingvej", "note": "parafraza" }
+  },
+  {
+    "id": 144,
+    "category": "psihologija",
+    "text": "Projekcija ___ štiti ego, ali ___ odnose ___.",
+    "missing": ["privremeno", "dugoročno", "narušava"],
+    "full": "Projekcija privremeno štiti ego, ali dugoročno narušava odnose.",
+    "source": { "type": "Psihologija", "author": "Anna Freud", "note": "parafraza" }
+  },
+  {
+    "id": 145,
+    "category": "filozofija",
+    "text": "Razumevanje ___ počinje tek kada ___ da ne mora ___ ___.",
+    "missing": ["drugih", "prihvati", "biti", "u pravu"],
+    "full": "Razumevanje drugih počinje tek kada se prihvati da ne mora uvek biti u pravu.",
+    "source": { "type": "Filozofija", "author": "Epiktet", "note": "parafraza" }
+  },
+  {
+    "id": 146,
+    "category": "psihologija",
+    "text": "Samopouzdanje se ___ kada ___ da greška ne ___ vrednost ___.",
+    "missing": ["gradi", "shvati", "određuje", "ličnu"],
+    "full": "Samopouzdanje se gradi kada se shvati da greška ne određuje ličnu vrednost.",
+    "source": { "type": "Psihologija", "author": "Albert Bandura", "note": "parafraza" }
+  },
+  {
+    "id": 147,
+    "category": "književnost",
+    "text": "Čovek ___ vreme tek kada ___ da ga ___ ___.",
+    "missing": ["ceni", "shvati", "nema", "beskonačno"],
+    "full": "Čovek ceni vreme tek kada shvati da ga nema beskonačno.",
+    "source": { "type": "Književnost", "author": "Marcel Proust", "note": "parafraza" }
+  },
+  {
+    "id": 148,
+    "category": "psihologija",
+    "text": "Emocionalna zrelost ___ kada ___ da se ___ osećanja ___.",
+    "missing": ["počinje", "prihvati", "suprotna", "istovremeno"],
+    "full": "Emocionalna zrelost počinje kada se prihvati da su suprotna osećanja moguća istovremeno.",
+    "source": { "type": "Psihologija", "author": "Donald Winnicott", "note": "parafraza" }
+  },
+  {
+    "id": 149,
+    "category": "filozofija",
+    "text": "Istina ___ oslobađa onoga ko ___ da je ___ ___.",
+    "missing": ["najviše", "prihvati", "neprijatna", "ponekad"],
+    "full": "Istina najviše oslobađa onoga ko prihvati da je ponekad neprijatna.",
+    "source": { "type": "Filozofija", "author": "Friedrich Nietzsche", "note": "parafraza" }
+  },
+  {
+    "id": 150,
+    "category": "psihologija",
+    "text": "Čovek ___ granice tek kada ___ da ih ___ bez ___.",
+    "missing": ["postavlja", "shvati", "može", "krivice"],
+    "full": "Čovek postavlja granice tek kada shvati da ih može postaviti bez krivice.",
+    "source": { "type": "Psihologija", "author": "Harriet Lerner", "note": "parafraza" }
+  },
+
+  {
+    "id": 151,
+    "category": "književnost",
+    "text": "Čovek ___ sebe tek kada ___ da ne mora ___ ono što ___.",
+    "missing": ["pronađe", "shvati", "postati", "drugi žele"],
+    "full": "Čovek pronađe sebe tek kada shvati da ne mora postati ono što drugi žele.",
+    "source": { "type": "Književnost", "author": "Herman Hese", "note": "parafraza" }
+  },
+  {
+    "id": 152,
+    "category": "psihologija",
+    "text": "Izbegavanje kratkoročno ___ olakšanje, ali dugoročno ___ strah ___.",
+    "missing": ["donosi", "pojačava", "još više"],
+    "full": "Izbegavanje kratkoročno donosi olakšanje, ali dugoročno pojačava strah još više.",
+    "source": { "type": "Psihologija", "author": "Joseph Wolpe", "note": "parafraza" }
+  },
+  {
+    "id": 153,
+    "category": "filozofija",
+    "text": "Sloboda ___ nije u ___ izbora, već u ___ da se ___ ___.",
+    "missing": ["sama", "broju", "spremnosti", "živi", "posledice"],
+    "full": "Sloboda sama nije u broju izbora, već u spremnosti da se žive njihove posledice.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+  {
+    "id": 154,
+    "category": "psihologija",
+    "text": "Čovek ___ samosažaljenje onda kada ___ da je ___ ___.",
+    "missing": ["bira", "veruje", "nemoćan", "trajno"],
+    "full": "Čovek bira samosažaljenje onda kada veruje da je nemoćan trajno.",
+    "source": { "type": "Psihologija", "author": "Martin Seligman", "note": "parafraza" }
+  },
+  {
+    "id": 155,
+    "category": "književnost",
+    "text": "Čovek ___ tišinu tek kada ___ da su ___ suvišne ___.",
+    "missing": ["razume", "shvati", "reči", "ponekad"],
+    "full": "Čovek razume tišinu tek kada shvati da su reči ponekad suvišne.",
+    "source": { "type": "Književnost", "author": "Samuel Beket", "note": "parafraza" }
+  },
+  {
+    "id": 156,
+    "category": "psihologija",
+    "text": "Autentičnost ne ___ savršenstvo, već ___ doslednost ___.",
+    "missing": ["zahteva", "podrazumeva", "sebi"],
+    "full": "Autentičnost ne zahteva savršenstvo, već podrazumeva doslednost sebi.",
+    "source": { "type": "Psihologija", "author": "Carl Rogers", "note": "parafraza" }
+  },
+  {
+    "id": 157,
+    "category": "filozofija",
+    "text": "Istina ___ težinu samo onda kada ___ da se ___ ___.",
+    "missing": ["ima", "mora", "živi", "svakodnevno"],
+    "full": "Istina ima težinu samo onda kada mora da se živi svakodnevno.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 158,
+    "category": "psihologija",
+    "text": "Čovek ___ promenu tek kada ___ da ga ___ košta ___.",
+    "missing": ["prihvati", "shvati", "nepromena", "više"],
+    "full": "Čovek prihvati promenu tek kada shvati da ga nepromena košta više.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+  {
+    "id": 159,
+    "category": "književnost",
+    "text": "Čovek ___ snagu onda kada ___ da može ___ i ___.",
+    "missing": ["otkrije", "shvati", "pasti", "ustati"],
+    "full": "Čovek otkrije snagu onda kada shvati da može pasti i ustati.",
+    "source": { "type": "Književnost", "author": "Jack London", "note": "parafraza" }
+  },
+  {
+    "id": 160,
+    "category": "psihologija",
+    "text": "Prihvatanje ___ kraj borbe, već početak ___ sa ___.",
+    "missing": ["nije", "odnosa", "sobom"],
+    "full": "Prihvatanje nije kraj borbe, već početak odnosa sa sobom.",
+    "source": { "type": "Psihologija", "author": "Carl Jung", "note": "parafraza" }
+  },
+
+  {
+    "id": 161,
+    "category": "psihologija",
+    "text": "Čovek ___ osećanja ne zato što ___ da ih ____, već zato što ___ da će biti ___.",
+    "missing": ["kontroliše", "ne ume", "izrazi", "veruje", "odbačen"],
+    "full": "Čovek kontroliše osećanja ne zato što ne ume da ih izrazi, već zato što veruje da će biti odbačen.",
+    "source": { "type": "Psihologija", "author": "Carl Rogers", "note": "parafraza" }
+  },
+  {
+    "id": 162,
+    "category": "psihologija",
+    "text": "Samopouzdanje ___ kada ___ da vrednost ne ___ od ___.",
+    "missing": ["raste", "shvati", "zavisi", "odobravanja"],
+    "full": "Samopouzdanje raste kada se shvati da vrednost ne zavisi od odobravanja.",
+    "source": { "type": "Psihologija", "author": "Nathaniel Branden", "note": "parafraza" }
+  },
+  {
+    "id": 163,
+    "category": "filozofija",
+    "text": "Sloboda ___ teret samo onome ko ___ da ___ odgovornost ___.",
+    "missing": ["postaje", "odbija", "preuzme", "izbora"],
+    "full": "Sloboda postaje teret samo onome ko odbija da preuzme odgovornost izbora.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+  {
+    "id": 164,
+    "category": "psihologija",
+    "text": "Trauma se ___ ne u onome što se ___, već u onome što se ___ ___.",
+    "missing": ["pamti", "dogodilo", "nije", "razrešilo"],
+    "full": "Trauma se pamti ne u onome što se dogodilo, već u onome što se nije razrešilo.",
+    "source": { "type": "Psihologija", "author": "Peter Levine", "note": "parafraza" }
+  },
+  {
+    "id": 165,
+    "category": "književnost",
+    "text": "Čovek ___ sebe najviše onda kada ___ da mora ___ da bi ___.",
+    "missing": ["izgubi", "veruje", "ćuti", "pripadao"],
+    "full": "Čovek izgubi sebe najviše onda kada veruje da mora da ćuti da bi pripadao.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+  {
+    "id": 166,
+    "category": "psihologija",
+    "text": "Ego ___ napadom onda kada ___ da je ___ ___.",
+    "missing": ["reaguje", "oseti", "nesiguran", "iznutra"],
+    "full": "Ego reaguje napadom onda kada oseti da je nesiguran iznutra.",
+    "source": { "type": "Psihologija", "author": "Sigmund Freud", "note": "parafraza" }
+  },
+  {
+    "id": 167,
+    "category": "filozofija",
+    "text": "Istina ___ oslobađa ne zato što ___ laka, već zato što ___ da se ___.",
+    "missing": ["najviše", "je", "zahteva", "prihvati"],
+    "full": "Istina najviše oslobađa ne zato što je laka, već zato što zahteva da se prihvati.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 168,
+    "category": "psihologija",
+    "text": "Čovek ___ bliskost jer ___ da će ___ ako ___.",
+    "missing": ["izbegava", "veruje", "biti povređen", "se otvori"],
+    "full": "Čovek izbegava bliskost jer veruje da će biti povređen ako se otvori.",
+    "source": { "type": "Psihologija", "author": "John Bowlby", "note": "parafraza" }
+  },
+  {
+    "id": 169,
+    "category": "književnost",
+    "text": "Čovek ___ snagu tek kada ___ da ne mora ___ da bi ___.",
+    "missing": ["otkrije", "shvati", "pobedi", "vredeo"],
+    "full": "Čovek otkrije snagu tek kada shvati da ne mora da pobedi da bi vredeo.",
+    "source": { "type": "Književnost", "author": "Herman Hese", "note": "parafraza" }
+  },
+  {
+    "id": 170,
+    "category": "psihologija",
+    "text": "Anksioznost se ___ kada ___ da se ___ neprijatnosti ___.",
+    "missing": ["smanjuje", "nauči", "tolerišu", "postepeno"],
+    "full": "Anksioznost se smanjuje kada se nauči da se neprijatnosti tolerišu postepeno.",
+    "source": { "type": "Psihologija", "author": "Aaron Beck", "note": "parafraza" }
+  },
+
+  {
+    "id": 171,
+    "category": "filozofija",
+    "text": "Sloboda ___ vrednost tek kada ___ da se ___ ___.",
+    "missing": ["dobija", "prihvati", "nosi", "svesno"],
+    "full": "Sloboda dobija vrednost tek kada se prihvati da se nosi svesno.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+  {
+    "id": 172,
+    "category": "psihologija",
+    "text": "Zrelost se ___ ne po ___ emocija, već po ___ sa ___.",
+    "missing": ["meri", "kontroli", "odnosu", "njima"],
+    "full": "Zrelost se ne meri po kontroli emocija, već po odnosu sa njima.",
+    "source": { "type": "Psihologija", "author": "Daniel Siegel", "note": "parafraza" }
+  },
+  {
+    "id": 173,
+    "category": "književnost",
+    "text": "Čovek ___ mir tek kada ___ da ne mora ___ sve ___.",
+    "missing": ["nalazi", "shvati", "razumeti", "odmah"],
+    "full": "Čovek nalazi mir tek kada shvati da ne mora razumeti sve odmah.",
+    "source": { "type": "Književnost", "author": "Albert Kami", "note": "parafraza" }
+  },
+  {
+    "id": 174,
+    "category": "psihologija",
+    "text": "Projekcija ___ drugima ono što ___ da ___ kod ___.",
+    "missing": ["pripisuje", "ne želi", "vidi", "sebe"],
+    "full": "Projekcija pripisuje drugima ono što ne želi da vidi kod sebe.",
+    "source": { "type": "Psihologija", "author": "Carl Jung", "note": "parafraza" }
+  },
+  {
+    "id": 175,
+    "category": "filozofija",
+    "text": "Razumevanje ___ počinje onda kada ___ da ne mora ___ ___.",
+    "missing": ["drugih", "prihvati", "biti", "u pravu"],
+    "full": "Razumevanje drugih počinje onda kada se prihvati da ne mora uvek biti u pravu.",
+    "source": { "type": "Filozofija", "author": "Epiktet", "note": "parafraza" }
+  },
+  {
+    "id": 176,
+    "category": "psihologija",
+    "text": "Samopoštovanje se ___ kada ___ da greška ne ___ identitet ___.",
+    "missing": ["gradi", "shvati", "definiše", "lični"],
+    "full": "Samopoštovanje se gradi kada se shvati da greška ne definiše lični identitet.",
+    "source": { "type": "Psihologija", "author": "Albert Bandura", "note": "parafraza" }
+  },
+  {
+    "id": 177,
+    "category": "književnost",
+    "text": "Čovek ___ tišinu tek kada ___ da su ___ ponekad ___.",
+    "missing": ["razume", "shvati", "reči", "suvišne"],
+    "full": "Čovek razume tišinu tek kada shvati da su reči ponekad suvišne.",
+    "source": { "type": "Književnost", "author": "Samuel Beket", "note": "parafraza" }
+  },
+  {
+    "id": 178,
+    "category": "psihologija",
+    "text": "Granice ___ znak ___, već znak ___.",
+    "missing": ["nisu", "hladnoće", "zrelosti"],
+    "full": "Granice nisu znak hladnoće, već znak zrelosti.",
+    "source": { "type": "Psihologija", "author": "Harriet Lerner", "note": "parafraza" }
+  },
+  {
+    "id": 179,
+    "category": "filozofija",
+    "text": "Istina ___ snagu samo ako ___ da se ___ ___.",
+    "missing": ["ima", "mora", "živi", "svakodnevno"],
+    "full": "Istina ima snagu samo ako mora da se živi svakodnevno.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 180,
+    "category": "psihologija",
+    "text": "Čovek ___ promenu tek kada ___ da ga ___ više ___.",
+    "missing": ["prihvati", "shvati", "nepromena", "košta"],
+    "full": "Čovek prihvati promenu tek kada shvati da ga nepromena košta više.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+
+  {
+    "id": 181,
+    "category": "književnost",
+    "text": "Čovek ___ sebe tek kada ___ da ne mora ___ ono što ___.",
+    "missing": ["pronađe", "shvati", "postati", "drugi žele"],
+    "full": "Čovek pronađe sebe tek kada shvati da ne mora postati ono što drugi žele.",
+    "source": { "type": "Književnost", "author": "Herman Hese", "note": "parafraza" }
+  },
+  {
+    "id": 182,
+    "category": "psihologija",
+    "text": "Izbegavanje kratkoročno ___ olakšanje, ali dugoročno ___ strah ___.",
+    "missing": ["donosi", "pojačava", "još više"],
+    "full": "Izbegavanje kratkoročno donosi olakšanje, ali dugoročno pojačava strah još više.",
+    "source": { "type": "Psihologija", "author": "Joseph Wolpe", "note": "parafraza" }
+  },
+  {
+    "id": 183,
+    "category": "filozofija",
+    "text": "Sloboda ___ nije u ___ izbora, već u ___ da se ___ ___.",
+    "missing": ["sama", "broju", "spremnosti", "žive", "posledice"],
+    "full": "Sloboda sama nije u broju izbora, već u spremnosti da se žive njihove posledice.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+  {
+    "id": 184,
+    "category": "psihologija",
+    "text": "Samosažaljenje se ___ onda kada ___ da je ___ ___.",
+    "missing": ["javlja", "veruje", "nemoć", "trajna"],
+    "full": "Samosažaljenje se javlja onda kada se veruje da je nemoć trajna.",
+    "source": { "type": "Psihologija", "author": "Martin Seligman", "note": "parafraza" }
+  },
+  {
+    "id": 185,
+    "category": "književnost",
+    "text": "Čovek ___ snagu onda kada ___ da može ___ i ___.",
+    "missing": ["otkrije", "shvati", "pasti", "ustati"],
+    "full": "Čovek otkrije snagu onda kada shvati da može pasti i ustati.",
+    "source": { "type": "Književnost", "author": "Jack London", "note": "parafraza" }
+  },
+  {
+    "id": 186,
+    "category": "psihologija",
+    "text": "Autentičnost ne ___ savršenstvo, već ___ doslednost ___.",
+    "missing": ["zahteva", "podrazumeva", "sebi"],
+    "full": "Autentičnost ne zahteva savršenstvo, već podrazumeva doslednost sebi.",
+    "source": { "type": "Psihologija", "author": "Carl Rogers", "note": "parafraza" }
+  },
+  {
+    "id": 187,
+    "category": "filozofija",
+    "text": "Istina ___ težinu samo onda kada ___ da se ___ ___.",
+    "missing": ["ima", "mora", "živi", "svakodnevno"],
+    "full": "Istina ima težinu samo onda kada mora da se živi svakodnevno.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 188,
+    "category": "psihologija",
+    "text": "Čovek ___ rast ne zato što ___, već zato što ___ da ___.",
+    "missing": ["izbegava", "ne želi", "se plaši", "ne uspe"],
+    "full": "Čovek izbegava rast ne zato što ne želi, već zato što se plaši da ne uspe.",
+    "source": { "type": "Psihologija", "author": "Abraham Maslow", "note": "parafraza" }
+  },
+  {
+    "id": 189,
+    "category": "književnost",
+    "text": "Čovek ___ mir tek kada ___ da ne mora ___ sve ___.",
+    "missing": ["nalazi", "shvati", "nositi", "sam"],
+    "full": "Čovek nalazi mir tek kada shvati da ne mora nositi sve sam.",
+    "source": { "type": "Književnost", "author": "Erich Maria Remarque", "note": "parafraza" }
+  },
+  {
+    "id": 190,
+    "category": "psihologija",
+    "text": "Prihvatanje ___ poraz, već ___ početak ___.",
+    "missing": ["nije", "je", "promene"],
+    "full": "Prihvatanje nije poraz, već je početak promene.",
+    "source": { "type": "Psihologija", "author": "Carl Jung", "note": "parafraza" }
+  },
+
+  {
+    "id": 191,
+    "category": "sociologija",
+    "text": "Društvo ___ pojedinca ne toliko kroz ___, koliko kroz ___ koja ___ ___.",
+    "missing": ["oblikuje", "zakone", "očekivanja", "retko", "preispitujemo"],
+    "full": "Društvo oblikuje pojedinca ne toliko kroz zakone, koliko kroz očekivanja koja retko preispitujemo.",
+    "source": { "type": "Sociologija", "author": "Émile Durkheim", "note": "parafraza" }
+  },
+  {
+    "id": 192,
+    "category": "realizam",
+    "text": "Čovek ___ ideale ne zato što ___ u njih, već zato što ___ da ___.",
+    "missing": ["napušta", "ne veruje", "nauči", "preživi"],
+    "full": "Čovek napušta ideale ne zato što ne veruje u njih, već zato što nauči kako da preživi.",
+    "source": { "type": "Realizam", "author": "Honoré de Balzac", "note": "parafraza" }
+  },
+  {
+    "id": 193,
+    "category": "romantizam",
+    "text": "Ljubav ___ granice razuma jer ___ tamo gde ___ ___.",
+    "missing": ["ne poznaje", "počinje", "logika", "prestaje"],
+    "full": "Ljubav ne poznaje granice razuma jer počinje tamo gde logika prestaje.",
+    "source": { "type": "Romantizam", "author": "Novalis", "note": "parafraza" }
+  },
+  {
+    "id": 194,
+    "category": "sociologija",
+    "text": "Norme ___ nevidljive upravo zato što ___ da su ___.",
+    "missing": ["postaju", "verujemo", "prirodne"],
+    "full": "Norme postaju nevidljive upravo zato što verujemo da su prirodne.",
+    "source": { "type": "Sociologija", "author": "Pierre Bourdieu", "note": "parafraza" }
+  },
+  {
+    "id": 195,
+    "category": "realizam",
+    "text": "Čovek ___ istinu o svetu tek kada ___ da svet ___ ___.",
+    "missing": ["shvati", "prihvati", "ne duguje", "ništa"],
+    "full": "Čovek shvati istinu o svetu tek kada prihvati da svet ne duguje ništa.",
+    "source": { "type": "Realizam", "author": "Gustave Flaubert", "note": "parafraza" }
+  },
+  {
+    "id": 196,
+    "category": "romantizam",
+    "text": "Duša ___ nemir jer ___ da je ___ više ___.",
+    "missing": ["oseća", "naslućuje", "život", "od onoga"],
+    "full": "Duša oseća nemir jer naslućuje da je život više od onoga što vidi.",
+    "source": { "type": "Romantizam", "author": "William Blake", "note": "parafraza" }
+  },
+  {
+    "id": 197,
+    "category": "sociologija",
+    "text": "Moć ___ ne samo kroz ___, već i kroz ___ šta se ___ ___.",
+    "missing": ["deluje", "prisilu", "odlučivanje", "smatra", "normalnim"],
+    "full": "Moć deluje ne samo kroz prisilu, već i kroz odlučivanje o tome šta se smatra normalnim.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+  {
+    "id": 198,
+    "category": "realizam",
+    "text": "Život ___ ne pita šta ___, već šta ___ da ___.",
+    "missing": ["nikada", "želimo", "možemo", "izdržimo"],
+    "full": "Život nikada ne pita šta želimo, već šta možemo da izdržimo.",
+    "source": { "type": "Realizam", "author": "Anton Čehov", "note": "parafraza" }
+  },
+  {
+    "id": 199,
+    "category": "romantizam",
+    "text": "Čovek ___ svet najlepšim onda kada ___, a ne kada ___ ___.",
+    "missing": ["vidi", "voli", "razume", "ga"],
+    "full": "Čovek vidi svet najlepšim onda kada voli, a ne kada ga razume.",
+    "source": { "type": "Romantizam", "author": "Johann Wolfgang von Goethe", "note": "parafraza" }
+  },
+  {
+    "id": 200,
+    "category": "sociologija",
+    "text": "Pojedinac ___ slobodu unutar ___ koje ___ ___.",
+    "missing": ["traži", "okvira", "nije", "birao"],
+    "full": "Pojedinac traži slobodu unutar okvira koje nije birao.",
+    "source": { "type": "Sociologija", "author": "Max Weber", "note": "parafraza" }
+  },
+
+  {
+    "id": 201,
+    "category": "realizam",
+    "text": "Čovek ___ snove ne zato što ___ slabi, već zato što ___ da ___.",
+    "missing": ["menja", "su", "nauči", "čeka"],
+    "full": "Čovek menja snove ne zato što su slabi, već zato što nauči da čeka.",
+    "source": { "type": "Realizam", "author": "Ivan Turgenjev", "note": "parafraza" }
+  },
+  {
+    "id": 202,
+    "category": "romantizam",
+    "text": "Ljubav ___ večnost u ___ koji ___ ___.",
+    "missing": ["traži", "trenutku", "ne traje", "dugo"],
+    "full": "Ljubav traži večnost u trenutku koji ne traje dugo.",
+    "source": { "type": "Romantizam", "author": "Alfred de Musset", "note": "parafraza" }
+  },
+  {
+    "id": 203,
+    "category": "sociologija",
+    "text": "Identitet se ___ ne samo iz ___, već i iz ___ koje ___ ___.",
+    "missing": ["gradi", "izbora", "uloga", "igramo", "svakodnevno"],
+    "full": "Identitet se gradi ne samo iz izbora, već i iz uloga koje igramo svakodnevno.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 204,
+    "category": "realizam",
+    "text": "Čovek ___ pravdu tek kada ___ da ona ___ uvek ___.",
+    "missing": ["razume", "shvati", "ne dolazi", "brzo"],
+    "full": "Čovek razume pravdu tek kada shvati da ona ne dolazi uvek brzo.",
+    "source": { "type": "Realizam", "author": "Lav Tolstoj", "note": "parafraza" }
+  },
+  {
+    "id": 205,
+    "category": "romantizam",
+    "text": "Srce ___ istinu pre nego što ___ nauči da ___.",
+    "missing": ["oseća", "razum", "sumnja"],
+    "full": "Srce oseća istinu pre nego što razum nauči da sumnja.",
+    "source": { "type": "Romantizam", "author": "Jean-Jacques Rousseau", "note": "parafraza" }
+  },
+  {
+    "id": 206,
+    "category": "sociologija",
+    "text": "Društvena pravila ___ najjača onda kada ___ da su ___.",
+    "missing": ["postaju", "verujemo", "nevidljiva"],
+    "full": "Društvena pravila postaju najjača onda kada verujemo da su nevidljiva.",
+    "source": { "type": "Sociologija", "author": "Norbert Elias", "note": "parafraza" }
+  },
+  {
+    "id": 207,
+    "category": "realizam",
+    "text": "Život ___ retko liči na ___, ali često ___ njihove ___.",
+    "missing": ["retko", "planove", "ruši", "iluzije"],
+    "full": "Život retko liči na planove, ali često ruši njihove iluzije.",
+    "source": { "type": "Realizam", "author": "Guy de Maupassant", "note": "parafraza" }
+  },
+  {
+    "id": 208,
+    "category": "romantizam",
+    "text": "Čovek ___ čežnju ne zato što ___, već zato što ___ ___.",
+    "missing": ["oseća", "nema", "želi", "više"],
+    "full": "Čovek oseća čežnju ne zato što nema, već zato što želi više.",
+    "source": { "type": "Romantizam", "author": "Lord Byron", "note": "parafraza" }
+  },
+  {
+    "id": 209,
+    "category": "sociologija",
+    "text": "Nejednakost ___ opstaje ne samo zbog ___, već zbog ___ da se ___.",
+    "missing": ["često", "moći", "uveravanja", "prihvati"],
+    "full": "Nejednakost često opstaje ne samo zbog moći, već zbog uveravanja da se prihvati.",
+    "source": { "type": "Sociologija", "author": "Antonio Gramsci", "note": "parafraza" }
+  },
+  {
+    "id": 210,
+    "category": "realizam",
+    "text": "Čovek ___ mudrost tek kada ___ da nema ___ ___.",
+    "missing": ["stiče", "shvati", "lakih", "odgovora"],
+    "full": "Čovek stiče mudrost tek kada shvati da nema lakih odgovora.",
+    "source": { "type": "Realizam", "author": "George Eliot", "note": "parafraza" }
+  },
+
+  {
+    "id": 211,
+    "category": "romantizam",
+    "text": "Ljubav ___ ranjiva jer ___ da bude ___ ___.",
+    "missing": ["ostaje", "mora", "iskrena", "do kraja"],
+    "full": "Ljubav ostaje ranjiva jer mora da bude iskrena do kraja.",
+    "source": { "type": "Romantizam", "author": "Mary Shelley", "note": "parafraza" }
+  },
+  {
+    "id": 212,
+    "category": "sociologija",
+    "text": "Kultura ___ ono što ___ kao ___ ___.",
+    "missing": ["određuje", "vidimo", "normalno", "ponašanje"],
+    "full": "Kultura određuje ono što vidimo kao normalno ponašanje.",
+    "source": { "type": "Sociologija", "author": "Clifford Geertz", "note": "parafraza" }
+  },
+  {
+    "id": 213,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost ne kada ___, već kada ___ da ___.",
+    "missing": ["pokazuje", "pobedi", "nauči", "izgubi"],
+    "full": "Čovek pokazuje zrelost ne kada pobedi, već kada nauči da izgubi.",
+    "source": { "type": "Realizam", "author": "Ivan Gončarov", "note": "parafraza" }
+  },
+  {
+    "id": 214,
+    "category": "romantizam",
+    "text": "Duša ___ tugu jer ___ da je ___ ne ___.",
+    "missing": ["nosi", "zna", "radost", "trajna"],
+    "full": "Duša nosi tugu jer zna da radost nije trajna.",
+    "source": { "type": "Romantizam", "author": "John Keats", "note": "parafraza" }
+  },
+  {
+    "id": 215,
+    "category": "sociologija",
+    "text": "Društvo ___ promenu tek kada ___ da stari ___ ___.",
+    "missing": ["prihvata", "shvati", "obrasci", "ne funkcionišu"],
+    "full": "Društvo prihvata promenu tek kada shvati da stari obrasci ne funkcionišu.",
+    "source": { "type": "Sociologija", "author": "Ulrich Beck", "note": "parafraza" }
+  },
+  {
+    "id": 216,
+    "category": "realizam",
+    "text": "Život ___ ravnodušan prema ___, ali ne i prema ___.",
+    "missing": ["ostaje", "nadama", "postupcima"],
+    "full": "Život ostaje ravnodušan prema nadama, ali ne i prema postupcima.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 217,
+    "category": "romantizam",
+    "text": "Čovek ___ sebe celim tek kada ___ da voli ___.",
+    "missing": ["oseća", "dozvoli", "bez straha"],
+    "full": "Čovek oseća sebe celim tek kada dozvoli da voli bez straha.",
+    "source": { "type": "Romantizam", "author": "Percy Bysshe Shelley", "note": "parafraza" }
+  },
+  {
+    "id": 218,
+    "category": "sociologija",
+    "text": "Autoritet ___ ne počiva samo na ___, već na ___ ___.",
+    "missing": ["često", "moći", "prihvatanju", "drugih"],
+    "full": "Autoritet često ne počiva samo na moći, već na prihvatanju drugih.",
+    "source": { "type": "Sociologija", "author": "Max Weber", "note": "parafraza" }
+  },
+  {
+    "id": 219,
+    "category": "realizam",
+    "text": "Čovek ___ snagu ne u ___, već u ___ da ___.",
+    "missing": ["pronalazi", "iluzijama", "spremnosti", "se suoči"],
+    "full": "Čovek pronalazi snagu ne u iluzijama, već u spremnosti da se suoči.",
+    "source": { "type": "Realizam", "author": "Fjodor Dostojevski", "note": "parafraza" }
+  },
+  {
+    "id": 220,
+    "category": "romantizam",
+    "text": "Ljubav ___ smisao svetu jer ___ ono što ___ ___.",
+    "missing": ["daje", "vidi", "razum", "ne može"],
+    "full": "Ljubav daje smisao svetu jer vidi ono što razum ne može.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+
+  {
+    "id": 221,
+    "category": "sociologija",
+    "text": "Društvene uloge ___ lakše od ___ jer ___ da ___.",
+    "missing": ["nosimo", "slobode", "obećavaju", "pripadaš"],
+    "full": "Društvene uloge nosimo lakše od slobode jer obećavaju da pripadaš.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 222,
+    "category": "realizam",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da nema ___ ___.",
+    "missing": ["sazna", "prihvati", "brzih", "rešenja"],
+    "full": "Čovek sazna istinu o sebi tek kada prihvati da nema brzih rešenja.",
+    "source": { "type": "Realizam", "author": "Anton Čehov", "note": "parafraza" }
+  },
+  {
+    "id": 223,
+    "category": "romantizam",
+    "text": "Srce ___ razloge koje ___ nikada ___ ___.",
+    "missing": ["poznaje", "razum", "ne može", "da objasni"],
+    "full": "Srce poznaje razloge koje razum nikada ne može da objasni.",
+    "source": { "type": "Romantizam", "author": "Blaise Pascal", "note": "parafraza" }
+  },
+  {
+    "id": 224,
+    "category": "sociologija",
+    "text": "Normalnost ___ proizvod ___, a ne ___ ___.",
+    "missing": ["često", "navike", "prirodnog", "poretka"],
+    "full": "Normalnost je često proizvod navike, a ne prirodnog poretka.",
+    "source": { "type": "Sociologija", "author": "Peter Berger", "note": "parafraza" }
+  },
+  {
+    "id": 225,
+    "category": "realizam",
+    "text": "Život ___ ne ispunjava ___, već ___ ___.",
+    "missing": ["najčešće", "očekivanja", "menja", "pravac"],
+    "full": "Život najčešće ne ispunjava očekivanja, već menja pravac.",
+    "source": { "type": "Realizam", "author": "Gustave Flaubert", "note": "parafraza" }
+  },
+  {
+    "id": 226,
+    "category": "romantizam",
+    "text": "Ljubav ___ hrabra jer ___ da ___ bez ___.",
+    "missing": ["ostaje", "ume", "voli", "garancija"],
+    "full": "Ljubav ostaje hrabra jer ume da voli bez garancija.",
+    "source": { "type": "Romantizam", "author": "Rainer Maria Rilke", "note": "parafraza" }
+  },
+  {
+    "id": 227,
+    "category": "sociologija",
+    "text": "Moć ___ najtiša onda kada ___ da je ___.",
+    "missing": ["postaje", "uveri", "prirodna"],
+    "full": "Moć postaje najtiša onda kada uveri da je prirodna.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+  {
+    "id": 228,
+    "category": "realizam",
+    "text": "Čovek ___ snove ne zato što ___, već zato što ___ ___.",
+    "missing": ["odlaže", "ne želi", "nema", "vremena"],
+    "full": "Čovek odlaže snove ne zato što ne želi, već zato što nema vremena.",
+    "source": { "type": "Realizam", "author": "Ivan Turgenjev", "note": "parafraza" }
+  },
+  {
+    "id": 229,
+    "category": "romantizam",
+    "text": "Duša ___ svet dublje kada ___, a ne kada ___ ___.",
+    "missing": ["razume", "oseća", "ga", "meri"],
+    "full": "Duša razume svet dublje kada oseća, a ne kada ga meri.",
+    "source": { "type": "Romantizam", "author": "Friedrich Hölderlin", "note": "parafraza" }
+  },
+  {
+    "id": 230,
+    "category": "sociologija",
+    "text": "Pritisak većine ___ snažan jer ___ da ___ ___.",
+    "missing": ["postaje", "obećava", "nećeš", "biti sam"],
+    "full": "Pritisak većine postaje snažan jer obećava da nećeš biti sam.",
+    "source": { "type": "Sociologija", "author": "Alexis de Tocqueville", "note": "parafraza" }
+  },
+
+  {
+    "id": 231,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost tek kada ___ da svet ___ ___.",
+    "missing": ["dostiže", "shvati", "ne čeka", "njega"],
+    "full": "Čovek dostiže zrelost tek kada shvati da svet ne čeka njega.",
+    "source": { "type": "Realizam", "author": "George Orwell", "note": "parafraza" }
+  },
+  {
+    "id": 232,
+    "category": "romantizam",
+    "text": "Ljubav ___ rizik jer ___ da je ___ ___.",
+    "missing": ["prihvata", "zna", "sigurnost", "tiha"],
+    "full": "Ljubav prihvata rizik jer zna da je sigurnost tiha.",
+    "source": { "type": "Romantizam", "author": "Alfred Tennyson", "note": "parafraza" }
+  },
+  {
+    "id": 233,
+    "category": "sociologija",
+    "text": "Identitet se ___ lakše kada ___ da ga ___ ___.",
+    "missing": ["menja", "verujemo", "biramo", "slobodno"],
+    "full": "Identitet se menja lakše kada verujemo da ga biramo slobodno.",
+    "source": { "type": "Sociologija", "author": "Zygmunt Bauman", "note": "parafraza" }
+  },
+  {
+    "id": 234,
+    "category": "realizam",
+    "text": "Život ___ ne obećava ___, ali ___ ___.",
+    "missing": ["nikada", "pravdu", "uvek", "posledice"],
+    "full": "Život nikada ne obećava pravdu, ali uvek donosi posledice.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 235,
+    "category": "romantizam",
+    "text": "Čovek ___ čežnju jer ___ da je ___ ___.",
+    "missing": ["čuva", "veruje", "ona", "putokaz"],
+    "full": "Čovek čuva čežnju jer veruje da je ona putokaz.",
+    "source": { "type": "Romantizam", "author": "Novalis", "note": "parafraza" }
+  },
+  {
+    "id": 236,
+    "category": "sociologija",
+    "text": "Institucije ___ stabilnost, ali ___ ___.",
+    "missing": ["obezbeđuju", "usporavaju", "promenu"],
+    "full": "Institucije obezbeđuju stabilnost, ali usporavaju promenu.",
+    "source": { "type": "Sociologija", "author": "Anthony Giddens", "note": "parafraza" }
+  },
+  {
+    "id": 237,
+    "category": "realizam",
+    "text": "Čovek ___ snagu ne u ___, već u ___ da ___.",
+    "missing": ["nalazi", "nadi", "istrajnosti", "nastavi"],
+    "full": "Čovek nalazi snagu ne u nadi, već u istrajnosti da nastavi.",
+    "source": { "type": "Realizam", "author": "Jack London", "note": "parafraza" }
+  },
+  {
+    "id": 238,
+    "category": "romantizam",
+    "text": "Srce ___ istinu jer ___ da je ___ ___.",
+    "missing": ["prepoznaje", "ne traži", "dokaz", "uvek"],
+    "full": "Srce prepoznaje istinu jer ne traži dokaz uvek.",
+    "source": { "type": "Romantizam", "author": "François-René de Chateaubriand", "note": "parafraza" }
+  },
+  {
+    "id": 239,
+    "category": "sociologija",
+    "text": "Nejednakost ___ opstaje jer ___ da je ___ ___.",
+    "missing": ["često", "uverava", "prirodna", "neminovna"],
+    "full": "Nejednakost često opstaje jer uverava da je prirodna i neminovna.",
+    "source": { "type": "Sociologija", "author": "Pierre Bourdieu", "note": "parafraza" }
+  },
+  {
+    "id": 240,
+    "category": "realizam",
+    "text": "Čovek ___ mudrost tek kada ___ da nema ___ ___.",
+    "missing": ["stiče", "shvati", "lakih", "izbora"],
+    "full": "Čovek stiče mudrost tek kada shvati da nema lakih izbora.",
+    "source": { "type": "Realizam", "author": "George Eliot", "note": "parafraza" }
+  },
+
+  {
+    "id": 241,
+    "category": "romantizam",
+    "text": "Ljubav ___ smisao vremenu jer ___ da ___ ___.",
+    "missing": ["daje", "ume", "stane", "u trenutak"],
+    "full": "Ljubav daje smisao vremenu jer ume da stane u trenutak.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+  {
+    "id": 242,
+    "category": "sociologija",
+    "text": "Ponašanje ___ prihvatljivo ne zato što ___, već zato što ___ ___.",
+    "missing": ["postaje", "je ispravno", "se ponavlja", "dugo"],
+    "full": "Ponašanje postaje prihvatljivo ne zato što je ispravno, već zato što se ponavlja dugo.",
+    "source": { "type": "Sociologija", "author": "Norbert Elias", "note": "parafraza" }
+  },
+  {
+    "id": 243,
+    "category": "realizam",
+    "text": "Život ___ ne traži ___, već ___ ___.",
+    "missing": ["ne", "razumevanje", "reakciju", "na njega"],
+    "full": "Život ne traži razumevanje, već reakciju na njega.",
+    "source": { "type": "Realizam", "author": "Albert Camus", "note": "parafraza" }
+  },
+  {
+    "id": 244,
+    "category": "romantizam",
+    "text": "Duša ___ patnju jer ___ da ona ___ ___.",
+    "missing": ["podnosi", "veruje", "ima", "smisao"],
+    "full": "Duša podnosi patnju jer veruje da ona ima smisao.",
+    "source": { "type": "Romantizam", "author": "John Keats", "note": "parafraza" }
+  },
+  {
+    "id": 245,
+    "category": "sociologija",
+    "text": "Autoritet ___ opstaje samo dok ___ da je ___ ___.",
+    "missing": ["često", "verujemo", "legitiman", "takav"],
+    "full": "Autoritet često opstaje samo dok verujemo da je legitiman.",
+    "source": { "type": "Sociologija", "author": "Max Weber", "note": "parafraza" }
+  },
+  {
+    "id": 246,
+    "category": "realizam",
+    "text": "Čovek ___ snagu onda kada ___ da nema ___ ___.",
+    "missing": ["pronalazi", "shvati", "koga", "da krivi"],
+    "full": "Čovek pronalazi snagu onda kada shvati da nema koga da krivi.",
+    "source": { "type": "Realizam", "author": "Fjodor Dostojevski", "note": "parafraza" }
+  },
+  {
+    "id": 247,
+    "category": "romantizam",
+    "text": "Ljubav ___ opstaje jer ___ da ___ ___.",
+    "missing": ["ne", "prihvata", "bude", "savršena"],
+    "full": "Ljubav ne opstaje jer je savršena, već jer prihvata da bude nesavršena.",
+    "source": { "type": "Romantizam", "author": "George Sand", "note": "parafraza" }
+  },
+  {
+    "id": 248,
+    "category": "sociologija",
+    "text": "Promena ___ počinje tek kada ___ da staro ___ ___.",
+    "missing": ["društvena", "prihvatimo", "više", "ne funkcioniše"],
+    "full": "Promena društvena počinje tek kada prihvatimo da staro više ne funkcioniše.",
+    "source": { "type": "Sociologija", "author": "Ulrich Beck", "note": "parafraza" }
+  },
+  {
+    "id": 249,
+    "category": "realizam",
+    "text": "Život ___ često surov, ali ___ ___.",
+    "missing": ["jeste", "uvek", "iskren"],
+    "full": "Život jeste često surov, ali je uvek iskren.",
+    "source": { "type": "Realizam", "author": "Charles Dickens", "note": "parafraza" }
+  },
+  {
+    "id": 250,
+    "category": "romantizam",
+    "text": "Čovek ___ potpun tek kada ___ da voli ___ ___.",
+    "missing": ["postaje", "nauči", "bez", "straha"],
+    "full": "Čovek postaje potpun tek kada nauči da voli bez straha.",
+    "source": { "type": "Romantizam", "author": "Percy Bysshe Shelley", "note": "parafraza" }
+  },
+
+  {
+    "id": 251,
+    "category": "sociologija",
+    "text": "Pojedinac ___ pritisak ne zato što ___ slab, već zato što ___ da ___ ___.",
+    "missing": ["oseća", "je", "želi", "bude", "prihvaćen"],
+    "full": "Pojedinac oseća pritisak ne zato što je slab, već zato što želi da bude prihvaćen.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 252,
+    "category": "realizam",
+    "text": "Život ___ ne pita šta ___, već šta ___ da ___.",
+    "missing": ["nikada", "želimo", "možemo", "podnesemo"],
+    "full": "Život nikada ne pita šta želimo, već šta možemo da podnesemo.",
+    "source": { "type": "Realizam", "author": "Anton Čehov", "note": "parafraza" }
+  },
+  {
+    "id": 253,
+    "category": "romantizam",
+    "text": "Ljubav ___ istinu ne zato što ___, već zato što ___ ___.",
+    "missing": ["otkriva", "traži", "oseća", "duboko"],
+    "full": "Ljubav otkriva istinu ne zato što traži, već zato što oseća duboko.",
+    "source": { "type": "Romantizam", "author": "Johann Wolfgang von Goethe", "note": "parafraza" }
+  },
+  {
+    "id": 254,
+    "category": "sociologija",
+    "text": "Norme ___ opstaju jer ___ da su ___ ___.",
+    "missing": ["dugo", "verujemo", "neupitne", "istine"],
+    "full": "Norme dugo opstaju jer verujemo da su neupitne istine.",
+    "source": { "type": "Sociologija", "author": "Pierre Bourdieu", "note": "parafraza" }
+  },
+  {
+    "id": 255,
+    "category": "realizam",
+    "text": "Čovek ___ mudrost ne u ___, već u ___ da ___.",
+    "missing": ["nalazi", "rečima", "iskustvu", "pogreši"],
+    "full": "Čovek nalazi mudrost ne u rečima, već u iskustvu da pogreši.",
+    "source": { "type": "Realizam", "author": "George Eliot", "note": "parafraza" }
+  },
+  {
+    "id": 256,
+    "category": "romantizam",
+    "text": "Srce ___ put i onda kada ___ da ga ___ ___.",
+    "missing": ["zna", "razum", "ne vidi", "jasno"],
+    "full": "Srce zna put i onda kada razum ne vidi jasno.",
+    "source": { "type": "Romantizam", "author": "William Wordsworth", "note": "parafraza" }
+  },
+  {
+    "id": 257,
+    "category": "sociologija",
+    "text": "Moć ___ vidljiva tek kada ___ da je ___ ___.",
+    "missing": ["postaje", "shvatimo", "bila", "svuda"],
+    "full": "Moć postaje vidljiva tek kada shvatimo da je bila svuda.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+  {
+    "id": 258,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost onda kada ___ da svet ___ ___.",
+    "missing": ["pokazuje", "shvati", "ne duguje", "objašnjenja"],
+    "full": "Čovek pokazuje zrelost onda kada shvati da svet ne duguje objašnjenja.",
+    "source": { "type": "Realizam", "author": "Albert Camus", "note": "parafraza" }
+  },
+  {
+    "id": 259,
+    "category": "romantizam",
+    "text": "Duša ___ večnost jer ___ da je ___ ___.",
+    "missing": ["traži", "zna", "trenutak", "kratak"],
+    "full": "Duša traži večnost jer zna da je trenutak kratak.",
+    "source": { "type": "Romantizam", "author": "Novalis", "note": "parafraza" }
+  },
+  {
+    "id": 260,
+    "category": "sociologija",
+    "text": "Ponašanje ___ normalno kada ___ da ga ___ ___.",
+    "missing": ["postaje", "vidimo", "svi", "ponavljaju"],
+    "full": "Ponašanje postaje normalno kada vidimo da ga svi ponavljaju.",
+    "source": { "type": "Sociologija", "author": "Norbert Elias", "note": "parafraza" }
+  },
+
+  {
+    "id": 261,
+    "category": "realizam",
+    "text": "Život ___ ne traži ___, već ___ ___.",
+    "missing": ["nikada", "razumevanje", "odgovornost", "prema njemu"],
+    "full": "Život nikada ne traži razumevanje, već odgovornost prema njemu.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 262,
+    "category": "romantizam",
+    "text": "Ljubav ___ snagu jer ___ da ___ ___.",
+    "missing": ["nalazi", "ume", "veruje", "nemogućem"],
+    "full": "Ljubav nalazi snagu jer ume da veruje u nemoguće.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+  {
+    "id": 263,
+    "category": "sociologija",
+    "text": "Identitet se ___ oblikuje kroz ___ koje ___ ___.",
+    "missing": ["često", "uloge", "igramo", "svakodnevno"],
+    "full": "Identitet se često oblikuje kroz uloge koje igramo svakodnevno.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 264,
+    "category": "realizam",
+    "text": "Čovek ___ snagu ne onda kada ___, već kada ___ da ___.",
+    "missing": ["nalazi", "pobedi", "izdrži", "nastavi"],
+    "full": "Čovek nalazi snagu ne onda kada pobedi, već kada izdrži i nastavi.",
+    "source": { "type": "Realizam", "author": "Jack London", "note": "parafraza" }
+  },
+  {
+    "id": 265,
+    "category": "romantizam",
+    "text": "Srce ___ patnju jer ___ da ona ___ ___.",
+    "missing": ["prihvata", "zna", "ima", "smisao"],
+    "full": "Srce prihvata patnju jer zna da ona ima smisao.",
+    "source": { "type": "Romantizam", "author": "John Keats", "note": "parafraza" }
+  },
+  {
+    "id": 266,
+    "category": "sociologija",
+    "text": "Društvo ___ stabilno dok ___ da je ___ ___.",
+    "missing": ["deluje", "veruje", "poredak", "prirodan"],
+    "full": "Društvo deluje stabilno dok veruje da je poredak prirodan.",
+    "source": { "type": "Sociologija", "author": "Max Weber", "note": "parafraza" }
+  },
+  {
+    "id": 267,
+    "category": "realizam",
+    "text": "Čovek ___ život tek kada ___ da nema ___ ___.",
+    "missing": ["razume", "shvati", "lakih", "puteva"],
+    "full": "Čovek razume život tek kada shvati da nema lakih puteva.",
+    "source": { "type": "Realizam", "author": "Ivan Gončarov", "note": "parafraza" }
+  },
+  {
+    "id": 268,
+    "category": "romantizam",
+    "text": "Ljubav ___ opstaje jer ___ da ___ ___.",
+    "missing": ["ne", "prihvata", "bude", "savršena"],
+    "full": "Ljubav ne opstaje jer je savršena, već jer prihvata da bude nesavršena.",
+    "source": { "type": "Romantizam", "author": "George Sand", "note": "parafraza" }
+  },
+  {
+    "id": 269,
+    "category": "sociologija",
+    "text": "Promena ___ počinje kada ___ da staro ___ ___.",
+    "missing": ["društvena", "priznamo", "više", "ne funkcioniše"],
+    "full": "Promena društvena počinje kada priznamo da staro više ne funkcioniše.",
+    "source": { "type": "Sociologija", "author": "Ulrich Beck", "note": "parafraza" }
+  },
+  {
+    "id": 270,
+    "category": "realizam",
+    "text": "Život ___ često surov, ali ___ ___.",
+    "missing": ["jeste", "uvek", "dosledan"],
+    "full": "Život jeste često surov, ali je uvek dosledan.",
+    "source": { "type": "Realizam", "author": "Charles Dickens", "note": "parafraza" }
+  },
+
+  {
+    "id": 271,
+    "category": "romantizam",
+    "text": "Čovek ___ potpun tek kada ___ da voli ___ ___.",
+    "missing": ["postaje", "nauči", "bez", "uslova"],
+    "full": "Čovek postaje potpun tek kada nauči da voli bez uslova.",
+    "source": { "type": "Romantizam", "author": "Percy Bysshe Shelley", "note": "parafraza" }
+  },
+  {
+    "id": 272,
+    "category": "sociologija",
+    "text": "Kolektivna istina ___ nastaje kada ___ da je ___ ___.",
+    "missing": ["često", "ponavljamo", "neko", "izgovorio"],
+    "full": "Kolektivna istina često nastaje kada ponavljamo ono što je neko izgovorio.",
+    "source": { "type": "Sociologija", "author": "Hannah Arendt", "note": "parafraza" }
+  },
+  {
+    "id": 273,
+    "category": "realizam",
+    "text": "Čovek ___ vrednost ne u ___, već u ___ da ___.",
+    "missing": ["nalazi", "rečima", "delima", "istraje"],
+    "full": "Čovek nalazi vrednost ne u rečima, već u delima i istrajnosti.",
+    "source": { "type": "Realizam", "author": "Leo Tolstoy", "note": "parafraza" }
+  },
+  {
+    "id": 274,
+    "category": "romantizam",
+    "text": "Duša ___ svetlija kada ___ da ___ ___.",
+    "missing": ["postaje", "veruje", "čuda", "postoje"],
+    "full": "Duša postaje svetlija kada veruje da čuda postoje.",
+    "source": { "type": "Romantizam", "author": "William Blake", "note": "parafraza" }
+  },
+  {
+    "id": 275,
+    "category": "sociologija",
+    "text": "Moć ___ opstaje jer ___ da je ___ ___.",
+    "missing": ["dugo", "uverava", "neminovna", "prirodna"],
+    "full": "Moć dugo opstaje jer uverava da je neminovna i prirodna.",
+    "source": { "type": "Sociologija", "author": "Antonio Gramsci", "note": "parafraza" }
+  },
+  {
+    "id": 276,
+    "category": "realizam",
+    "text": "Čovek ___ snagu tek kada ___ da nema ___ ___.",
+    "missing": ["otkriva", "shvati", "koga", "da krivi"],
+    "full": "Čovek otkriva snagu tek kada shvati da nema koga da krivi.",
+    "source": { "type": "Realizam", "author": "Fjodor Dostojevski", "note": "parafraza" }
+  },
+  {
+    "id": 277,
+    "category": "romantizam",
+    "text": "Ljubav ___ smisao jer ___ da ___ ___.",
+    "missing": ["ima", "ume", "vidi", "nevidljivo"],
+    "full": "Ljubav ima smisao jer ume da vidi nevidljivo.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+  {
+    "id": 278,
+    "category": "sociologija",
+    "text": "Društvo ___ granice ne samo kroz ___, već kroz ___ ___.",
+    "missing": ["postavlja", "zakone", "navike", "ponašanja"],
+    "full": "Društvo postavlja granice ne samo kroz zakone, već kroz navike ponašanja.",
+    "source": { "type": "Sociologija", "author": "Norbert Elias", "note": "parafraza" }
+  },
+  {
+    "id": 279,
+    "category": "realizam",
+    "text": "Život ___ ne nudi ___, ali ___ ___.",
+    "missing": ["ne", "garancije", "uvek", "posledice"],
+    "full": "Život ne nudi garancije, ali uvek nudi posledice.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 280,
+    "category": "romantizam",
+    "text": "Čovek ___ celinu tek kada ___ da voli ___ ___.",
+    "missing": ["oseća", "nauči", "bez", "straha"],
+    "full": "Čovek oseća celinu tek kada nauči da voli bez straha.",
+    "source": { "type": "Romantizam", "author": "Rainer Maria Rilke", "note": "parafraza" }
+  },
+
+  {
+    "id": 281,
+    "category": "Psihologija",
+    "text": "Čovek ___ sebe tek kada ___ da ne mora ___ da bi ___.",
+    "missing": ["razume", "shvati", "pobedi", "vredeo"],
+    "full": "Čovek razume sebe tek kada shvati da ne mora da pobedi da bi vredeo.",
+    "source": { "type": "Psihologija / Književnost", "author": "Herman Hese", "note": "parafraza" }
+  },
+  {
+    "id": 282,
+    "category": "Sociologija",
+    "text": "Društvo ___ mirno dok ___ da su ___ ___.",
+    "missing": ["deluje", "veruje", "pravila", "prirodna"],
+    "full": "Društvo deluje mirno dok veruje da su pravila prirodna.",
+    "source": { "type": "Sociologija", "author": "Pierre Bourdieu", "note": "parafraza" }
+  },
+  {
+    "id": 283,
+    "category": "Romantizam",
+    "text": "Ljubav ___ hrabra jer ___ da ___ bez ___.",
+    "missing": ["ostaje", "ume", "voli", "garancija"],
+    "full": "Ljubav ostaje hrabra jer ume da voli bez garancija.",
+    "source": { "type": "Romantizam", "author": "Rainer Maria Rilke", "note": "parafraza" }
+  },
+  {
+    "id": 284,
+    "category": "Realizam",
+    "text": "Život ___ ne pita šta ___, već šta ___ da ___.",
+    "missing": ["nikada", "želimo", "možemo", "izdržimo"],
+    "full": "Život nikada ne pita šta želimo, već šta možemo da izdržimo.",
+    "source": { "type": "Realizam", "author": "Anton Čehov", "note": "parafraza" }
+  },
+  {
+    "id": 285,
+    "category": "Psihologija",
+    "text": "Čovek ___ granice tek kada ___ da ih ___ bez ___.",
+    "missing": ["postavlja", "shvati", "može", "krivice"],
+    "full": "Čovek postavlja granice tek kada shvati da ih može postaviti bez krivice.",
+    "source": { "type": "Psihologija", "author": "Harriet Lerner", "note": "parafraza" }
+  },
+  {
+    "id": 286,
+    "category": "Filozofija",
+    "text": "Istina ___ oslobađa samo onoga ko ___ da je ___ ___.",
+    "missing": ["najviše", "prihvati", "neprijatna", "ponekad"],
+    "full": "Istina najviše oslobađa samo onoga ko prihvati da je ponekad neprijatna.",
+    "source": { "type": "Filozofija", "author": "Friedrich Nietzsche", "note": "parafraza" }
+  },
+  {
+    "id": 287,
+    "category": "Sociologija",
+    "text": "Identitet se ___ lakše kada ___ da ga ___ ___.",
+    "missing": ["menja", "verujemo", "biramo", "slobodno"],
+    "full": "Identitet se menja lakše kada verujemo da ga biramo slobodno.",
+    "source": { "type": "Sociologija", "author": "Zygmunt Bauman", "note": "parafraza" }
+  },
+  {
+    "id": 288,
+    "category": "Romantizam",
+    "text": "Srce ___ put i onda kada ___ da ga ___ ___.",
+    "missing": ["zna", "razum", "ne vidi", "jasno"],
+    "full": "Srce zna put i onda kada razum ne vidi jasno.",
+    "source": { "type": "Romantizam", "author": "William Wordsworth", "note": "parafraza" }
+  },
+  {
+    "id": 289,
+    "category": "Realizam",
+    "text": "Čovek ___ snagu ne u ___, već u ___ da ___.",
+    "missing": ["nalazi", "nadi", "istrajnosti", "nastavi"],
+    "full": "Čovek nalazi snagu ne u nadi, već u istrajnosti da nastavi.",
+    "source": { "type": "Realizam", "author": "Jack London", "note": "parafraza" }
+  },
+  {
+    "id": 290,
+    "category": "Sociologija",
+    "text": "Moć ___ najjača onda kada ___ da je ___ ___.",
+    "missing": ["postaje", "uveri", "normalna", "stvar"],
+    "full": "Moć postaje najjača onda kada uveri da je normalna stvar.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+
+  {
+    "id": 291,
+    "category": "Realizam",
+    "text": "Čovek ___ zrelost onda kada ___ da nema ___ ___.",
+    "missing": ["pokazuje", "shvati", "koga", "da krivi"],
+    "full": "Čovek pokazuje zrelost onda kada shvati da nema koga da krivi.",
+    "source": { "type": "Realizam / Filozofija", "author": "Fjodor Dostojevski", "note": "parafraza" }
+  },
+  {
+    "id": 292,
+    "category": "Romantizam",
+    "text": "Ljubav ___ opstaje jer ___ da ___ ___.",
+    "missing": ["ne", "prihvata", "bude", "savršena"],
+    "full": "Ljubav ne opstaje jer je savršena, već jer prihvata da bude nesavršena.",
+    "source": { "type": "Romantizam", "author": "George Sand", "note": "parafraza" }
+  },
+  {
+    "id": 293,
+    "category": "Sociologija",
+    "text": "Društvo ___ promenu tek kada ___ da staro ___ ___.",
+    "missing": ["prihvata", "prizna", "više", "ne funkcioniše"],
+    "full": "Društvo prihvata promenu tek kada prizna da staro više ne funkcioniše.",
+    "source": { "type": "Sociologija", "author": "Ulrich Beck", "note": "parafraza" }
+  },
+  {
+    "id": 294,
+    "category": "Realizam",
+    "text": "Život ___ ne nudi ___, ali ___ ___.",
+    "missing": ["ne", "garancije", "uvek", "posledice"],
+    "full": "Život ne nudi garancije, ali uvek nudi posledice.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 295,
+    "category": "Romantizam",
+    "text": "Čovek ___ sebe celim tek kada ___ da voli ___ ___.",
+    "missing": ["oseća", "nauči", "bez", "straha"],
+    "full": "Čovek oseća sebe celim tek kada nauči da voli bez straha.",
+    "source": { "type": "Romantizam / Psihologija", "author": "Rainer Maria Rilke", "note": "parafraza" }
+  },
+  {
+    "id": 296,
+    "category": "Sociologija",
+    "text": "Norme ___ najjače onda kada ___ da su ___ ___.",
+    "missing": ["postaju", "verujemo", "nevidljive", "istine"],
+    "full": "Norme postaju najjače onda kada verujemo da su nevidljive istine.",
+    "source": { "type": "Sociologija", "author": "Norbert Elias", "note": "parafraza" }
+  },
+  {
+    "id": 297,
+    "category": "Filozofija",
+    "text": "Istina ___ težinu samo ako ___ da se ___ ___.",
+    "missing": ["ima", "mora", "živi", "svakodnevno"],
+    "full": "Istina ima težinu samo ako mora da se živi svakodnevno.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 298,
+    "category": "Realizam",
+    "text": "Čovek ___ snove ne zato što ___, već zato što ___ ___.",
+    "missing": ["odlaže", "ne želi", "nema", "vremena"],
+    "full": "Čovek odlaže snove ne zato što ne želi, već zato što nema vremena.",
+    "source": { "type": "Realizam", "author": "Ivan Turgenjev", "note": "parafraza" }
+  },
+  {
+    "id": 299,
+    "category": "Psihologija",
+    "text": "Empatija ___ saglasnost, već ___ razumevanje ___.",
+    "missing": ["ne zahteva", "pretpostavlja", "drugog"],
+    "full": "Empatija ne zahteva saglasnost, već pretpostavlja razumevanje drugog.",
+    "source": { "type": "Psihologija", "author": "Carl Rogers", "note": "parafraza" }
+  },
+  {
+    "id": 300,
+    "category": "Filozofija",
+    "text": "Sloboda ___ teret samo onome ko ___ da ___ odgovornost ___.",
+    "missing": ["postaje", "odbija", "preuzme", "izbora"],
+    "full": "Sloboda postaje teret samo onome ko odbija da preuzme odgovornost izbora.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+
+  {
+    "id": 301,
+    "category": "Knjizevnost",
+    "text": "Čovek ___ mir ne kada ___ sve, već kada ___ da ___ ___.",
+    "missing": ["nalazi", "razume", "prihvati", "ne mora", "sve"],
+    "full": "Čovek nalazi mir ne kada razume sve, već kada prihvati da ne mora sve.",
+    "source": { "type": "Književnost / Psihologija", "author": "Albert Camus", "note": "parafraza" }
+  },
+  {
+    "id": 302,
+    "category": "Sociologija",
+    "text": "Pritisak većine ___ snažan jer ___ da ___ ___.",
+    "missing": ["postaje", "obećava", "nećeš", "biti sam"],
+    "full": "Pritisak većine postaje snažan jer obećava da nećeš biti sam.",
+    "source": { "type": "Sociologija", "author": "Alexis de Tocqueville", "note": "parafraza" }
+  },
+  {
+    "id": 303,
+    "category": "Romantizam",
+    "text": "Ljubav ___ smisao svetu jer ___ ono što ___ ___.",
+    "missing": ["daje", "vidi", "razum", "ne može"],
+    "full": "Ljubav daje smisao svetu jer vidi ono što razum ne može.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+  {
+    "id": 304,
+    "category": "Realizam",
+    "text": "Život ___ ravnodušan prema ___, ali ne i prema ___.",
+    "missing": ["ostaje", "nadama", "postupcima"],
+    "full": "Život ostaje ravnodušan prema nadama, ali ne i prema postupcima.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 305,
+    "category": "Sociologija",
+    "text": "Identitet ___ nastaje između ___ i ___ koje ___ ___.",
+    "missing": ["često", "ličnog", "društvenog", "igramo", "svakodnevno"],
+    "full": "Identitet često nastaje između ličnog i društvenog koje igramo svakodnevno.",
+    "source": { "type": "Sociologija / Psihologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 306,
+    "category": "Knjizevnost",
+    "text": "Čovek ___ snagu onda kada ___ da može ___ i ___.",
+    "missing": ["otkriva", "shvati", "pasti", "ustati"],
+    "full": "Čovek otkriva snagu onda kada shvati da može pasti i ustati.",
+    "source": { "type": "Književnost", "author": "Jack London", "note": "parafraza" }
+  },
+  {
+    "id": 307,
+    "category": "Sociologija",
+    "text": "Kultura ___ granice nevidljivo, kroz ___ koje ___ ___.",
+    "missing": ["postavlja", "navike", "ponavljamo", "dugo"],
+    "full": "Kultura postavlja granice nevidljivo, kroz navike koje ponavljamo dugo.",
+    "source": { "type": "Sociologija", "author": "Clifford Geertz", "note": "parafraza" }
+  },
+  {
+    "id": 308,
+    "category": "romantizam",
+    "text": "Duša ___ nemir jer ___ da je ___ više ___.",
+    "missing": ["oseća", "naslućuje", "život", "od viđenog"],
+    "full": "Duša oseća nemir jer naslućuje da je život više od viđenog.",
+    "source": { "type": "Romantizam", "author": "William Blake", "note": "parafraza" }
+  },
+  {
+    "id": 309,
+    "category": "filozofija",
+    "text": "Odgovornost ___ počinje onda kada ___ da se ___ iza ___.",
+    "missing": ["stvarno", "prestane", "krije", "okolnosti"],
+    "full": "Odgovornost stvarno počinje onda kada prestane da se krije iza okolnosti.",
+    "source": { "type": "Filozofija", "author": "Karl Jaspers", "note": "parafraza" }
+  },
+  {
+    "id": 310,
+    "category": "filozofija",
+    "text": "Čovek ___ slobodu tek kada ___ da ona ___ ___.",
+    "missing": ["razume", "shvati", "nosi", "posledice"],
+    "full": "Čovek razume slobodu tek kada shvati da ona nosi posledice.",
+    "source": { "type": "Filozofija / Sociologija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+
+  {
+    "id": 311,
+    "category": "psihologija",
+    "text": "Čovek ___ emocije ne zato što ___ da ih ____, već zato što ___ da će ___.",
+    "missing": ["potiskuje", "ne ume", "izrazi", "veruje", "biti povređen"],
+    "full": "Čovek potiskuje emocije ne zato što ne ume da ih izrazi, već zato što veruje da će biti povređen.",
+    "source": { "type": "Psihologija", "author": "Carl Rogers", "note": "parafraza" }
+  },
+  {
+    "id": 312,
+    "category": "književnost",
+    "text": "Čovek ___ sebe tek kada ___ da više ___ kome da ___.",
+    "missing": ["razume", "shvati", "nema", "se pravda"],
+    "full": "Čovek razume sebe tek kada shvati da više nema kome da se pravda.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+  {
+    "id": 313,
+    "category": "sociologija",
+    "text": "Društvo ___ pojedinca više kroz ___ nego kroz ___ ___.",
+    "missing": ["oblikuje", "očekivanja", "otvorene", "zabrane"],
+    "full": "Društvo oblikuje pojedinca više kroz očekivanja nego kroz otvorene zabrane.",
+    "source": { "type": "Sociologija", "author": "Émile Durkheim", "note": "parafraza" }
+  },
+  {
+    "id": 314,
+    "category": "filozofija",
+    "text": "Sloboda ___ teret samo onome ko ___ da ___ odgovornost ___.",
+    "missing": ["postaje", "odbija", "preuzme", "izbora"],
+    "full": "Sloboda postaje teret samo onome ko odbija da preuzme odgovornost izbora.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+  {
+    "id": 315,
+    "category": "realizam",
+    "text": "Život ___ ne pita šta ___, već šta ___ da ___.",
+    "missing": ["nikada", "želimo", "možemo", "izdržimo"],
+    "full": "Život nikada ne pita šta želimo, već šta možemo da izdržimo.",
+    "source": { "type": "Realizam", "author": "Anton Čehov", "note": "parafraza" }
+  },
+  {
+    "id": 316,
+    "category": "romantizam",
+    "text": "Ljubav ___ razumu jer ___ tamo gde ___ ___.",
+    "missing": ["ne podleže", "počinje", "logika", "prestaje"],
+    "full": "Ljubav ne podleže razumu jer počinje tamo gde logika prestaje.",
+    "source": { "type": "Romantizam", "author": "Novalis", "note": "parafraza" }
+  },
+
+  {
+    "id": 317,
+    "category": "psihologija",
+    "text": "Samopouzdanje se ___ kada ___ da greška ne ___ vrednost ___.",
+    "missing": ["gradi", "shvati", "određuje", "ličnu"],
+    "full": "Samopouzdanje se gradi kada se shvati da greška ne određuje ličnu vrednost.",
+    "source": { "type": "Psihologija", "author": "Nathaniel Branden", "note": "parafraza" }
+  },
+  {
+    "id": 318,
+    "category": "književnost",
+    "text": "Čovek ___ snagu tek kada ___ da može ___ i ___.",
+    "missing": ["otkrije", "shvati", "pasti", "ustati"],
+    "full": "Čovek otkrije snagu tek kada shvati da može pasti i ustati.",
+    "source": { "type": "Književnost", "author": "Jack London", "note": "parafraza" }
+  },
+  {
+    "id": 319,
+    "category": "sociologija",
+    "text": "Norme ___ najjače onda kada ___ da su ___.",
+    "missing": ["postaju", "verujemo", "prirodne"],
+    "full": "Norme postaju najjače onda kada verujemo da su prirodne.",
+    "source": { "type": "Sociologija", "author": "Pierre Bourdieu", "note": "parafraza" }
+  },
+  {
+    "id": 320,
+    "category": "filozofija",
+    "text": "Istina ___ oslobađa ne zato što ___ laka, već zato što ___ da se ___.",
+    "missing": ["najviše", "je", "zahteva", "prihvati"],
+    "full": "Istina najviše oslobađa ne zato što je laka, već zato što zahteva da se prihvati.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 321,
+    "category": "realizam",
+    "text": "Čovek ___ mudrost tek kada ___ da nema ___ ___.",
+    "missing": ["stiče", "shvati", "lakih", "odgovora"],
+    "full": "Čovek stiče mudrost tek kada shvati da nema lakih odgovora.",
+    "source": { "type": "Realizam", "author": "George Eliot", "note": "parafraza" }
+  },
+  {
+    "id": 322,
+    "category": "romantizam",
+    "text": "Duša ___ nemir jer ___ da je ___ više ___.",
+    "missing": ["oseća", "naslućuje", "život", "od viđenog"],
+    "full": "Duša oseća nemir jer naslućuje da je život više od viđenog.",
+    "source": { "type": "Romantizam", "author": "William Blake", "note": "parafraza" }
+  },
+
+  {
+    "id": 323,
+    "category": "psihologija",
+    "text": "Anksioznost se ___ kada ___ da se ___ sa ___.",
+    "missing": ["smanjuje", "nauči", "ostane", "neprijatnošću"],
+    "full": "Anksioznost se smanjuje kada se nauči da se ostane sa neprijatnošću.",
+    "source": { "type": "Psihologija", "author": "Steven Hayes", "note": "parafraza" }
+  },
+  {
+    "id": 324,
+    "category": "književnost",
+    "text": "Čovek ___ prošlost dokle god ___ da je ona ___ što ___.",
+    "missing": ["nosi", "veruje", "jedino", "ima"],
+    "full": "Čovek nosi prošlost dokle god veruje da je ona jedino što ima.",
+    "source": { "type": "Književnost", "author": "Danilo Kiš", "note": "parafraza" }
+  },
+  {
+    "id": 325,
+    "category": "sociologija",
+    "text": "Moć ___ deluje najjače onda kada ___ da je ___.",
+    "missing": ["postaje", "uveri", "normalna"],
+    "full": "Moć deluje najjače onda kada uveri da je normalna.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+  {
+    "id": 326,
+    "category": "filozofija",
+    "text": "Spoznaja ___ nije kraj ___, već početak ___.",
+    "missing": ["sebe", "puta", "odgovornosti"],
+    "full": "Spoznaja sebe nije kraj puta, već početak odgovornosti.",
+    "source": { "type": "Filozofija", "author": "Sokrat", "note": "parafraza" }
+  },
+  {
+    "id": 327,
+    "category": "realizam",
+    "text": "Život ___ ravnodušan prema ___, ali ne i prema ___.",
+    "missing": ["ostaje", "nadama", "postupcima"],
+    "full": "Život ostaje ravnodušan prema nadama, ali ne i prema postupcima.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 328,
+    "category": "romantizam",
+    "text": "Ljubav ___ smisao svetu jer ___ ono što ___ ___.",
+    "missing": ["daje", "vidi", "razum", "ne može"],
+    "full": "Ljubav daje smisao svetu jer vidi ono što razum ne može.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+
+  {
+    "id": 329,
+    "category": "psihologija",
+    "text": "Čovek ___ promenu tek kada ___ da ga ___ više ___.",
+    "missing": ["prihvati", "shvati", "nepromena", "košta"],
+    "full": "Čovek prihvati promenu tek kada shvati da ga nepromena košta više.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+  {
+    "id": 330,
+    "category": "književnost",
+    "text": "Čovek ___ mir ne kada ___ sve, već kada ___ da ___ ___.",
+    "missing": ["nalazi", "razume", "prihvati", "ne mora", "sve"],
+    "full": "Čovek nalazi mir ne kada razume sve, već kada prihvati da ne mora sve.",
+    "source": { "type": "Književnost", "author": "Albert Kami", "note": "parafraza" }
+  },
+  {
+    "id": 331,
+    "category": "sociologija",
+    "text": "Identitet se ___ između ___ i ___ koje ___ ___.",
+    "missing": ["gradi", "ličnog", "društvenog", "igramo", "svakodnevno"],
+    "full": "Identitet se gradi između ličnog i društvenog koje igramo svakodnevno.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 332,
+    "category": "filozofija",
+    "text": "Odgovornost ___ počinje onda kada ___ da se ___ iza ___.",
+    "missing": ["stvarno", "prestane", "krije", "okolnosti"],
+    "full": "Odgovornost stvarno počinje onda kada prestane da se krije iza okolnosti.",
+    "source": { "type": "Filozofija", "author": "Karl Jaspers", "note": "parafraza" }
+  },
+  {
+    "id": 333,
+    "category": "realizam",
+    "text": "Čovek ___ snagu ne u ___, već u ___ da ___.",
+    "missing": ["nalazi", "iluzijama", "spremnosti", "se suoči"],
+    "full": "Čovek nalazi snagu ne u iluzijama, već u spremnosti da se suoči.",
+    "source": { "type": "Realizam", "author": "Fjodor Dostojevski", "note": "parafraza" }
+  },
+  {
+    "id": 334,
+    "category": "romantizam",
+    "text": "Srce ___ istinu pre nego što ___ nauči da ___.",
+    "missing": ["oseća", "razum", "sumnja"],
+    "full": "Srce oseća istinu pre nego što razum nauči da sumnja.",
+    "source": { "type": "Romantizam", "author": "Jean-Jacques Rousseau", "note": "parafraza" }
+  },
+
+  {
+    "id": 335,
+    "category": "psihologija",
+    "text": "Granice ___ znak ___, već znak ___.",
+    "missing": ["nisu", "hladnoće", "zrelosti"],
+    "full": "Granice nisu znak hladnoće, već znak zrelosti.",
+    "source": { "type": "Psihologija", "author": "Harriet Lerner", "note": "parafraza" }
+  },
+  {
+    "id": 336,
+    "category": "književnost",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da se ___ iza ___.",
+    "missing": ["otkrije", "prestane", "krije", "rečima"],
+    "full": "Čovek otkrije istinu o sebi tek kada prestane da se krije iza reči.",
+    "source": { "type": "Književnost", "author": "Ivo Andrić", "note": "parafraza" }
+  },
+  {
+    "id": 337,
+    "category": "sociologija",
+    "text": "Pritisak većine ___ snažan jer ___ da ___ ___.",
+    "missing": ["postaje", "obećava", "nećeš", "biti sam"],
+    "full": "Pritisak većine postaje snažan jer obećava da nećeš biti sam.",
+    "source": { "type": "Sociologija", "author": "Alexis de Tocqueville", "note": "parafraza" }
+  },
+  {
+    "id": 338,
+    "category": "filozofija",
+    "text": "Sloboda ___ smisao tek kada ___ da se ___ ___.",
+    "missing": ["dobija", "prihvati", "nosi", "odgovorno"],
+    "full": "Sloboda dobija smisao tek kada se prihvati da se nosi odgovorno.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+  {
+    "id": 339,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost ne kada ___, već kada ___ da ___.",
+    "missing": ["pokazuje", "pobedi", "nauči", "izgubi"],
+    "full": "Čovek pokazuje zrelost ne kada pobedi, već kada nauči da izgubi.",
+    "source": { "type": "Realizam", "author": "Ivan Gončarov", "note": "parafraza" }
+  },
+  {
+    "id": 340,
+    "category": "romantizam",
+    "text": "Ljubav ___ ranjiva jer ___ da bude ___ ___.",
+    "missing": ["ostaje", "mora", "iskrena", "do kraja"],
+    "full": "Ljubav ostaje ranjiva jer mora da bude iskrena do kraja.",
+    "source": { "type": "Romantizam", "author": "Mary Shelley", "note": "parafraza" }
+  },
+
+  {
+    "id": 341,
+    "category": "psihologija",
+    "text": "Čovek ___ sebe tek kada ___ da ne mora ___ da bi ___.",
+    "missing": ["prihvati", "shvati", "udovolji", "vredeo"],
+    "full": "Čovek prihvati sebe tek kada shvati da ne mora da udovolji da bi vredeo.",
+    "source": { "type": "Psihologija", "author": "Carl Rogers", "note": "parafraza" }
+  },
+  {
+    "id": 342,
+    "category": "književnost",
+    "text": "Čovek ___ tišinu kada ___ da su ___ iscrpljene ___.",
+    "missing": ["bira", "shvati", "reči", "uzalud"],
+    "full": "Čovek bira tišinu kada shvati da su reči iscrpljene uzalud.",
+    "source": { "type": "Književnost", "author": "Ivo Andrić", "note": "parafraza" }
+  },
+  {
+    "id": 343,
+    "category": "sociologija",
+    "text": "Društvo ___ ponašanje ne kroz ___, već kroz ___ ___.",
+    "missing": ["usmerava", "zakone", "očekivanja", "drugih"],
+    "full": "Društvo usmerava ponašanje ne kroz zakone, već kroz očekivanja drugih.",
+    "source": { "type": "Sociologija", "author": "Émile Durkheim", "note": "parafraza" }
+  },
+  {
+    "id": 344,
+    "category": "filozofija",
+    "text": "Sloboda ___ smisao tek kada ___ da je ___ ___.",
+    "missing": ["dobija", "shvatimo", "uvek", "izbor"],
+    "full": "Sloboda dobija smisao tek kada shvatimo da je uvek izbor.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+  {
+    "id": 345,
+    "category": "realizam",
+    "text": "Život ___ ne štedi nikoga, ali ___ ___.",
+    "missing": ["nikada", "uvek", "podučava"],
+    "full": "Život nikada ne štedi nikoga, ali uvek podučava.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 346,
+    "category": "romantizam",
+    "text": "Ljubav ___ snagu jer ___ da ___ bez ___.",
+    "missing": ["nalazi", "ume", "traje", "razloga"],
+    "full": "Ljubav nalazi snagu jer ume da traje bez razloga.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+
+  {
+    "id": 347,
+    "category": "psihologija",
+    "text": "Strah ___ gubi moć kada ___ da se ___ ___.",
+    "missing": ["postepeno", "dozvoli", "pogleda", "direktno"],
+    "full": "Strah postepeno gubi moć kada se dozvoli da se pogleda direktno.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+  {
+    "id": 348,
+    "category": "književnost",
+    "text": "Čovek ___ prošlost dokle god ___ da je ona ___ što ___.",
+    "missing": ["nosi", "veruje", "jedino", "ima"],
+    "full": "Čovek nosi prošlost dokle god veruje da je ona jedino što ima.",
+    "source": { "type": "Književnost", "author": "Danilo Kiš", "note": "parafraza" }
+  },
+  {
+    "id": 349,
+    "category": "sociologija",
+    "text": "Norme ___ najjače onda kada ___ da su ___.",
+    "missing": ["postaju", "verujemo", "prirodne"],
+    "full": "Norme postaju najjače onda kada verujemo da su prirodne.",
+    "source": { "type": "Sociologija", "author": "Pierre Bourdieu", "note": "parafraza" }
+  },
+  {
+    "id": 350,
+    "category": "filozofija",
+    "text": "Istina ___ zahteva hrabrost jer ___ da se ___ ___.",
+    "missing": ["uvek", "traži", "živi", "dosledno"],
+    "full": "Istina uvek zahteva hrabrost jer traži da se živi dosledno.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 351,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost ne kada ___, već kada ___ da ___.",
+    "missing": ["pokazuje", "pobedi", "nauči", "izgubi"],
+    "full": "Čovek pokazuje zrelost ne kada pobedi, već kada nauči da izgubi.",
+    "source": { "type": "Realizam", "author": "Ivan Gončarov", "note": "parafraza" }
+  },
+  {
+    "id": 352,
+    "category": "romantizam",
+    "text": "Duša ___ svetlija kada ___ da ___ ___.",
+    "missing": ["postaje", "veruje", "čuda", "postoje"],
+    "full": "Duša postaje svetlija kada veruje da čuda postoje.",
+    "source": { "type": "Romantizam", "author": "William Blake", "note": "parafraza" }
+  },
+
+  {
+    "id": 353,
+    "category": "psihologija",
+    "text": "Samopouzdanje ___ raste kada ___ da greška ne ___ ___.",
+    "missing": ["najviše", "shvatimo", "određuje", "vrednost"],
+    "full": "Samopouzdanje najviše raste kada shvatimo da greška ne određuje vrednost.",
+    "source": { "type": "Psihologija", "author": "Nathaniel Branden", "note": "parafraza" }
+  },
+  {
+    "id": 354,
+    "category": "književnost",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da se ___ iza ___.",
+    "missing": ["sazna", "prestane", "krije", "rečima"],
+    "full": "Čovek sazna istinu o sebi tek kada prestane da se krije iza reči.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+  {
+    "id": 355,
+    "category": "sociologija",
+    "text": "Pritisak grupe ___ snažan jer ___ da ___ ___.",
+    "missing": ["postaje", "obećava", "nećeš", "biti sam"],
+    "full": "Pritisak grupe postaje snažan jer obećava da nećeš biti sam.",
+    "source": { "type": "Sociologija", "author": "Alexis de Tocqueville", "note": "parafraza" }
+  },
+  {
+    "id": 356,
+    "category": "filozofija",
+    "text": "Odgovornost ___ počinje onda kada ___ da se ___ iza ___.",
+    "missing": ["stvarno", "prestane", "krije", "okolnosti"],
+    "full": "Odgovornost stvarno počinje onda kada prestane da se krije iza okolnosti.",
+    "source": { "type": "Filozofija", "author": "Karl Jaspers", "note": "parafraza" }
+  },
+  {
+    "id": 357,
+    "category": "realizam",
+    "text": "Život ___ ne traži ___, već ___ ___.",
+    "missing": ["ne", "razumevanje", "reakciju", "na njega"],
+    "full": "Život ne traži razumevanje, već reakciju na njega.",
+    "source": { "type": "Realizam", "author": "Albert Camus", "note": "parafraza" }
+  },
+  {
+    "id": 358,
+    "category": "romantizam",
+    "text": "Ljubav ___ ostaje jer ___ da ___ ___.",
+    "missing": ["ne", "ume", "bude", "tiha"],
+    "full": "Ljubav ne ostaje jer ume da bude tiha.",
+    "source": { "type": "Romantizam", "author": "Rainer Maria Rilke", "note": "parafraza" }
+  },
+
+  {
+    "id": 359,
+    "category": "psihologija",
+    "text": "Promena ___ počinje kada ___ da staro ___ ___.",
+    "missing": ["stvarno", "priznamo", "više", "ne pomaže"],
+    "full": "Promena stvarno počinje kada priznamo da staro više ne pomaže.",
+    "source": { "type": "Psihologija", "author": "James Prochaska", "note": "parafraza" }
+  },
+  {
+    "id": 360,
+    "category": "filozofija",
+    "text": "Čovek ___ slobodu tek kada ___ da ona ___ ___.",
+    "missing": ["razume", "shvati", "nosi", "posledice"],
+    "full": "Čovek razume slobodu tek kada shvati da ona nosi posledice.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+
+  {
+    "id": 361,
+    "category": "psihologija",
+    "text": "Čovek ___ sopstvene emocije ne zato što ___ da ih ___, već zato što ___ da će biti ___ ako ___.",
+    "missing": ["potiskuje", "ne ume", "izrazi", "veruje", "ranjiv", "pokuša"],
+    "full": "Čovek potiskuje sopstvene emocije ne zato što ne ume da ih izrazi, već zato što veruje da će biti ranjiv ako pokuša.",
+    "source": { "type": "Psihologija", "author": "Carl Rogers", "note": "parafraza" }
+  },
+  {
+    "id": 362,
+    "category": "filozofija",
+    "text": "Sloboda ___ postaje teret kada ___ da se ___ bez ___ za ___.",
+    "missing": ["često", "zaboravi", "bira", "odgovornosti", "posledice"],
+    "full": "Sloboda često postaje teret kada se zaboravi da se bira bez odgovornosti za posledice.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+  {
+    "id": 363,
+    "category": "sociologija",
+    "text": "Društvene norme ___ najtrajnije onda kada ___ da su ___, a ne ___ ___.",
+    "missing": ["postaju", "verujemo", "prirodne", "naučene", "strukture"],
+    "full": "Društvene norme postaju najtrajnije onda kada verujemo da su prirodne, a ne naučene strukture.",
+    "source": { "type": "Sociologija", "author": "Pierre Bourdieu", "note": "parafraza" }
+  },
+  {
+    "id": 364,
+    "category": "književnost",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da više ___ kome da ___.",
+    "missing": ["otkriva", "shvati", "nema", "se pravda"],
+    "full": "Čovek otkriva istinu o sebi tek kada shvati da više nema kome da se pravda.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+  {
+    "id": 365,
+    "category": "realizam",
+    "text": "Život ___ ne nagrađuje ___, već ___ koji ___ ___.",
+    "missing": ["često", "namere", "one", "izdrže", "posledice"],
+    "full": "Život često ne nagrađuje namere, već one koji izdrže posledice.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 366,
+    "category": "romantizam",
+    "text": "Ljubav ___ hrabrost jer ___ da ___ bez ___ i ___.",
+    "missing": ["zahteva", "ume", "postoji", "uslova", "garancija"],
+    "full": "Ljubav zahteva hrabrost jer ume da postoji bez uslova i garancija.",
+    "source": { "type": "Romantizam", "author": "Rainer Maria Rilke", "note": "parafraza" }
+  },
+
+  {
+    "id": 367,
+    "category": "psihologija",
+    "text": "Anksioznost ___ jača kada ___ da se ___ od ___ umesto da se ___.",
+    "missing": ["postaje", "pokuša", "pobegne", "neprijatnosti", "suoči"],
+    "full": "Anksioznost postaje jača kada se pokuša pobeći od neprijatnosti umesto da se suoči.",
+    "source": { "type": "Psihologija", "author": "Steven Hayes", "note": "parafraza" }
+  },
+  {
+    "id": 368,
+    "category": "filozofija",
+    "text": "Spoznaja ___ nije kraj ___, već početak ___ i ___.",
+    "missing": ["sebe", "puta", "odgovornosti", "delovanja"],
+    "full": "Spoznaja sebe nije kraj puta, već početak odgovornosti i delovanja.",
+    "source": { "type": "Filozofija", "author": "Sokrat", "note": "parafraza" }
+  },
+  {
+    "id": 369,
+    "category": "sociologija",
+    "text": "Moć ___ deluje najtiše onda kada ___ da je ___ i ___.",
+    "missing": ["najčešće", "uveri", "normalna", "neupitna"],
+    "full": "Moć najčešće deluje najtiše onda kada uveri da je normalna i neupitna.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+  {
+    "id": 370,
+    "category": "književnost",
+    "text": "Čovek ___ mir ne kada ___ odgovore, već kada ___ da neka pitanja ___ ___.",
+    "missing": ["nalazi", "pronađe", "prihvati", "ostanu", "bez"],
+    "full": "Čovek nalazi mir ne kada pronađe odgovore, već kada prihvati da neka pitanja ostanu bez.",
+    "source": { "type": "Književnost", "author": "Albert Camus", "note": "parafraza" }
+  },
+
+  {
+    "id": 371,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost ne kada ___, već kada ___ da ___ ___.",
+    "missing": ["pokazuje", "pobedi", "prihvati", "nije", "uvek"],
+    "full": "Čovek pokazuje zrelost ne kada pobedi, već kada prihvati da nije uvek.",
+    "source": { "type": "Realizam", "author": "Ivan Gončarov", "note": "parafraza" }
+  },
+  {
+    "id": 372,
+    "category": "romantizam",
+    "text": "Duša ___ svet dublje kada ___, nego kada ___ i ___.",
+    "missing": ["razume", "oseća", "meri", "analizira"],
+    "full": "Duša razume svet dublje kada oseća, nego kada meri i analizira.",
+    "source": { "type": "Romantizam", "author": "Friedrich Hölderlin", "note": "parafraza" }
+  },
+  {
+    "id": 373,
+    "category": "psihologija",
+    "text": "Promena ___ postaje moguća tek kada ___ da staro ___ više ___.",
+    "missing": ["stvarno", "priznamo", "ne služi", "nama"],
+    "full": "Promena stvarno postaje moguća tek kada priznamo da staro ne služi više nama.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+  {
+    "id": 374,
+    "category": "filozofija",
+    "text": "Istina ___ zahteva snagu jer ___ da se ___ čak i kada ___.",
+    "missing": ["uvek", "traži", "živi", "boli"],
+    "full": "Istina uvek zahteva snagu jer traži da se živi čak i kada boli.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 375,
+    "category": "sociologija",
+    "text": "Identitet se ___ oblikuje između ___ koje ___ i ___ koje ___.",
+    "missing": ["stalno", "uloga", "igramo", "očekivanja", "ispunjavamo"],
+    "full": "Identitet se stalno oblikuje između uloga koje igramo i očekivanja koje ispunjavamo.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 376,
+    "category": "književnost",
+    "text": "Čovek ___ snagu onda kada ___ da može ___, ali ipak ___.",
+    "missing": ["otkriva", "shvati", "odustati", "nastavi"],
+    "full": "Čovek otkriva snagu onda kada shvati da može odustati, ali ipak nastavi.",
+    "source": { "type": "Književnost", "author": "Jack London", "note": "parafraza" }
+  },
+
+  {
+    "id": 377,
+    "category": "realizam",
+    "text": "Život ___ ne prašta ___, ali ___ ___ ___.",
+    "missing": ["često", "nepažnju", "uvek", "pokazuje", "posledice"],
+    "full": "Život često ne prašta nepažnju, ali uvek pokazuje posledice.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 378,
+    "category": "romantizam",
+    "text": "Ljubav ___ ostaje verna jer ___ da ___ i ___.",
+    "missing": ["ne", "ume", "traje", "u tišini"],
+    "full": "Ljubav ne ostaje verna jer ume da traje u tišini.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+  {
+    "id": 379,
+    "category": "psihologija",
+    "text": "Samosvest ___ raste kada ___ da se ___ bez ___.",
+    "missing": ["najviše", "naučimo", "posmatramo", "osuđivanja"],
+    "full": "Samosvest najviše raste kada naučimo da se posmatramo bez osuđivanja.",
+    "source": { "type": "Psihologija", "author": "Jon Kabat-Zinn", "note": "parafraza" }
+  },
+  {
+    "id": 380,
+    "category": "filozofija",
+    "text": "Čovek ___ smisao ne kada ___ svet, već kada ___ ___.",
+    "missing": ["nalazi", "razume", "deluje", "u njemu"],
+    "full": "Čovek nalazi smisao ne kada razume svet, već kada deluje u njemu.",
+    "source": { "type": "Filozofija", "author": "Hannah Arendt", "note": "parafraza" }
+  },
+
+  {
+    "id": 381,
+    "category": "psihologija",
+    "text": "Čovek ___ sopstvene potrebe jer ___ da će, ako ih ___, biti ___, ___ i na kraju ___.",
+    "missing": ["zanemaruje", "veruje", "izrazi", "odbačen", "napaćen", "sam"],
+    "full": "Čovek zanemaruje sopstvene potrebe jer veruje da će, ako ih izrazi, biti odbačen, napaćen i na kraju sam.",
+    "source": { "type": "Psihologija", "author": "Carl Rogers", "note": "parafraza" }
+  },
+  {
+    "id": 382,
+    "category": "filozofija",
+    "text": "Sloboda ___ teret kada ___ da svaki ___ nosi ___, ___ i ___ koje ___.",
+    "missing": ["postaje", "shvatimo", "izbor", "odgovornost", "posledice", "težinu", "ostaje"],
+    "full": "Sloboda postaje teret kada shvatimo da svaki izbor nosi odgovornost, posledice i težinu koje ostaju.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+  {
+    "id": 383,
+    "category": "sociologija",
+    "text": "Društvene norme ___ opstaju jer ___ da su ___, ___ i deo ___ koji ___ ___.",
+    "missing": ["dugo", "verujemo", "prirodne", "neizbežne", "poretka", "ne dovodimo", "u pitanje"],
+    "full": "Društvene norme dugo opstaju jer verujemo da su prirodne, neizbežne i deo poretka koji ne dovodimo u pitanje.",
+    "source": { "type": "Sociologija", "author": "Pierre Bourdieu", "note": "parafraza" }
+  },
+  {
+    "id": 384,
+    "category": "književnost",
+    "text": "Čovek ___ mir tek kada ___ da ne mora ___ svaku ___, ___ i ___ koja ___.",
+    "missing": ["nalazi", "prihvati", "razume", "tišinu", "sumnju", "bol", "dolazi"],
+    "full": "Čovek nalazi mir tek kada prihvati da ne mora razumeti svaku tišinu, sumnju i bol koja dolazi.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+  {
+    "id": 385,
+    "category": "realizam",
+    "text": "Život ___ ne pita šta ___, već koliko ___ da ___, ___ i ___ bez ___.",
+    "missing": ["nikada", "želimo", "možemo", "izdržimo", "ponesemo", "nastavimo", "iluzija"],
+    "full": "Život nikada ne pita šta želimo, već koliko možemo da izdržimo, ponesemo i nastavimo bez iluzija.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 386,
+    "category": "romantizam",
+    "text": "Ljubav ___ snagu jer ___ da ___ čak i kada ___, ___ i ___ ___.",
+    "missing": ["crpi", "ume", "postoji", "boli", "sumnja", "gubi", "sigurnost"],
+    "full": "Ljubav crpi snagu jer ume da postoji čak i kada boli, sumnja i gubi sigurnost.",
+    "source": { "type": "Romantizam", "author": "Rainer Maria Rilke", "note": "parafraza" }
+  },
+
+  {
+    "id": 387,
+    "category": "psihologija",
+    "text": "Anksioznost ___ raste kada ___ da se ___ od ___ umesto da ___ kroz ___.",
+    "missing": ["najviše", "pokušamo", "sakrijemo", "straha", "prođemo", "iskustvo"],
+    "full": "Anksioznost najviše raste kada pokušamo da se sakrijemo od straha umesto da prođemo kroz iskustvo.",
+    "source": { "type": "Psihologija", "author": "Steven Hayes", "note": "parafraza" }
+  },
+  {
+    "id": 388,
+    "category": "filozofija",
+    "text": "Spoznaja ___ nije kraj ___, već početak ___, ___ i ___ koje ___.",
+    "missing": ["sebe", "puta", "odgovornosti", "delovanja", "sumnje", "menja"],
+    "full": "Spoznaja sebe nije kraj puta, već početak odgovornosti, delovanja i sumnje koje menja.",
+    "source": { "type": "Filozofija", "author": "Sokrat", "note": "parafraza" }
+  },
+  {
+    "id": 389,
+    "category": "sociologija",
+    "text": "Moć ___ najtiša onda kada ___ da je ___, ___ i deo ___ koji ___.",
+    "missing": ["postaje", "uveri", "normalna", "nevidljiva", "svakodnevice", "prihvatamo"],
+    "full": "Moć postaje najtiša onda kada uveri da je normalna, nevidljiva i deo svakodnevice koji prihvatamo.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+  {
+    "id": 390,
+    "category": "književnost",
+    "text": "Čovek ___ snagu ne kada ___ da pobedi, već kada ___ da može ___, ali ipak ___.",
+    "missing": ["otkriva", "misli", "shvati", "odustati", "nastavi"],
+    "full": "Čovek otkriva snagu ne kada misli da pobedi, već kada shvati da može odustati, ali ipak nastavi.",
+    "source": { "type": "Književnost", "author": "Jack London", "note": "parafraza" }
+  },
+
+  {
+    "id": 391,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost tek kada ___ da svet ___ pravedan, ___ ni ___ ___.",
+    "missing": ["dostiže", "shvati", "nije", "uvek", "nikada", "dužan"],
+    "full": "Čovek dostiže zrelost tek kada shvati da svet nije pravedan, uvek ni ikada dužan.",
+    "source": { "type": "Realizam", "author": "George Eliot", "note": "parafraza" }
+  },
+  {
+    "id": 392,
+    "category": "romantizam",
+    "text": "Duša ___ svet dublje kada ___, nego kada ___, ___ i ___ ___.",
+    "missing": ["razume", "oseća", "meri", "analizira", "objašnjava", "razumom"],
+    "full": "Duša razume svet dublje kada oseća, nego kada meri, analizira i objašnjava razumom.",
+    "source": { "type": "Romantizam", "author": "Friedrich Hölderlin", "note": "parafraza" }
+  },
+  {
+    "id": 393,
+    "category": "psihologija",
+    "text": "Promena ___ počinje tek kada ___ da staro ___, ___ i ___ više ___.",
+    "missing": ["stvarno", "priznamo", "ne služi", "ne štiti", "ne pomaže", "nama"],
+    "full": "Promena stvarno počinje tek kada priznamo da staro ne služi, ne štiti i ne pomaže više nama.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+  {
+    "id": 394,
+    "category": "filozofija",
+    "text": "Istina ___ zahteva hrabrost jer ___ da se ___ čak i kada ___ i ___.",
+    "missing": ["uvek", "traži", "živi", "boli", "razara"],
+    "full": "Istina uvek zahteva hrabrost jer traži da se živi čak i kada boli i razara.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 395,
+    "category": "sociologija",
+    "text": "Identitet se ___ stalno između ___ koje ___, ___ koja ___ i ___ koje ___.",
+    "missing": ["gradi", "uloga", "igramo", "pravila", "sledimo", "očekivanja", "ispunjavamo"],
+    "full": "Identitet se stalno gradi između uloga koje igramo, pravila koja sledimo i očekivanja koje ispunjavamo.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 396,
+    "category": "književnost",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da se ___ iza ___, ___ i ___.",
+    "missing": ["sazna", "prestane", "krije", "rečima", "navikama", "izgovorima"],
+    "full": "Čovek sazna istinu o sebi tek kada prestane da se krije iza reči, navika i izgovora.",
+    "source": { "type": "Književnost", "author": "Ivo Andrić", "note": "parafraza" }
+  },
+
+  {
+    "id": 397,
+    "category": "realizam",
+    "text": "Život ___ ne prašta ___, ali ___ uvek ___, ___ i ___.",
+    "missing": ["nikada", "nepažnju", "ostavlja", "tragove", "posledice", "lekcije"],
+    "full": "Život nikada ne prašta nepažnju, ali uvek ostavlja tragove, posledice i lekcije.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 398,
+    "category": "romantizam",
+    "text": "Ljubav ___ opstaje jer ___ da ___ čak i kada ___, ___ i ___ ___.",
+    "missing": ["ne", "ume", "voli", "sumnja", "pati", "nema", "odgovora"],
+    "full": "Ljubav ne opstaje jer ume da voli čak i kada sumnja, pati i nema odgovora.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+  {
+    "id": 399,
+    "category": "psihologija",
+    "text": "Samosvest ___ raste kada ___ da se ___, ___ i ___ bez ___.",
+    "missing": ["najviše", "naučimo", "posmatramo", "prihvatimo", "razumemo", "osuđivanja"],
+    "full": "Samosvest najviše raste kada naučimo da se posmatramo, prihvatimo i razumemo bez osuđivanja.",
+    "source": { "type": "Psihologija", "author": "Jon Kabat-Zinn", "note": "parafraza" }
+  },
+  {
+    "id": 400,
+    "category": "filozofija",
+    "text": "Čovek ___ smisao ne kada ___ svet, već kada ___ u njemu, ___ i ___ ___.",
+    "missing": ["nalazi", "razume", "deluje", "preuzima", "snosi", "odgovornost"],
+    "full": "Čovek nalazi smisao ne kada razume svet, već kada deluje u njemu, preuzima i snosi odgovornost.",
+    "source": { "type": "Filozofija", "author": "Hannah Arendt", "note": "parafraza" }
+  },
+
+  {
+    "id": 401,
+    "category": "psihologija",
+    "text": "Čovek ___ sopstveni bes jer ___ da će, ako ga ___, izgubiti ___, ___ i na kraju ___.",
+    "missing": ["potiskuje", "veruje", "izrazi", "kontrolu", "odobravanje", "pripadnost"],
+    "full": "Čovek potiskuje sopstveni bes jer veruje da će, ako ga izrazi, izgubiti kontrolu, odobravanje i na kraju pripadnost.",
+    "source": { "type": "Psihologija", "author": "Carl Rogers", "note": "parafraza" }
+  },
+  {
+    "id": 402,
+    "category": "filozofija",
+    "text": "Sloboda ___ postaje teret kada ___ da svaki ___ zahteva ___, ___ i trajnu ___.",
+    "missing": ["često", "zaboravimo", "izbor", "odricanje", "odgovornost", "posvećenost"],
+    "full": "Sloboda često postaje teret kada zaboravimo da svaki izbor zahteva odricanje, odgovornost i trajnu posvećenost.",
+    "source": { "type": "Filozofija", "author": "Žan-Pol Sartr", "note": "parafraza" }
+  },
+  {
+    "id": 403,
+    "category": "sociologija",
+    "text": "Društvene hijerarhije ___ opstaju jer ___ da su ___, ___ i deo ___ koji ___ ___.",
+    "missing": ["dugo", "verujemo", "prirodne", "neizbežne", "poretka", "retko", "preispitujemo"],
+    "full": "Društvene hijerarhije dugo opstaju jer verujemo da su prirodne, neizbežne i deo poretka koji retko preispitujemo.",
+    "source": { "type": "Sociologija", "author": "Max Weber", "note": "parafraza" }
+  },
+  {
+    "id": 404,
+    "category": "književnost",
+    "text": "Čovek ___ tišinu tek kada ___ da reči ___, ___ i ___ više ___.",
+    "missing": ["prihvata", "shvati", "ne leče", "ne objašnjavaju", "ne štite", "ništa"],
+    "full": "Čovek prihvata tišinu tek kada shvati da reči ne leče, ne objašnjavaju i ne štite više ništa.",
+    "source": { "type": "Književnost", "author": "Danilo Kiš", "note": "parafraza" }
+  },
+  {
+    "id": 405,
+    "category": "realizam",
+    "text": "Život ___ ne meri namere, već ___, ___ i spremnost da se ___ bez ___.",
+    "missing": ["nikada", "posledice", "izdržljivost", "nastavi", "izgovora"],
+    "full": "Život nikada ne meri namere, već posledice, izdržljivost i spremnost da se nastavi bez izgovora.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 406,
+    "category": "romantizam",
+    "text": "Ljubav ___ hrabrost jer ___ da ___ čak i kada ___, ___ i ___ ___.",
+    "missing": ["zahteva", "ume", "postoji", "boli", "sumnja", "gubi", "sigurnost"],
+    "full": "Ljubav zahteva hrabrost jer ume da postoji čak i kada boli, sumnja i gubi sigurnost.",
+    "source": { "type": "Romantizam", "author": "Rainer Maria Rilke", "note": "parafraza" }
+  },
+
+  {
+    "id": 407,
+    "category": "psihologija",
+    "text": "Anksioznost ___ jača kada ___ da se ___ od ___ umesto da ___ kroz ___.",
+    "missing": ["postaje", "pokušamo", "sakrijemo", "neizvesnosti", "prođemo", "iskustvo"],
+    "full": "Anksioznost postaje jača kada pokušamo da se sakrijemo od neizvesnosti umesto da prođemo kroz iskustvo.",
+    "source": { "type": "Psihologija", "author": "Steven Hayes", "note": "parafraza" }
+  },
+  {
+    "id": 408,
+    "category": "filozofija",
+    "text": "Spoznaja ___ nije kraj ___, već početak ___, ___ i stalne ___.",
+    "missing": ["sebe", "puta", "odgovornosti", "delovanja", "sumnje"],
+    "full": "Spoznaja sebe nije kraj puta, već početak odgovornosti, delovanja i stalne sumnje.",
+    "source": { "type": "Filozofija", "author": "Sokrat", "note": "parafraza" }
+  },
+  {
+    "id": 409,
+    "category": "sociologija",
+    "text": "Moć ___ najtiša onda kada ___ da je ___, ___ i deo ___ koju ___.",
+    "missing": ["postaje", "uveri", "normalna", "nevidljiva", "svakodnevice", "prihvatamo"],
+    "full": "Moć postaje najtiša onda kada uveri da je normalna, nevidljiva i deo svakodnevice koju prihvatamo.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+  {
+    "id": 410,
+    "category": "književnost",
+    "text": "Čovek ___ snagu ne kada ___ da pobedi, već kada ___ da može ___, ali ipak ___.",
+    "missing": ["otkriva", "misli", "shvati", "odustati", "nastavi"],
+    "full": "Čovek otkriva snagu ne kada misli da pobedi, već kada shvati da može odustati, ali ipak nastavi.",
+    "source": { "type": "Književnost", "author": "Jack London", "note": "parafraza" }
+  },
+
+  {
+    "id": 411,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost tek kada ___ da svet ___ pravedan, ___ ni ___ ___.",
+    "missing": ["dostiže", "shvati", "nije", "uvek", "nikada", "dužan"],
+    "full": "Čovek dostiže zrelost tek kada shvati da svet nije pravedan, uvek ni ikada dužan.",
+    "source": { "type": "Realizam", "author": "George Eliot", "note": "parafraza" }
+  },
+  {
+    "id": 412,
+    "category": "romantizam",
+    "text": "Duša ___ svet dublje kada ___, nego kada ___, ___ i ___ ___.",
+    "missing": ["razume", "oseća", "meri", "analizira", "objašnjava", "razumom"],
+    "full": "Duša razume svet dublje kada oseća, nego kada meri, analizira i objašnjava razumom.",
+    "source": { "type": "Romantizam", "author": "Friedrich Hölderlin", "note": "parafraza" }
+  },
+  {
+    "id": 413,
+    "category": "psihologija",
+    "text": "Promena ___ počinje tek kada ___ da staro ___, ___ i ___ više ___.",
+    "missing": ["stvarno", "priznamo", "ne služi", "ne štiti", "ne pomaže", "nama"],
+    "full": "Promena stvarno počinje tek kada priznamo da staro ne služi, ne štiti i ne pomaže više nama.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+  {
+    "id": 414,
+    "category": "filozofija",
+    "text": "Istina ___ zahteva snagu jer ___ da se ___ čak i kada ___ i ___.",
+    "missing": ["uvek", "traži", "živi", "boli", "razara"],
+    "full": "Istina uvek zahteva snagu jer traži da se živi čak i kada boli i razara.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 415,
+    "category": "sociologija",
+    "text": "Identitet se ___ stalno između ___ koje ___, ___ koja ___ i ___ koje ___.",
+    "missing": ["gradi", "uloga", "igramo", "pravila", "sledimo", "očekivanja", "ispunjavamo"],
+    "full": "Identitet se stalno gradi između uloga koje igramo, pravila koja sledimo i očekivanja koje ispunjavamo.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 416,
+    "category": "književnost",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da se ___ iza ___, ___ i ___.",
+    "missing": ["sazna", "prestane", "krije", "rečima", "navikama", "izgovorima"],
+    "full": "Čovek sazna istinu o sebi tek kada prestane da se krije iza reči, navika i izgovora.",
+    "source": { "type": "Književnost", "author": "Ivo Andrić", "note": "parafraza" }
+  },
+
+  {
+    "id": 417,
+    "category": "realizam",
+    "text": "Život ___ ne prašta ___, ali ___ uvek ___, ___ i ___.",
+    "missing": ["nikada", "nepažnju", "ostavlja", "tragove", "posledice", "lekcije"],
+    "full": "Život nikada ne prašta nepažnju, ali uvek ostavlja tragove, posledice i lekcije.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 418,
+    "category": "romantizam",
+    "text": "Ljubav ___ opstaje jer ___ da ___ čak i kada ___, ___ i ___ ___.",
+    "missing": ["ne", "ume", "voli", "sumnja", "pati", "nema", "odgovora"],
+    "full": "Ljubav ne opstaje jer ume da voli čak i kada sumnja, pati i nema odgovora.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+  {
+    "id": 419,
+    "category": "psihologija",
+    "text": "Samosvest ___ raste kada ___ da se ___, ___ i ___ bez ___.",
+    "missing": ["najviše", "naučimo", "posmatramo", "prihvatimo", "razumemo", "osuđivanja"],
+    "full": "Samosvest najviše raste kada naučimo da se posmatramo, prihvatimo i razumemo bez osuđivanja.",
+    "source": { "type": "Psihologija", "author": "Jon Kabat-Zinn", "note": "parafraza" }
+  },
+  {
+    "id": 420,
+    "category": "filozofija",
+    "text": "Čovek ___ smisao ne kada ___ svet, već kada ___ u njemu, ___ i ___ ___.",
+    "missing": ["nalazi", "razume", "deluje", "preuzima", "snosi", "odgovornost"],
+    "full": "Čovek nalazi smisao ne kada razume svet, već kada deluje u njemu, preuzima i snosi odgovornost.",
+    "source": { "type": "Filozofija", "author": "Hannah Arendt", "note": "parafraza" }
+  },
+
+  {
+    "id": 421,
+    "category": "psihologija",
+    "text": "Čovek ___ sopstvenu ranjivost jer ___ da će, ako je ___, izgubiti ___, ___ i ono malo ___ koje ___.",
+    "missing": ["skriva", "veruje", "pokaže", "kontrolu", "poštovanje", "sigurnosti", "ima"],
+    "full": "Čovek skriva sopstvenu ranjivost jer veruje da će, ako je pokaže, izgubiti kontrolu, poštovanje i ono malo sigurnosti koje ima.",
+    "source": { "type": "Psihologija", "author": "Brené Brown", "note": "parafraza" }
+  },
+  {
+    "id": 422,
+    "category": "filozofija",
+    "text": "Sloboda ___ smisao onda kada ___ da je svaki ___ istovremeno ___, ___ i trajna ___.",
+    "missing": ["dobija", "shvatimo", "izbor", "mogućnost", "gubitak", "obaveza"],
+    "full": "Sloboda dobija smisao onda kada shvatimo da je svaki izbor istovremeno mogućnost, gubitak i trajna obaveza.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+  {
+    "id": 423,
+    "category": "sociologija",
+    "text": "Društvene razlike ___ opstaju jer ___ da su ___, ___ i posledica ___ koje ___ ___.",
+    "missing": ["dugoročno", "verujemo", "zaslužene", "neizbežne", "sistema", "retko", "dovodimo u pitanje"],
+    "full": "Društvene razlike dugoročno opstaju jer verujemo da su zaslužene, neizbežne i posledica sistema koje retko dovodimo u pitanje.",
+    "source": { "type": "Sociologija", "author": "Pierre Bourdieu", "note": "parafraza" }
+  },
+  {
+    "id": 424,
+    "category": "književnost",
+    "text": "Čovek ___ samoću tek kada ___ da je ona ___, ___ i ponekad jedini ___ koji ___.",
+    "missing": ["razume", "prihvati", "neizbežna", "tiha", "prostor", "ne laže"],
+    "full": "Čovek razume samoću tek kada prihvati da je ona neizbežna, tiha i ponekad jedini prostor koji ne laže.",
+    "source": { "type": "Književnost", "author": "Danilo Kiš", "note": "parafraza" }
+  },
+  {
+    "id": 425,
+    "category": "realizam",
+    "text": "Život ___ ne nagrađuje ___, već ___, ___ i spremnost da se ___ bez ___.",
+    "missing": ["često", "očekivanja", "upornost", "doslednost", "nastavi", "opravdanja"],
+    "full": "Život često ne nagrađuje očekivanja, već upornost, doslednost i spremnost da se nastavi bez opravdanja.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 426,
+    "category": "romantizam",
+    "text": "Ljubav ___ svoju dubinu jer ___ da ___ čak i kada ___, ___ i ___ ___.",
+    "missing": ["nalazi", "ume", "ostane", "boli", "sumnja", "nema", "obećanja"],
+    "full": "Ljubav nalazi svoju dubinu jer ume da ostane čak i kada boli, sumnja i nema obećanja.",
+    "source": { "type": "Romantizam", "author": "Rainer Maria Rilke", "note": "parafraza" }
+  },
+
+  {
+    "id": 427,
+    "category": "psihologija",
+    "text": "Anksioznost ___ pojačava kada ___ da se ___ od ___ umesto da ___ sa ___.",
+    "missing": ["se", "pokušamo", "odbranimo", "neizvesnosti", "ostanemo", "osećanjem"],
+    "full": "Anksioznost se pojačava kada pokušamo da se odbranimo od neizvesnosti umesto da ostanemo sa osećanjem.",
+    "source": { "type": "Psihologija", "author": "Steven Hayes", "note": "parafraza" }
+  },
+  {
+    "id": 428,
+    "category": "filozofija",
+    "text": "Spoznaja ___ nije završetak ___, već početak ___, ___ i trajnog ___.",
+    "missing": ["sebe", "traganja", "odgovornosti", "delovanja", "preispitivanja"],
+    "full": "Spoznaja sebe nije završetak traganja, već početak odgovornosti, delovanja i trajnog preispitivanja.",
+    "source": { "type": "Filozofija", "author": "Karl Jaspers", "note": "parafraza" }
+  },
+  {
+    "id": 429,
+    "category": "sociologija",
+    "text": "Moć ___ ostaje nevidljiva dok ___ da je ___, ___ i deo ___ koju ___.",
+    "missing": ["najčešće", "verujemo", "normalna", "prirodna", "svakodnevice", "živimo"],
+    "full": "Moć najčešće ostaje nevidljiva dok verujemo da je normalna, prirodna i deo svakodnevice koju živimo.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+  {
+    "id": 430,
+    "category": "književnost",
+    "text": "Čovek ___ mir ne kada ___ sve odgovore, već kada ___ da neka pitanja ___ zauvek ___.",
+    "missing": ["nalazi", "pronađe", "prihvati", "ostanu", "bez"],
+    "full": "Čovek nalazi mir ne kada pronađe sve odgovore, već kada prihvati da neka pitanja ostanu zauvek bez.",
+    "source": { "type": "Književnost", "author": "Albert Camus", "note": "parafraza" }
+  },
+
+  {
+    "id": 431,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost onda kada ___ da svet ___ objašnjenja, ___ ni ___.",
+    "missing": ["dostiže", "shvati", "ne duguje", "pravdu", "utehu"],
+    "full": "Čovek dostiže zrelost onda kada shvati da svet ne duguje objašnjenja, pravdu ni utehu.",
+    "source": { "type": "Realizam", "author": "George Eliot", "note": "parafraza" }
+  },
+  {
+    "id": 432,
+    "category": "romantizam",
+    "text": "Duša ___ istinu pre nego što ___ nauči da ___, ___ i ___ ___.",
+    "missing": ["naslućuje", "razum", "sumnja", "analizira", "zahteva", "dokaze"],
+    "full": "Duša naslućuje istinu pre nego što razum nauči da sumnja, analizira i zahteva dokaze.",
+    "source": { "type": "Romantizam", "author": "Jean-Jacques Rousseau", "note": "parafraza" }
+  },
+  {
+    "id": 433,
+    "category": "psihologija",
+    "text": "Promena ___ nastaje tek kada ___ da staro ___, ___ i ___ više ___.",
+    "missing": ["stvarno", "priznamo", "ne štiti", "ne služi", "ne daje", "smisao"],
+    "full": "Promena stvarno nastaje tek kada priznamo da staro ne štiti, ne služi i ne daje smisao.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+  {
+    "id": 434,
+    "category": "filozofija",
+    "text": "Istina ___ zahteva hrabrost jer ___ da se ___ čak i kada ___ i ___.",
+    "missing": ["uvek", "traži", "živi", "boli", "izoluje"],
+    "full": "Istina uvek zahteva hrabrost jer traži da se živi čak i kada boli i izoluje.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 435,
+    "category": "sociologija",
+    "text": "Identitet se ___ neprekidno između ___ koje ___, ___ koje ___ i ___ koja ___.",
+    "missing": ["gradi", "uloga", "igramo", "pravila", "sledimo", "očekivanja", "ispunjavamo"],
+    "full": "Identitet se gradi neprekidno između uloga koje igramo, pravila koje sledimo i očekivanja koja ispunjavamo.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 436,
+    "category": "književnost",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da se ___ iza ___, ___ i ___.",
+    "missing": ["sazna", "prestane", "krije", "rečima", "navikama", "iluzijama"],
+    "full": "Čovek sazna istinu o sebi tek kada prestane da se krije iza reči, navika i iluzija.",
+    "source": { "type": "Književnost", "author": "Ivo Andrić", "note": "parafraza" }
+  },
+
+  {
+    "id": 437,
+    "category": "realizam",
+    "text": "Život ___ ne oprašta ___, ali ___ uvek ___, ___ i ___.",
+    "missing": ["nikada", "nepažnju", "ostavlja", "tragove", "posledice", "pouke"],
+    "full": "Život nikada ne oprašta nepažnju, ali uvek ostavlja tragove, posledice i pouke.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 438,
+    "category": "romantizam",
+    "text": "Ljubav ___ opstaje jer ___ da ___ čak i kada ___, ___ i ___ ___.",
+    "missing": ["ne", "ume", "voli", "sumnja", "pati", "nema", "razloga"],
+    "full": "Ljubav ne opstaje jer ume da voli čak i kada sumnja, pati i nema razloga.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+  {
+    "id": 439,
+    "category": "psihologija",
+    "text": "Samosvest ___ raste kada ___ da se ___, ___ i ___ bez ___.",
+    "missing": ["najviše", "naučimo", "posmatramo", "prihvatimo", "razumemo", "osuđivanja"],
+    "full": "Samosvest najviše raste kada naučimo da se posmatramo, prihvatimo i razumemo bez osuđivanja.",
+    "source": { "type": "Psihologija", "author": "Jon Kabat-Zinn", "note": "parafraza" }
+  },
+  {
+    "id": 440,
+    "category": "filozofija",
+    "text": "Čovek ___ smisao ne kada ___ svet, već kada ___ u njemu, ___ i ___ ___.",
+    "missing": ["nalazi", "razume", "deluje", "preuzima", "snosi", "odgovornost"],
+    "full": "Čovek nalazi smisao ne kada razume svet, već kada deluje u njemu, preuzima i snosi odgovornost.",
+    "source": { "type": "Filozofija", "author": "Hannah Arendt", "note": "parafraza" }
+  },
+
+  {
+    "id": 441,
+    "category": "psihologija",
+    "text": "Čovek ___ sopstvenu slabost jer ___ da će, ako je ___, izgubiti ___, ___ i osećaj da ___.",
+    "missing": ["poriče", "veruje", "prizna", "kontrolu", "samopoštovanje", "vredi"],
+    "full": "Čovek poriče sopstvenu slabost jer veruje da će, ako je prizna, izgubiti kontrolu, samopoštovanje i osećaj da vredi.",
+    "source": { "type": "Psihologija", "author": "Alfred Adler", "note": "parafraza" }
+  },
+  {
+    "id": 442,
+    "category": "filozofija",
+    "text": "Sloboda ___ prestaje da bude ideal kada ___ da svaki ___ podrazumeva ___, ___ i trajnu ___.",
+    "missing": ["često", "shvatimo", "izbor", "gubitak", "odgovornost", "posledicu"],
+    "full": "Sloboda često prestaje da bude ideal kada shvatimo da svaki izbor podrazumeva gubitak, odgovornost i trajnu posledicu.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+  {
+    "id": 443,
+    "category": "sociologija",
+    "text": "Društveni poredak ___ opstaje jer ___ da je ___, ___ i korisniji od ___ koje ___.",
+    "missing": ["dugoročno", "verujemo", "stabilan", "neizbežan", "haosa", "se bojimo"],
+    "full": "Društveni poredak dugoročno opstaje jer verujemo da je stabilan, neizbežan i korisniji od haosa kojeg se bojimo.",
+    "source": { "type": "Sociologija", "author": "Thomas Hobbes", "note": "parafraza" }
+  },
+  {
+    "id": 444,
+    "category": "književnost",
+    "text": "Čovek ___ tišinu onda kada ___ da su reči ___, ___ i često ___.",
+    "missing": ["bira", "shvati", "nedovoljne", "potrošene", "neiskrene"],
+    "full": "Čovek bira tišinu onda kada shvati da su reči nedovoljne, potrošene i često neiskrene.",
+    "source": { "type": "Književnost", "author": "Ivo Andrić", "note": "parafraza" }
+  },
+  {
+    "id": 445,
+    "category": "realizam",
+    "text": "Život ___ ne vrednuje snove, već ___, ___ i spremnost da se ___ bez ___.",
+    "missing": ["nikada", "posledice", "istrajnost", "nastavi", "iluzija"],
+    "full": "Život nikada ne vrednuje snove, već posledice, istrajnost i spremnost da se nastavi bez iluzija.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 446,
+    "category": "romantizam",
+    "text": "Ljubav ___ opstaje jer ___ da ___ čak i kada ___, ___ i ___ ___.",
+    "missing": ["ponekad", "ume", "traje", "sumnja", "boli", "nema", "razloga"],
+    "full": "Ljubav ponekad opstaje jer ume da traje čak i kada sumnja, boli i nema razloga.",
+    "source": { "type": "Romantizam", "author": "Victor Hugo", "note": "parafraza" }
+  },
+
+  {
+    "id": 447,
+    "category": "psihologija",
+    "text": "Anksioznost ___ postaje nepodnošljiva kada ___ da se ___, ___ i ___ istovremeno ___.",
+    "missing": ["najčešće", "pokušamo", "kontrolišemo", "predvidimo", "izbegnemo", "život"],
+    "full": "Anksioznost najčešće postaje nepodnošljiva kada pokušamo da se kontrolišemo, predvidimo i izbegnemo život istovremeno.",
+    "source": { "type": "Psihologija", "author": "Rollo May", "note": "parafraza" }
+  },
+  {
+    "id": 448,
+    "category": "filozofija",
+    "text": "Spoznaja ___ nije oslobađanje od ___, već prihvatanje ___, ___ i stalne ___.",
+    "missing": ["sebe", "tereta", "nesigurnosti", "ograničenja", "odgovornosti"],
+    "full": "Spoznaja sebe nije oslobađanje od tereta, već prihvatanje nesigurnosti, ograničenja i stalne odgovornosti.",
+    "source": { "type": "Filozofija", "author": "Karl Jaspers", "note": "parafraza" }
+  },
+  {
+    "id": 449,
+    "category": "sociologija",
+    "text": "Moć ___ ostaje stabilna dok ___ da je ___, ___ i neupitni deo ___ ___.",
+    "missing": ["najčešće", "verujemo", "normalna", "prirodna", "svakodnevice", "života"],
+    "full": "Moć najčešće ostaje stabilna dok verujemo da je normalna, prirodna i neupitni deo svakodnevice života.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+  {
+    "id": 450,
+    "category": "književnost",
+    "text": "Čovek ___ mir tek kada ___ da ne mora ___ svaku ___ koju ___.",
+    "missing": ["nalazi", "prihvati", "razreši", "bol", "nosi"],
+    "full": "Čovek nalazi mir tek kada prihvati da ne mora razrešiti svaku bol koju nosi.",
+    "source": { "type": "Književnost", "author": "Meša Selimović", "note": "parafraza" }
+  },
+
+  {
+    "id": 451,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost onda kada ___ da svet ___ objašnjenja, ___ ni ___.",
+    "missing": ["pokazuje", "shvati", "ne duguje", "utehu", "pravdu"],
+    "full": "Čovek pokazuje zrelost onda kada shvati da svet ne duguje objašnjenja, utehu ni pravdu.",
+    "source": { "type": "Realizam", "author": "George Eliot", "note": "parafraza" }
+  },
+  {
+    "id": 452,
+    "category": "romantizam",
+    "text": "Duša ___ istinu mnogo pre nego što ___ nauči da ___, ___ i ___ ___.",
+    "missing": ["nasluti", "razum", "meri", "sumnja", "zahteva", "dokaze"],
+    "full": "Duša nasluti istinu mnogo pre nego što razum nauči da meri, sumnja i zahteva dokaze.",
+    "source": { "type": "Romantizam", "author": "William Blake", "note": "parafraza" }
+  },
+  {
+    "id": 453,
+    "category": "psihologija",
+    "text": "Promena ___ postaje moguća tek kada ___ da staro ___, ___ i ___ više ___.",
+    "missing": ["stvarno", "priznamo", "ne štiti", "ne pomaže", "ne daje", "smisao"],
+    "full": "Promena stvarno postaje moguća tek kada priznamo da staro ne štiti, ne pomaže i ne daje smisao.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+  {
+    "id": 454,
+    "category": "filozofija",
+    "text": "Istina ___ zahteva snagu jer ___ da se ___ čak i kada ___, ___ i ___.",
+    "missing": ["uvek", "traži", "živi", "boli", "izoluje", "razara"],
+    "full": "Istina uvek zahteva snagu jer traži da se živi čak i kada boli, izoluje i razara.",
+    "source": { "type": "Filozofija", "author": "Søren Kierkegaard", "note": "parafraza" }
+  },
+  {
+    "id": 455,
+    "category": "sociologija",
+    "text": "Identitet se ___ oblikuje između ___ koje ___, ___ koje ___ i ___ koja ___.",
+    "missing": ["stalno", "uloga", "igramo", "pravila", "sledimo", "očekivanja", "ispunjavamo"],
+    "full": "Identitet se stalno oblikuje između uloga koje igramo, pravila koje sledimo i očekivanja koja ispunjavamo.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 456,
+    "category": "književnost",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da se ___ iza ___, ___ i ___.",
+    "missing": ["otkrije", "prestane", "skriva", "rečima", "navikama", "maskama"],
+    "full": "Čovek otkrije istinu o sebi tek kada prestane da se skriva iza reči, navika i maski.",
+    "source": { "type": "Književnost", "author": "Franz Kafka", "note": "parafraza" }
+  },
+
+  {
+    "id": 457,
+    "category": "realizam",
+    "text": "Život ___ ne prašta ___, ali ___ uvek ___, ___ i ___.",
+    "missing": ["nikada", "nepažnju", "ostavlja", "tragove", "posledice", "lekcije"],
+    "full": "Život nikada ne prašta nepažnju, ali uvek ostavlja tragove, posledice i lekcije.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 458,
+    "category": "romantizam",
+    "text": "Ljubav ___ ima smisla jer ___ da ___ čak i kada ___, ___ i ___ ___.",
+    "missing": ["ponekad", "ume", "voli", "gubi", "sumnja", "nema", "odgovora"],
+    "full": "Ljubav ponekad ima smisla jer ume da voli čak i kada gubi, sumnja i nema odgovora.",
+    "source": { "type": "Romantizam", "author": "Rainer Maria Rilke", "note": "parafraza" }
+  },
+  {
+    "id": 459,
+    "category": "psihologija",
+    "text": "Samosvest ___ raste onda kada ___ da se ___, ___ i ___ bez ___.",
+    "missing": ["najviše", "naučimo", "posmatramo", "prihvatimo", "razumemo", "osuđivanja"],
+    "full": "Samosvest najviše raste onda kada naučimo da se posmatramo, prihvatimo i razumemo bez osuđivanja.",
+    "source": { "type": "Psihologija", "author": "Jon Kabat-Zinn", "note": "parafraza" }
+  },
+  {
+    "id": 460,
+    "category": "filozofija",
+    "text": "Čovek ___ smisao ne kada ___ svet, već kada ___ u njemu, ___ i ___ ___.",
+    "missing": ["nalazi", "razume", "deluje", "preuzima", "snosi", "odgovornost"],
+    "full": "Čovek nalazi smisao ne kada razume svet, već kada deluje u njemu, preuzima i snosi odgovornost.",
+    "source": { "type": "Filozofija", "author": "Hannah Arendt", "note": "parafraza" }
+  },
+
+
+  {
+    "id": 461,
+    "category": "psihologija",
+    "text": "Čovek ___ sopstvenu potrebu za bliskošću jer ___ da će, ako je ___, biti ___, ___ i na kraju ___.",
+    "missing": ["potiskuje", "veruje", "izrazi", "povređen", "razočaran", "napušten"],
+    "full": "Čovek potiskuje sopstvenu potrebu za bliskošću jer veruje da će, ako je izrazi, biti povređen, razočaran i na kraju napušten.",
+    "source": { "type": "Psihologija", "author": "John Bowlby", "note": "parafraza" }
+  },
+  {
+    "id": 462,
+    "category": "filozofija",
+    "text": "Sloboda ___ gubi jasnoću kada ___ da svaki ___ istovremeno ___, ___ i trajno ___.",
+    "missing": ["često", "zaboravimo", "izbor", "otvara", "zatvara", "obavezuje"],
+    "full": "Sloboda često gubi jasnoću kada zaboravimo da svaki izbor istovremeno otvara, zatvara i trajno obavezuje.",
+    "source": { "type": "Filozofija", "author": "Jean-Paul Sartre", "note": "parafraza" }
+  },
+  {
+    "id": 463,
+    "category": "sociologija",
+    "text": "Društvene uloge ___ opstaju jer ___ da su ___, ___ i deo ___ koji ___ ___.",
+    "missing": ["uporno", "verujemo", "prirodne", "nepromenljive", "poretka", "retko", "preispitujemo"],
+    "full": "Društvene uloge uporno opstaju jer verujemo da su prirodne, nepromenljive i deo poretka koji retko preispitujemo.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 464,
+    "category": "književnost",
+    "text": "Čovek ___ težinu reči tek kada ___ da su one ___, ___ i često ___.",
+    "missing": ["razume", "shvati", "ograničene", "nesavršene", "nedovoljne"],
+    "full": "Čovek razume težinu reči tek kada shvati da su one ograničene, nesavršene i često nedovoljne.",
+    "source": { "type": "Književnost", "author": "Samuel Beckett", "note": "parafraza" }
+  },
+  {
+    "id": 465,
+    "category": "realizam",
+    "text": "Život ___ ne nagrađuje strpljenje, već ___, ___ i spremnost da se ___ bez ___.",
+    "missing": ["sam po sebi", "izdržljivost", "doslednost", "nastavi", "iluzija"],
+    "full": "Život sam po sebi ne nagrađuje strpljenje, već izdržljivost, doslednost i spremnost da se nastavi bez iluzija.",
+    "source": { "type": "Realizam", "author": "Honoré de Balzac", "note": "parafraza" }
+  },
+  {
+    "id": 466,
+    "category": "romantizam",
+    "text": "Ljubav ___ sopstveni rizik jer ___ da ___ čak i kada ___, ___ i ___ ___.",
+    "missing": ["nosi", "ume", "postoji", "boli", "sumnja", "nema", "garancija"],
+    "full": "Ljubav nosi sopstveni rizik jer ume da postoji čak i kada boli, sumnja i nema garancija.",
+    "source": { "type": "Romantizam", "author": "Novalis", "note": "parafraza" }
+  },
+
+  {
+    "id": 467,
+    "category": "psihologija",
+    "text": "Anksioznost ___ eskalira kada ___ da se ___, ___ i ___ istovremeno ___.",
+    "missing": ["najčešće", "pokušamo", "zaštitimo", "kontrolišemo", "predvidimo", "život"],
+    "full": "Anksioznost najčešće eskalira kada pokušamo da se zaštitimo, kontrolišemo i predvidimo život istovremeno.",
+    "source": { "type": "Psihologija", "author": "Rollo May", "note": "parafraza" }
+  },
+  {
+    "id": 468,
+    "category": "filozofija",
+    "text": "Spoznaja ___ ne oslobađa od ___, već zahteva ___, ___ i trajno ___.",
+    "missing": ["sebe", "nesigurnosti", "odgovornost", "delovanje", "preispitivanje"],
+    "full": "Spoznaja sebe ne oslobađa od nesigurnosti, već zahteva odgovornost, delovanje i trajno preispitivanje.",
+    "source": { "type": "Filozofija", "author": "Karl Jaspers", "note": "parafraza" }
+  },
+  {
+    "id": 469,
+    "category": "sociologija",
+    "text": "Moć ___ opstaje ne zato što ___ silom, već zato što ___ da je ___ i ___.",
+    "missing": ["dugoročno", "vlada", "uveri", "normalna", "neupitna"],
+    "full": "Moć dugoročno opstaje ne zato što vlada silom, već zato što uveri da je normalna i neupitna.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+  {
+    "id": 470,
+    "category": "književnost",
+    "text": "Čovek ___ smisao bola tek kada ___ da on ___, ___ i ponekad ___.",
+    "missing": ["razume", "prihvati", "ne objašnjava", "ne opravdava", "ostaje"],
+    "full": "Čovek razume smisao bola tek kada prihvati da on ne objašnjava, ne opravdava i ponekad ostaje.",
+    "source": { "type": "Književnost", "author": "Franz Kafka", "note": "parafraza" }
+  },
+
+  {
+    "id": 471,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost onda kada ___ da svet ___ dugove, ___ ni ___.",
+    "missing": ["dostiže", "shvati", "ne priznaje", "pravdu", "utehu"],
+    "full": "Čovek dostiže zrelost onda kada shvati da svet ne priznaje dugove, pravdu ni utehu.",
+    "source": { "type": "Realizam", "author": "Gustave Flaubert", "note": "parafraza" }
+  },
+  {
+    "id": 472,
+    "category": "romantizam",
+    "text": "Duša ___ dublje nego što ___ može da ___, ___ i ___ ___.",
+    "missing": ["oseća", "razum", "objasni", "izmeri", "razloži", "rečima"],
+    "full": "Duša oseća dublje nego što razum može da objasni, izmeri i razloži rečima.",
+    "source": { "type": "Romantizam", "author": "Friedrich Schlegel", "note": "parafraza" }
+  },
+  {
+    "id": 473,
+    "category": "psihologija",
+    "text": "Promena ___ započinje tek kada ___ da staro ___, ___ i ___ više ___.",
+    "missing": ["zaista", "priznamo", "ne štiti", "ne pomaže", "ne daje", "smisao"],
+    "full": "Promena zaista započinje tek kada priznamo da staro ne štiti, ne pomaže i ne daje smisao.",
+    "source": { "type": "Psihologija", "author": "Irvin Yalom", "note": "parafraza" }
+  },
+  {
+    "id": 474,
+    "category": "filozofija",
+    "text": "Istina ___ zahteva istrajnost jer ___ da se ___ čak i kada ___ i ___.",
+    "missing": ["uvek", "traži", "sprovodi", "boli", "izoluje"],
+    "full": "Istina uvek zahteva istrajnost jer traži da se sprovodi čak i kada boli i izoluje.",
+    "source": { "type": "Filozofija", "author": "Immanuel Kant", "note": "parafraza" }
+  },
+  {
+    "id": 475,
+    "category": "sociologija",
+    "text": "Identitet se ___ održava između ___ koje ___, ___ koja ___ i ___ koje ___.",
+    "missing": ["stalno", "uloga", "igramo", "pravila", "nameće", "očekivanja", "ispunjavamo"],
+    "full": "Identitet se stalno održava između uloga koje igramo, pravila koja nameće i očekivanja koje ispunjavamo.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 476,
+    "category": "književnost",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da se ___ iza ___, ___ i ___.",
+    "missing": ["otkriva", "prestane", "skriva", "rečima", "navikama", "ulogama"],
+    "full": "Čovek otkriva istinu o sebi tek kada prestane da se skriva iza reči, navika i uloga.",
+    "source": { "type": "Književnost", "author": "Luigi Pirandello", "note": "parafraza" }
+  },
+
+  {
+    "id": 477,
+    "category": "realizam",
+    "text": "Život ___ ne prašta greške, ali ___ uvek ___, ___ i ___.",
+    "missing": ["nikada", "ostavlja", "tragove", "posledice", "pouke"],
+    "full": "Život nikada ne prašta greške, ali uvek ostavlja tragove, posledice i pouke.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 478,
+    "category": "romantizam",
+    "text": "Ljubav ___ ima snagu jer ___ da ___ čak i kada ___, ___ i ___ ___.",
+    "missing": ["ponekad", "ume", "veruje", "sumnja", "pati", "nema", "odgovora"],
+    "full": "Ljubav ponekad ima snagu jer ume da veruje čak i kada sumnja, pati i nema odgovora.",
+    "source": { "type": "Romantizam", "author": "Alfred de Musset", "note": "parafraza" }
+  },
+  {
+    "id": 479,
+    "category": "psihologija",
+    "text": "Samosvest ___ raste kada ___ da se ___, ___ i ___ bez ___.",
+    "missing": ["najviše", "naučimo", "posmatramo", "prihvatimo", "razumemo", "osuđivanja"],
+    "full": "Samosvest najviše raste kada naučimo da se posmatramo, prihvatimo i razumemo bez osuđivanja.",
+    "source": { "type": "Psihologija", "author": "Carl Jung", "note": "parafraza" }
+  },
+  {
+    "id": 480,
+    "category": "filozofija",
+    "text": "Čovek ___ smisao ne kada ___ svet, već kada ___ u njemu, ___ i ___ ___.",
+    "missing": ["nalazi", "razume", "deluje", "preuzima", "snosi", "odgovornost"],
+    "full": "Čovek nalazi smisao ne kada razume svet, već kada deluje u njemu, preuzima i snosi odgovornost.",
+    "source": { "type": "Filozofija", "author": "Hannah Arendt", "note": "parafraza" }
+  },
+
+  {
+    "id": 481,
+    "category": "psihologija",
+    "text": "Čovek ___ sopstvenu potrebu za sigurnošću jer ___ da će, ako je ___, izgubiti ___, ___ i osećaj da ___.",
+    "missing": ["potiskuje", "veruje", "prizna", "autonomiju", "snagu", "kontroliše"],
+    "full": "Čovek potiskuje sopstvenu potrebu za sigurnošću jer veruje da će, ako je prizna, izgubiti autonomiju, snagu i osećaj da kontroliše.",
+    "source": { "type": "Psihologija", "author": "Erich Fromm", "note": "parafraza" }
+  },
+  {
+    "id": 482,
+    "category": "filozofija",
+    "text": "Sloboda ___ postaje paradoks kada ___ da svaki ___ istovremeno ___, ___ i trajno ___.",
+    "missing": ["često", "uvidimo", "izbor", "oslobađa", "ograničava", "obavezuje"],
+    "full": "Sloboda često postaje paradoks kada uvidimo da svaki izbor istovremeno oslobađa, ograničava i trajno obavezuje.",
+    "source": { "type": "Filozofija", "author": "Isaiah Berlin", "note": "parafraza" }
+  },
+  {
+    "id": 483,
+    "category": "sociologija",
+    "text": "Društvena moć ___ opstaje jer ___ da se ___, ___ i ___ kao ___.",
+    "missing": ["dugoročno", "naučimo", "ponaša", "prihvati", "reprodukuje", "normalnost"],
+    "full": "Društvena moć dugoročno opstaje jer naučimo da se ponaša, prihvati i reprodukuje kao normalnost.",
+    "source": { "type": "Sociologija", "author": "Michel Foucault", "note": "parafraza" }
+  },
+  {
+    "id": 484,
+    "category": "književnost",
+    "text": "Čovek ___ težinu postojanja tek kada ___ da reči ___, ___ i često ___.",
+    "missing": ["oseti", "shvati", "ne dostižu", "ne objašnjavaju", "zakažu"],
+    "full": "Čovek oseti težinu postojanja tek kada shvati da reči ne dostižu, ne objašnjavaju i često zakažu.",
+    "source": { "type": "Književnost", "author": "Samuel Beckett", "note": "parafraza" }
+  },
+  {
+    "id": 485,
+    "category": "realizam",
+    "text": "Život ___ ne poštuje namere, već ___, ___ i sposobnost da se ___ bez ___.",
+    "missing": ["nikada", "posledice", "istrajnost", "nastavi", "izgovora"],
+    "full": "Život nikada ne poštuje namere, već posledice, istrajnost i sposobnost da se nastavi bez izgovora.",
+    "source": { "type": "Realizam", "author": "Gustave Flaubert", "note": "parafraza" }
+  },
+  {
+    "id": 486,
+    "category": "romantizam",
+    "text": "Ljubav ___ sopstvenu vrednost jer ___ da ___ čak i kada ___, ___ i ___ ___.",
+    "missing": ["nalazi", "ume", "postoji", "gubi", "sumnja", "nema", "potvrdu"],
+    "full": "Ljubav nalazi sopstvenu vrednost jer ume da postoji čak i kada gubi, sumnja i nema potvrdu.",
+    "source": { "type": "Romantizam", "author": "Rainer Maria Rilke", "note": "parafraza" }
+  },
+
+  {
+    "id": 487,
+    "category": "psihologija",
+    "text": "Anksioznost ___ postaje hronična kada ___ da se ___, ___ i ___ u isto ___.",
+    "missing": ["najčešće", "pokušamo", "kontrolišemo", "predvidimo", "izbegnemo", "vreme"],
+    "full": "Anksioznost najčešće postaje hronična kada pokušamo da se kontrolišemo, predvidimo i izbegnemo u isto vreme.",
+    "source": { "type": "Psihologija", "author": "Rollo May", "note": "parafraza" }
+  },
+  {
+    "id": 488,
+    "category": "filozofija",
+    "text": "Spoznaja ___ ne donosi mir, već ___, ___ i trajnu ___ prema ___.",
+    "missing": ["sebe", "nemir", "odgovornost", "obavezu", "sebi"],
+    "full": "Spoznaja sebe ne donosi mir, već nemir, odgovornost i trajnu obavezu prema sebi.",
+    "source": { "type": "Filozofija", "author": "Martin Heidegger", "note": "parafraza" }
+  },
+  {
+    "id": 489,
+    "category": "sociologija",
+    "text": "Društvene norme ___ opstaju jer ___ da ih ___, ___ i ___ kao ___.",
+    "missing": ["najduže", "učimo", "ponavljamo", "branimo", "prenosimo", "istinu"],
+    "full": "Društvene norme najduže opstaju jer učimo da ih ponavljamo, branimo i prenosimo kao istinu.",
+    "source": { "type": "Sociologija", "author": "Émile Durkheim", "note": "parafraza" }
+  },
+  {
+    "id": 490,
+    "category": "književnost",
+    "text": "Čovek ___ tišinu ne zato što ___ nema šta da ___, već zato što ___ ___.",
+    "missing": ["bira", "više", "kaže", "zna", "previše"],
+    "full": "Čម្បីek bira tišinu ne zato što više nema šta da kaže, već zato što zna previše.",
+    "source": { "type": "Književnost", "author": "Albert Camus", "note": "parafraza" }
+  },
+
+  {
+    "id": 491,
+    "category": "realizam",
+    "text": "Čovek ___ zrelost kada ___ da svet ___ dugovanja, ___ ni ___.",
+    "missing": ["dostiže", "shvati", "ne priznaje", "pravdu", "smisao"],
+    "full": "Čovek dostiže zrelost kada shvati da svet ne priznaje dugovanja, pravdu ni smisao.",
+    "source": { "type": "Realizam", "author": "Leo Tolstoy", "note": "parafraza" }
+  },
+  {
+    "id": 492,
+    "category": "romantizam",
+    "text": "Duša ___ stvarnost pre nego što ___ pokuša da je ___, ___ i ___ ___.",
+    "missing": ["oseća", "razum", "razloži", "objasni", "ograniči", "rečima"],
+    "full": "Duša oseća stvarnost pre nego što razum pokuša da je razloži, objasni i ograniči rečima.",
+    "source": { "type": "Romantizam", "author": "Friedrich Hölderlin", "note": "parafraza" }
+  },
+  {
+    "id": 493,
+    "category": "psihologija",
+    "text": "Promena ___ zahteva hrabrost jer ___ da se ___, ___ i ___ bez ___.",
+    "missing": ["uvek", "traži", "napusti", "poznato", "sigurno", "garancija"],
+    "full": "Promena uvek zahteva hrabrost jer traži da se napusti poznato, sigurno i bez garancija.",
+    "source": { "type": "Psihologija", "author": "Abraham Maslow", "note": "parafraza" }
+  },
+  {
+    "id": 494,
+    "category": "filozofija",
+    "text": "Istina ___ postaje teret kada ___ da se ___, ___ i ___ u ___.",
+    "missing": ["često", "zahteva", "živi", "brani", "snosi", "samoći"],
+    "full": "Istina često postaje teret kada zahteva da se živi, brani i snosi u samoći.",
+    "source": { "type": "Filozofija", "author": "Friedrich Nietzsche", "note": "parafraza" }
+  },
+  {
+    "id": 495,
+    "category": "sociologija",
+    "text": "Identitet se ___ učvršćuje kroz ___ koje ___, ___ koja ___ i ___ koje ___.",
+    "missing": ["stalno", "uloge", "igramo", "pravila", "sledimo", "očekivanja", "ispunjavamo"],
+    "full": "Identitet se stalno učvršćuje kroz uloge koje igramo, pravila koja sledimo i očekivanja koje ispunjavamo.",
+    "source": { "type": "Sociologija", "author": "Erving Goffman", "note": "parafraza" }
+  },
+  {
+    "id": 496,
+    "category": "književnost",
+    "text": "Čovek ___ istinu o sebi tek kada ___ da se ___ iza ___, ___ i ___.",
+    "missing": ["otkriva", "prestane", "skriva", "rečima", "uverenjima", "navikama"],
+    "full": "Čovek otkriva istinu o sebi tek kada prestane da se skriva iza reči, uverenja i navika.",
+    "source": { "type": "Književnost", "author": "Hermann Hesse", "note": "parafraza" }
+  },
+
+  {
+    "id": 497,
+    "category": "realizam",
+    "text": "Život ___ ne prašta iluzije, ali ___ uvek ___, ___ i ___.",
+    "missing": ["nikada", "ostavlja", "tragove", "posledice", "opomene"],
+    "full": "Život nikada ne prašta iluzije, ali uvek ostavlja tragove, posledice i opomene.",
+    "source": { "type": "Realizam", "author": "Émile Zola", "note": "parafraza" }
+  },
+  {
+    "id": 498,
+    "category": "romantizam",
+    "text": "Ljubav ___ opstaje ne zato što ___ laka, već zato što ___ da ___ bez ___.",
+    "missing": ["ponekad", "je", "ume", "traje", "razloga"],
+    "full": "Ljubav ponekad opstaje ne zato što je laka, već zato što ume da traje bez razloga.",
+    "source": { "type": "Romantizam", "author": "Alfred de Musset", "note": "parafraza" }
+  },
+  {
+    "id": 499,
+    "category": "psihologija",
+    "text": "Samosvest ___ raste tek kada ___ da se ___, ___ i ___ bez ___.",
+    "missing": ["najviše", "naučimo", "vidimo", "prihvatimo", "razumemo", "osuđivanja"],
+    "full": "Samosvest najviše raste tek kada naučimo da se vidimo, prihvatimo i razumemo bez osuđivanja.",
+    "source": { "type": "Psihologija", "author": "Carl Jung", "note": "parafraza" }
+  },
+{
+  "id": 500,
+  "category": "filozofija",
+  "text": "Čovek ___ ne postaje slobodan kada ___ da može ___, već kada ___ da mora ___ ___.",
+  "missing": ["nikada", "shvati", "birati", "prihvati", "snosi", "posledice"],
+  "full": "Čovek nikada ne postaje slobodan kada shvati da može birati, već kada prihvati da mora snositi posledice.",
+  "source": { "type": "Filozofija", "author": "Jean-Paul Sartre", "note": "parafraza" }
+}
+
+]
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+/* ===============================
+   QUESTION BOX
+=============================== */
+.opste-question {
+  margin: 18px 0 22px;
+  padding: 18px 20px;
+
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.45;
+  text-align: center;
+
+  color: #e5e7eb;
+
+  background: rgba(20, 25, 45, 0.9);
+  border-radius: 18px;
+
+  box-shadow:
+    inset 0 0 0 1px rgba(160, 120, 255, 0.25),
+    0 0 20px rgba(120, 80, 255, 0.25);
+}
+
+/* ===============================
+   ANSWERS GRID (2x2)
+=============================== */
+.opste-answers-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.opste-answer {
+  padding: 12px 14px;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 12px;
+
+  background: rgba(255, 255, 255, 0.04);
+  color: #e5e7eb;
+
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  cursor: pointer;
+
+  transition: all 0.2s ease;
+}
+
+/* hover – suptilno */
+.opste-answer:hover:not(:disabled) {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(120, 200, 255, 0.4);
+  transform: translateY(-1px);
+}
+
+/* disable */
+.opste-answer:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+/* TAČAN */
+.opste-answer.correct {
+  background: rgba(16, 185, 129, 0.15);
+  border-color: #10b981;
+  color: #6ee7b7;
+  box-shadow: 0 0 10px rgba(16, 185, 129, 0.35);
+}
+
+/* NETAČAN */
+.opste-answer.wrong {
+  background: rgba(239, 68, 68, 0.12);
+  border-color: #ef4444;
+  color: #fecaca;
+}
+
+
+

@@ -1,0 +1,137 @@
+/* ===============================
+   REVEAL / RESULT BOX
+=============================== */
+
+.reveal-box {
+  margin-top: 18px;
+  padding: 18px;
+  border-radius: 18px;
+
+  background: rgba(0,0,0,0.35);
+  border: 1px solid rgba(120,180,255,0.35);
+
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.5;
+
+  box-shadow: inset 0 0 12px rgba(255,255,255,0.04);
+}
+
+/* ===============================
+   REVEAL CONTENT
+=============================== */
+
+.reveal-message {
+  margin-top: 12px;
+}
+
+.reveal-message > div {
+  margin: 6px 0;
+}
+
+/* Poeni (sve igre) */
+.reveal-points {
+  margin-top: 12px;
+  font-weight: 600;
+  color: #a5f3fc; /* blago neon */
+}
+
+/* Nabrajanje – pogođene reči */
+.reveal-words {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.word-chip {
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 14px;
+
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.25);
+}
+
+/* ===============================
+   REVEAL POINTS ANIMATION
+=============================== */
+
+.reveal-points {
+  margin-top: 12px;
+  font-weight: 600;
+  color: #a5f3fc;
+
+  opacity: 0;
+  transform: translateY(6px) scale(0.96);
+  animation: revealPointsIn 0.45s ease-out forwards;
+  animation-delay: 0.15s;
+}
+
+@keyframes revealPointsIn {
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.reveal-words {
+  margin-top: 14px;
+  text-align: left;
+}
+
+.reveal-word {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 6px;
+  font-size: 14px;
+}
+
+.reveal-word.ok {
+  color: #4ade80; /* green */
+}
+
+.reveal-word.bad {
+  color: #f87171; /* red */
+}
+
+.reveal-word .expected {
+  opacity: 0.75;
+  font-size: 13px;
+}
+
+
+.reveal-sentence {
+  margin: 12px 0;
+  line-height: 1.8;
+  font-size: 16px;
+}
+
+.reveal-blank {
+  padding: 4px 8px;
+  border-radius: 8px;
+  margin: 0 4px;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.reveal-correct {
+  background: rgba(0, 255, 128, 0.15);
+  color: #3cff9e;
+  border: 1px solid rgba(60, 255, 158, 0.5);
+}
+
+.reveal-wrong {
+  background: rgba(255, 60, 60, 0.15);
+  color: #ff6b6b;
+  border: 1px solid rgba(255, 100, 100, 0.5);
+}
+
+.reveal-empty {
+  background: rgba(255, 255, 255, 0.08);
+  color: #ccc;
+  border: 1px dashed rgba(255, 255, 255, 0.3);
+}
+
+

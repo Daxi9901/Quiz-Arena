@@ -1,0 +1,163 @@
+/* =====================================================
+   GAME 5 – SINONIMI / ANTONIMI (ONLY GAME-SPECIFIC)
+   FIXED & CLEAN VERSION
+===================================================== */
+
+
+/* ===============================
+   INPUT (isti stil kao asocijacije)
+=============================== */
+.asoc-input {
+  width: 100%;
+  padding: 14px 16px;
+  margin-bottom: 18px;
+
+  border-radius: 12px;
+  border: none;
+  outline: none;
+
+  background: rgba(8, 10, 20, 0.95);
+  color: #e5e7eb;
+  font-size: 12px;
+
+  box-shadow:
+    inset 0 0 0 1px rgba(56, 189, 248, 0.25),
+    0 0 16px rgba(56, 189, 248, 0.12);
+
+  transition: box-shadow 0.25s ease;
+
+  /* 🔑 KLJUČNO – input uvek iznad tabele */
+  position: relative;
+  z-index: 10;
+}
+
+.asoc-input::placeholder {
+  color: #9ca3af;
+  opacity: 0.6;
+}
+
+.asoc-input:focus {
+  box-shadow:
+    inset 0 0 0 1px rgba(168, 85, 247, 0.6),
+    0 0 22px rgba(168, 85, 247, 0.35);
+}
+
+:root {
+  /* ZADATO */
+  --zadato-x: -20px;
+  --zadato-y: 0px;
+
+  /* ODGOVOR */
+  --odgovor-x: -1px;
+  --odgovor-y: 0px;
+
+  /* PRAZAN ODGOVOR (—) */
+  --prazan-x: -18px;
+  --prazan-y: 0px;
+}
+
+/* ===============================
+   TABLE
+=============================== */
+.sin-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 12px;
+}
+
+/* HEADER */
+.sin-table thead th {
+  text-align: left;
+  padding: 0 14px 6px;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #9ca3af;
+}
+
+/* RED */
+.sin-row {
+  background: rgba(14, 18, 35, 0.85);
+  border-radius: 16px;
+  box-shadow:
+    inset 0 0 0 1px rgba(120, 80, 255, 0.18),
+    0 8px 24px rgba(0, 0, 0, 0.35);
+}
+
+/* CELIJE */
+.sin-row td {
+  padding: 16px 16px;
+  font-size: 14px;
+  vertical-align: middle;
+}
+
+/* ===============================
+   ZADATO (LEVO)
+=============================== */
+.sin-left {
+  width: 70%;
+  font-weight: 600;
+  color: #e5e7eb;
+
+  transform: translate(
+    var(--zadato-x),
+    var(--zadato-y)
+  );
+}
+
+/* ===============================
+   ODGOVOR (DESNO)
+=============================== */
+.sin-right {
+  width: 30%;
+  color: #7dd3fc;
+  font-style: italic;
+  white-space: nowrap;
+
+  /* 🔑 KLJUČNO */
+  position: relative;
+
+  transform: translate(
+    var(--odgovor-x),
+    var(--odgovor-y)
+  );
+}
+
+/* ===============================
+   PRAZAN ODGOVOR (—)
+=============================== */
+.sin-right:empty::before {
+  content: "—";
+  color: #6b7280;
+
+  position: absolute;
+  left: 0;
+  top: 50%;
+
+  transform: translate(
+    var(--prazan-x),
+    calc(-50% + var(--prazan-y))
+  );
+}
+
+.answer-pill {
+  max-width: 100%;
+  white-space: normal;      /* ⬅️ dozvoli prelamanje */
+  word-break: break-word;   /* ⬅️ razbij dugačke reči */
+  overflow-wrap: anywhere;
+}
+
+
+.answer-pill.hit {
+  background: rgba(34,197,94,0.25);
+  border-color: rgba(34,197,94,0.6);
+  box-shadow: 0 0 6px rgba(34,197,94,0.4);
+}
+
+@media (max-width: 360px) {
+  .answer-pill {
+    font-size: 0.8rem;
+    padding: 4px 8px;
+  }
+}
+

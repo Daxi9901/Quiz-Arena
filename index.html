@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Arena</title>
+
+  <!-- STYLES -->
+   
+<link rel="stylesheet" href="css/home.css">
+<link rel="stylesheet" href="css/games/asocijacije.css">
+<link rel="stylesheet" href="css/games/sinonimi.css">
+<link rel="stylesheet" href="css/games/jezici.css">
+<link rel="stylesheet" href="./css/games/matematika.css">
+<link rel="stylesheet" href="./css/games/opste.css">
+<link rel="stylesheet" href="./css/games/nabrajanje.css">
+<link rel="stylesheet" href="./css/games/izreke.css">
+<link rel="stylesheet" href="css/reveal.css">
+<link rel="stylesheet" href="css/hamburger.css">
+<link rel="stylesheet" href="css/footer.css">
+<link rel="stylesheet" href="css/highscore.css">
+<link rel="stylesheet" href="css/login.css">
+
+  
+</head>
+
+<body>
+
+<!-- HAMBURGER -->
+<div class="hamburger" id="hamburger">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+
+
+<!-- SIDE MENU -->
+<div class="side-menu" id="sideMenu">
+  <div class="menu-inner">
+
+    <!-- HEADER -->
+    <div class="menu-header">
+      <div class="menu-title">MENU</div>
+      <div class="menu-user hidden" id="menuUserBox">
+        👤 <span id="menuUsername"></span>
+      </div>
+    </div>
+
+    <!-- NAV -->
+    <button class="menu-item" id="menuHome">Home</button>
+    <button class="menu-item" id="menuStart">Start Game</button>
+    <button class="menu-item" id="menuHighscore">High Score</button>
+    <button class="menu-item" id="menuRank">Rang Lista</button>
+    <button class="menu-item" id="menuAbout">O aplikaciji</button>
+    
+
+    <!-- FOOTER -->
+    <div class="menu-footer">
+      <button class="menu-item logout" id="menuAuthBtn">Login</button>
+    </div>
+
+  </div>
+</div>
+  </div>
+
+  <!-- OVDE SE SVE RENDERUJE IZ JS-a -->
+  <div id="screen"></div>
+  <div id="endGameOverlay" class="endgame-overlay hidden">
+    <div id="endGameContent" class="endgame-modal"></div>
+  </div>
+
+<!-- 1️⃣ PRVO SUPABASE CDN -->
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+<!-- STATIC PAGES -->
+<script src="js/pages/about.js"></script>
+<script src="js/pages/rules.js"></script>
+<script src="js/pages/contact.js"></script>
+<script src="js/pages/privacy.js"></script>
+<script src="js/pages/support.js"></script>
+
+<!-- UI CORE -->
+<script src="js/ui/connect.js"></script>
+<script src="js/ui/gameHeader.js"></script>
+<script src="js/ui/auth.js"></script>
+<script src="js/ui/engine.js"></script>
+<script src="js/ui/router.js"></script>
+
+<!-- SCREENS -->
+<script src="js/ui/screens.js"></script>
+<script src="js/ui/home.js"></script>
+<div id="footer-sentinel"></div>
+
+
+<!-- FOOTER -->
+<script src="js/ui/footer.js"></script>
+
+
+
+  <!-- GAMES -->
+  <script src="js/games/game1-asoc.js"></script>
+  <script src="js/games/game2-sinonimi.js"></script>
+  <script src="js/games/game3-jezici.js"></script>
+  <script src="js/games/game4-math.js"></script>
+  <script src="js/games/game5-quiz.js"></script>
+  <script src="js/games/game6-nabrajanje.js"></script>
+  <script src="js/games/game7.js"></script>
+
+  <!-- START APP -->
+  <script>
+    HomeScreen.show();
+  </script>
+
+</body>
+</html>

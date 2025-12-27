@@ -1,0 +1,6415 @@
+[
+  {
+    "q": "Sinonim za reč „egzaktan“:",
+    "a": [
+      "precizan",
+      "tačan",
+      "rigorozan",
+      "strogo određen"
+    ]
+  },
+  {
+    "q": "Antonim od reči „opširan“:",
+    "a": [
+      "sažet",
+      "kratak",
+      "koncizan"
+    ]
+  },
+  {
+    "q": "Sinonim za reč „melanholija“:",
+    "a": [
+      "tuga",
+      "seta",
+      "čamotinje"
+    ]
+  },
+  {
+    "q": "Antonim od reči „lakomislen“:",
+    "a": [
+      "promišljen",
+      "oprezan",
+      "razborit"
+    ]
+  },
+  {
+    "q": "Sinonim za reč „rezonovati“:",
+    "a": [
+      "razmišljati",
+      "rasuđivati",
+      "zaključivati"
+    ]
+  },
+  {
+    "q": "Antonim od reči „preteran“:",
+    "a": [
+      "umeren",
+      "odmeren",
+      "razuman"
+    ]
+  },
+  {
+    "q": "Sinonim za reč „inertan“:",
+    "a": [
+      "neaktivan",
+      "pasivan",
+      "trom"
+    ]
+  },
+  {
+    "q": "Antonim od reči „suptilan“:",
+    "a": [
+      "grub",
+      "direktan",
+      "očigledan"
+    ]
+  },
+  {
+    "q": "Sinonim za reč „prosečan“:",
+    "a": [
+      "osrednji",
+      "običan",
+      "uobičajen"
+    ]
+  },
+  {
+    "q": "Antonim od reči „sporadičan“:",
+    "a": [
+      "stalan",
+      "učestao",
+      "kontinuiran"
+    ]
+  },
+  {
+    "q": "Sinonim za „abstraktan“:",
+    "a": [
+      "neopipljiv",
+      "pojmovni",
+      "apstraktan",
+      "teorijski"
+    ]
+  },
+  {
+    "q": "Antonim od „uzvišen“:",
+    "a": [
+      "nizak",
+      "prizemljen",
+      "banalan"
+    ]
+  },
+  {
+    "q": "Sinonim za „pretenciozan“:",
+    "a": [
+      "nadmen",
+      "umišljen",
+      "afektiran"
+    ]
+  },
+  {
+    "q": "Antonim od „rigidan“:",
+    "a": [
+      "fleksibilan",
+      "prilagodljiv",
+      "elastičan"
+    ]
+  },
+  {
+    "q": "Sinonim za „rezilijentnost“:",
+    "a": [
+      "otpornost",
+      "izdržljivost",
+      "prilagodljivost"
+    ]
+  },
+  {
+    "q": "Antonim od „spor“ (u smislu misaonog procesa):",
+    "a": [
+      "bistar",
+      "okretan",
+      "brzomisleći"
+    ]
+  },
+  {
+    "q": "Sinonim za „turbulentno“:",
+    "a": [
+      "burno",
+      "nemirno",
+      "haotično"
+    ]
+  },
+  {
+    "q": "Antonim od „verbalno“:",
+    "a": [
+      "neverbalno",
+      "neverbalan"
+    ]
+  },
+  {
+    "q": "Sinonim za „predan“:",
+    "a": [
+      "posvećen",
+      "odan",
+      "revnostan"
+    ]
+  },
+  {
+    "q": "Antonim od „elementaran“:",
+    "a": [
+      "složen",
+      "kompleksan",
+      "razrađen"
+    ]
+  },
+  {
+    "q": "Sinonim za „disparitet“:",
+    "a": [
+      "razlika",
+      "nesrazmera",
+      "nejednakost"
+    ]
+  },
+  {
+    "q": "Antonim od „nužno“:",
+    "a": [
+      "slučajno",
+      "neobavezno",
+      "proizvoljno"
+    ]
+  },
+  {
+    "q": "Sinonim za „kongruentan“:",
+    "a": [
+      "usklađen",
+      "podudaran",
+      "saglasan"
+    ]
+  },
+  {
+    "q": "Antonim od „konzistentan“:",
+    "a": [
+      "neusklađen",
+      "nedosledan",
+      "protivrečan"
+    ]
+  },
+  {
+    "q": "Sinonim za „preteran oprez“:",
+    "a": [
+      "bojažljivost",
+      "plašljivost",
+      "prezazrivost"
+    ]
+  },
+  {
+    "q": "Antonim od „implicitno“:",
+    "a": [
+      "eksplicitno",
+      "izričito",
+      "jasno"
+    ]
+  },
+  {
+    "q": "Sinonim za „pouzdan“:",
+    "a": [
+      "verodostojan",
+      "siguran",
+      "dosledan"
+    ]
+  },
+  {
+    "q": "Antonim od „benigan“:",
+    "a": [
+      "maligni",
+      "zloćudan"
+    ]
+  },
+  {
+    "q": "Sinonim za „sarkazam“:",
+    "a": [
+      "ironija",
+      "podrugljivost",
+      "cinizam"
+    ]
+  },
+  {
+    "q": "Antonim od „autentično“:",
+    "a": [
+      "lažno",
+      "neautentično",
+      "izveštačeno"
+    ]
+  },
+  {
+    "q": "Sinonim za „diskrepancija“:",
+    "a": [
+      "neslaganje",
+      "razlika",
+      "nesklad"
+    ]
+  },
+  {
+    "q": "Antonim od „obiman“:",
+    "a": [
+      "oskudan",
+      "mali",
+      "ograničen"
+    ]
+  },
+  {
+    "q": "Sinonim za „suština“:",
+    "a": [
+      "bit",
+      "srž",
+      "esencija"
+    ]
+  },
+  {
+    "q": "Antonim od „vitalno“:",
+    "a": [
+      "beznačajno",
+      "nebitno",
+      "sporedno"
+    ]
+  },
+  {
+    "q": "Sinonim za „intermitentan“:",
+    "a": [
+      "povremen",
+      "isprekidan",
+      "periodičan"
+    ]
+  },
+  {
+    "q": "Antonim od „precizan“:",
+    "a": [
+      "neodređen",
+      "neprecizan",
+      "nejasan"
+    ]
+  },
+  {
+    "q": "Sinonim za „euforija“:",
+    "a": [
+      "oduševljenje",
+      "ushićenje",
+      "zanos"
+    ]
+  },
+  {
+    "q": "Antonim od „homogeno“:",
+    "a": [
+      "heterogeno",
+      "raznoliko",
+      "neujednačeno"
+    ]
+  },
+  {
+    "q": "Sinonim za „kontradikcija“:",
+    "a": [
+      "protivrečnost",
+      "suprotnost",
+      "nesaglasnost"
+    ]
+  },
+  {
+    "q": "Antonim od „adekvatan“:",
+    "a": [
+      "neadekvatan",
+      "neprimeren",
+      "neodgovarajući"
+    ]
+  },
+  {
+    "q": "Sinonim za „autoritativan“:",
+    "a": [
+      "naredbodavan",
+      "autoritaran",
+      "zapovednički"
+    ]
+  },
+  {
+    "q": "Antonim od „kompleksno“:",
+    "a": [
+      "jednostavno",
+      "prosto",
+      "nekomplikovano"
+    ]
+  },
+  {
+    "q": "Sinonim za „periferno“:",
+    "a": [
+      "sporedno",
+      "rubno",
+      "marginalno"
+    ]
+  },
+  {
+    "q": "Antonim od „indirektno“:",
+    "a": [
+      "direktno",
+      "neposredno",
+      "otvoreno"
+    ]
+  },
+  {
+    "q": "Sinonim za „zlokoban“:",
+    "a": [
+      "opasan",
+      "preteći",
+      "mračan"
+    ]
+  },
+  {
+    "q": "Antonim od „temeljno“:",
+    "a": [
+      "površno",
+      "nepažljivo",
+      "ovlaš"
+    ]
+  },
+  {
+    "q": "Sinonim za „intrigantan“:",
+    "a": [
+      "zanimljiv",
+      "zagonetan",
+      "izazovan"
+    ]
+  },
+  {
+    "q": "Antonim od „usklađeno“:",
+    "a": [
+      "neskladno",
+      "neusklađeno",
+      "haotično"
+    ]
+  },
+  {
+    "q": "Sinonim za „metodološki“:",
+    "a": [
+      "sistemski",
+      "plansko",
+      "strukturisano"
+    ]
+  },
+  {
+    "q": "Antonim od „progresivno“:",
+    "a": [
+      "regresivno",
+      "nazadno",
+      "retrogradno"
+    ]
+  },
+  {
+    "q": "Sinonim za „eksplicitan“:",
+    "a": [
+      "jasan",
+      "izričit",
+      "nedvosmislen"
+    ]
+  },
+  {
+    "q": "Antonim od „transparentan“:",
+    "a": [
+      "nejasan",
+      "neproziran",
+      "zamagljen"
+    ]
+  },
+  {
+    "q": "Sinonim za „implicitno“:",
+    "a": [
+      "prećutno",
+      "posredno",
+      "neizrečeno"
+    ]
+  },
+  {
+    "q": "Antonim od „dinamičan“:",
+    "a": [
+      "statičan",
+      "nepokretan",
+      "inertan"
+    ]
+  },
+  {
+    "q": "Sinonim za „kredibilan“:",
+    "a": [
+      "uverljiv",
+      "verodostojan",
+      "pouzdan"
+    ]
+  },
+  {
+    "q": "Antonim od „koherentan“:",
+    "a": [
+      "nepovezan",
+      "nedosledan",
+      "rasut"
+    ]
+  },
+  {
+    "q": "Sinonim za „intuitivno“:",
+    "a": [
+      "instinktivno",
+      "neposredno",
+      "nagonski"
+    ]
+  },
+  {
+    "q": "Antonim od „postepeno“:",
+    "a": [
+      "naglo",
+      "iznenada",
+      "odjednom"
+    ]
+  },
+  {
+    "q": "Sinonim za „ambivalentan“:",
+    "a": [
+      "dvosmislen",
+      "neodlučan",
+      "protivrečan"
+    ]
+  },
+  {
+    "q": "Antonim od „konkretno“:",
+    "a": [
+      "apstraktno",
+      "neodređeno",
+      "pojmovno"
+    ]
+  },
+  {
+    "q": "Sinonim za „latentno“:",
+    "a": [
+      "skriveno",
+      "prikriveno",
+      "potencijalno"
+    ]
+  },
+  {
+    "q": "Antonim od „stabilan“:",
+    "a": [
+      "nestabilan",
+      "promenljiv",
+      "nepostojan"
+    ]
+  },
+  {
+    "q": "Sinonim za „koncizan“:",
+    "a": [
+      "sažet",
+      "kratak",
+      "jezgrovit"
+    ]
+  },
+  {
+    "q": "Antonim od „efikasan“:",
+    "a": [
+      "neefikasan",
+      "neuspešan",
+      "neučinkovit"
+    ]
+  },
+  {
+    "q": "Sinonim za „ekspanzivan“:",
+    "a": [
+      "širok",
+      "obuhvatan",
+      "razgranat"
+    ]
+  },
+  {
+    "q": "Antonim od „restriktivan“:",
+    "a": [
+      "liberalan",
+      "popustljiv",
+      "fleksibilan"
+    ]
+  },
+  {
+    "q": "Sinonim za „dosledan“:",
+    "a": [
+      "principijelan",
+      "postojan",
+      "konzistentan"
+    ]
+  },
+  {
+    "q": "Antonim od „spontan“:",
+    "a": [
+      "isplaniran",
+      "proračunat",
+      "promišljen"
+    ]
+  },
+  {
+    "q": "Sinonim za „percepcija“:",
+    "a": [
+      "opažanje",
+      "shvatanje",
+      "doživljaj"
+    ]
+  },
+  {
+    "q": "Antonim od „relevantan“:",
+    "a": [
+      "nebitan",
+      "irelevantan",
+      "beznačajan"
+    ]
+  },
+  {
+    "q": "Sinonim za „egzistencijalan“:",
+    "a": [
+      "životan",
+      "suštinski",
+      "bitan"
+    ]
+  },
+  {
+    "q": "Antonim od „intenzivan“:",
+    "a": [
+      "blag",
+      "umeren",
+      "slab"
+    ]
+  },
+  {
+    "q": "Sinonim za „paradoks“:",
+    "a": [
+      "protivrečnost",
+      "suprotnost",
+      "nelogičnost"
+    ]
+  },
+  {
+    "q": "Antonim od „kolektivan“:",
+    "a": [
+      "individualan",
+      "lični",
+      "pojedinačan"
+    ]
+  },
+  {
+    "q": "Sinonim za „determinisan“:",
+    "a": [
+      "određen",
+      "utvrđen",
+      "definisan"
+    ]
+  },
+  {
+    "q": "Antonim od „afirmativan“:",
+    "a": [
+      "negativan",
+      "odričan"
+    ]
+  },
+  {
+    "q": "Sinonim za „redundantan“:",
+    "a": [
+      "suvišan",
+      "ponovljen",
+      "nepotreban"
+    ]
+  },
+  {
+    "q": "Antonim od „kooperativan“:",
+    "a": [
+      "nekooperativan",
+      "nesaradljiv",
+      "zatvoren"
+    ]
+  },
+  {
+    "q": "Sinonim za „fundamentalan“:",
+    "a": [
+      "osnovni",
+      "temeljni",
+      "ključni"
+    ]
+  },
+  {
+    "q": "Antonim od „stimulativan“:",
+    "a": [
+      "destimulativan",
+      "obeshrabrujući",
+      "demotivišući"
+    ]
+  },
+  {
+    "q": "Sinonim za „ekvivalentan“:",
+    "a": [
+      "istovetan",
+      "ravnopravan",
+      "jednakovredan"
+    ]
+  },
+  {
+    "q": "Antonim od „ekspresivan“:",
+    "a": [
+      "suzdržan",
+      "prigušen",
+      "neizražajan"
+    ]
+  },
+  {
+    "q": "Sinonim za „konsekventan“:",
+    "a": [
+      "dosledan",
+      "postojan",
+      "principijelan"
+    ]
+  },
+  {
+    "q": "Antonim od „egzaktan“:",
+    "a": [
+      "neprecizan",
+      "neodređen",
+      "netočan"
+    ]
+  },
+  {
+    "q": "Sinonim za „proaktivan“:",
+    "a": [
+      "inicijativan",
+      "preduzimljiv",
+      "angažovan"
+    ]
+  },
+  {
+    "q": "Antonim od „rezigniran“:",
+    "a": [
+      "optimističan",
+      "motivisan",
+      "borben"
+    ]
+  },
+  {
+    "q": "Sinonim za „manifestan“:",
+    "a": [
+      "očigledan",
+      "jasan",
+      "vidljiv"
+    ]
+  },
+  {
+    "q": "Antonim od „artikulisan“:",
+    "a": [
+      "nejasan",
+      "neizražen",
+      "zbrkan"
+    ]
+  },
+  {
+    "q": "Sinonim za „deskriptivan“:",
+    "a": [
+      "opisni",
+      "narativni",
+      "prikazni"
+    ]
+  },
+  {
+    "q": "Antonim od „afektivan“:",
+    "a": [
+      "racionalan",
+      "razuman",
+      "promišljen"
+    ]
+  },
+  {
+    "q": "Sinonim za „kumulativan“:",
+    "a": [
+      "nagomilan",
+      "sabiran",
+      "akumulativan"
+    ]
+  },
+  {
+    "q": "Antonim od „kohezivan“:",
+    "a": [
+      "rascepan",
+      "nepovezan",
+      "dezintegrisan"
+    ]
+  },
+  {
+    "q": "Sinonim za „normativan“:",
+    "a": [
+      "propisan",
+      "standardizovan",
+      "regulativan"
+    ]
+  },
+  {
+    "q": "Antonim od „elastičan“:",
+    "a": [
+      "krut",
+      "rigidan",
+      "nefleksibilan"
+    ]
+  },
+  {
+    "q": "Sinonim za „perspektiva“:",
+    "a": [
+      "stanovište",
+      "gledište",
+      "ugao posmatranja"
+    ]
+  },
+  {
+    "q": "Antonim od „transparentno“:",
+    "a": [
+      "neprovidno",
+      "nejasno",
+      "zamagljeno"
+    ]
+  },
+  {
+    "q": "Sinonim za „heuristički“:",
+    "a": [
+      "istraživački",
+      "otkrivački",
+      "eksplorativan"
+    ]
+  },
+  {
+    "q": "Antonim od „koordinisan“:",
+    "a": [
+      "haotičan",
+      "neusklađen",
+      "dezorganizovan"
+    ]
+  },
+  {
+    "q": "Sinonim za „konstruktivan“:",
+    "a": [
+      "koristan",
+      "izgradan",
+      "produktivan"
+    ]
+  },
+  {
+    "q": "Antonim od „afirmisan“:",
+    "a": [
+      "nepotvrđen",
+      "nepriznat",
+      "neutvrđen"
+    ]
+  },
+  {
+    "q": "Sinonim za „latentna napetost“:",
+    "a": [
+      "skriveni konflikt",
+      "prikrivena tenzija",
+      "potisnuti sukob"
+    ]
+  },
+  {
+    "q": "Antonim od „sistematičan“:",
+    "a": [
+      "stihijski",
+      "neorganizovan",
+      "haotičan"
+    ]
+  },
+  {
+    "q": "Sinonim za „refleksija“:",
+    "a": [
+      "promišljanje",
+      "razmišljanje",
+      "samoposmatranje"
+    ]
+  },
+  {
+    "q": "Antonim od „inkluzivan“:",
+    "a": [
+      "isključiv",
+      "selektivan",
+      "zatvoren"
+    ]
+  },
+  {
+    "q": "Sinonim za „detaljan“:",
+    "a": [
+      "razrađen",
+      "podroban",
+      "iscrpan"
+    ]
+  },
+  {
+    "q": "Antonim od „kontinuiran“:",
+    "a": [
+      "isprekidan",
+      "povremen",
+      "diskontinuiran"
+    ]
+  },
+  {
+    "q": "Sinonim za „apstrakcija“:",
+    "a": [
+      "uopštavanje",
+      "pojmovna redukcija",
+      "apstrahovanje"
+    ]
+  },
+  {
+    "q": "Antonim od „validan“:",
+    "a": [
+      "nevažeći",
+      "neispravan",
+      "neprihvatljiv"
+    ]
+  },
+  {
+    "q": "Sinonim za „interpretacija“:",
+    "a": [
+      "tumačenje",
+      "objašnjenje",
+      "shvatanje"
+    ]
+  },
+  {
+    "q": "Antonim od „optimalan“:",
+    "a": [
+      "nepovoljan",
+      "loš",
+      "suboptimalan"
+    ]
+  },
+  {
+    "q": "Sinonim za „parcijalno“:",
+    "a": [
+      "delimično",
+      "nepotpuno",
+      "parcijalno"
+    ]
+  },
+  {
+    "q": "Antonim od „konzistentno“:",
+    "a": [
+      "nedosledno",
+      "neujednačeno",
+      "protivrečno"
+    ]
+  },
+  {
+    "q": "Sinonim za „ekspeditivan“:",
+    "a": [
+      "brz",
+      "efikasan",
+      "promptan"
+    ]
+  },
+  {
+    "q": "Antonim od „afirmativan stav“:",
+    "a": [
+      "negativan stav",
+      "odričan stav"
+    ]
+  },
+  {
+    "q": "Sinonim za „konceptualan“:",
+    "a": [
+      "pojmovni",
+      "teorijski",
+      "apstraktan"
+    ]
+  },
+  {
+    "q": "Antonim od „kooperativan“:",
+    "a": [
+      "opstruktivan",
+      "nesaradljiv",
+      "nekooperativan"
+    ]
+  },
+  {
+    "q": "Sinonim za „indikator“:",
+    "a": [
+      "pokazatelj",
+      "signal",
+      "parametar"
+    ]
+  },
+  {
+    "q": "Antonim od „postepen“:",
+    "a": [
+      "iznenadan",
+      "nagao",
+      "trenutan"
+    ]
+  },
+  {
+    "q": "Sinonim za „kontemplativan“:",
+    "a": [
+      "zamišljen",
+      "promišljen",
+      "refleksivan"
+    ]
+  },
+  {
+    "q": "Antonim od „racionalan“:",
+    "a": [
+      "iracionalan",
+      "nerazuman",
+      "afektivan"
+    ]
+  },
+  {
+    "q": "Sinonim za „ekstern“:",
+    "a": [
+      "spoljašnji",
+      "vanjski",
+      "eksterni"
+    ]
+  },
+  {
+    "q": "Antonim od „intern“:",
+    "a": [
+      "spoljašnji",
+      "eksterni",
+      "vanjski"
+    ]
+  },
+  {
+    "q": "Sinonim za „varijabla“:",
+    "a": [
+      "promenljiva",
+      "faktor",
+      "parametar"
+    ]
+  },
+  {
+    "q": "Antonim od „konstantan“:",
+    "a": [
+      "promenljiv",
+      "nestalan",
+      "varijabilan"
+    ]
+  },
+  {
+    "q": "Sinonim za „specifičan“:",
+    "a": [
+      "poseban",
+      "određen",
+      "karakterističan"
+    ]
+  },
+  {
+    "q": "Antonim od „generalan“:",
+    "a": [
+      "poseban",
+      "specifičan",
+      "pojedinačan"
+    ]
+  },
+  {
+    "q": "Sinonim za „uslovljen“:",
+    "a": [
+      "zavisan",
+      "determinisan",
+      "ograničen"
+    ]
+  },
+  {
+    "q": "Antonim od „autonomno“:",
+    "a": [
+      "zavisno",
+      "uslovljeno",
+      "podređeno"
+    ]
+  },
+  {
+    "q": "Sinonim za „orijentisan“:",
+    "a": [
+      "usmeren",
+      "fokusiran",
+      "orijentisan"
+    ]
+  },
+  {
+    "q": "Antonim od „centralno“:",
+    "a": [
+      "periferno",
+      "rubno",
+      "sporedno"
+    ]
+  },
+  {
+    "q": "Sinonim za „inherentan“:",
+    "a": [
+      "sastavni",
+      "imanentan",
+      "svojstven"
+    ]
+  },
+  {
+    "q": "Antonim od „sekundaran“:",
+    "a": [
+      "primaran",
+      "osnovni",
+      "glavni"
+    ]
+  },
+  {
+    "q": "Sinonim za „kumulacija“:",
+    "a": [
+      "nagomilavanje",
+      "akumulacija",
+      "sabiranje"
+    ]
+  },
+  {
+    "q": "Antonim od „difuzan“:",
+    "a": [
+      "koncentrisan",
+      "fokusiran",
+      "zgusnut"
+    ]
+  },
+  {
+    "q": "Sinonim za „artikulacija“:",
+    "a": [
+      "izražavanje",
+      "formulisanje",
+      "razrađivanje"
+    ]
+  },
+  {
+    "q": "Antonim od „jasno“:",
+    "a": [
+      "maglovito",
+      "nejasno",
+      "zamagljeno"
+    ]
+  },
+  {
+    "q": "Sinonim za „validacija“:",
+    "a": [
+      "potvrda",
+      "overa",
+      "verifikacija"
+    ]
+  },
+  {
+    "q": "Antonim od „verifikovan“:",
+    "a": [
+      "neproveren",
+      "nepotvrđen",
+      "nevalidiran"
+    ]
+  },
+  {
+    "q": "Sinonim za „interpretativan“:",
+    "a": [
+      "tumački",
+      "analitički",
+      "hermeneutički"
+    ]
+  },
+  {
+    "q": "Antonim od „doslovan“:",
+    "a": [
+      "prenesen",
+      "metaforičan",
+      "figurativan"
+    ]
+  },
+  {
+    "q": "Sinonim za „redukovan“:",
+    "a": [
+      "umanjen",
+      "smanjen",
+      "skraćen"
+    ]
+  },
+  {
+    "q": "Antonim od „ekstenzivan“:",
+    "a": [
+      "intenzivan",
+      "koncentrisan",
+      "zgusnut"
+    ]
+  },
+  {
+    "q": "Sinonim za „konvencionalnost“:",
+    "a": [
+      "uobičajenost",
+      "tradicionalnost",
+      "standardnost"
+    ]
+  },
+  {
+    "q": "Antonim od „nekonvencionalan“:",
+    "a": [
+      "tradicionalan",
+      "uobičajen",
+      "klasičan"
+    ]
+  },
+  {
+    "q": "Sinonim za „preduslov“:",
+    "a": [
+      "uslov",
+      "pretpostavka",
+      "preduvet"
+    ]
+  },
+  {
+    "q": "Antonim od „posledičan“:",
+    "a": [
+      "uzročan",
+      "kauzalan",
+      "izvorni"
+    ]
+  },
+  {
+    "q": "Sinonim za „stohastički“:",
+    "a": [
+      "nasumičan",
+      "slučajan",
+      "probabilistički"
+    ]
+  },
+  {
+    "q": "Antonim od „predvidiv“:",
+    "a": [
+      "nepredvidiv",
+      "neizvestan",
+      "neočekivan"
+    ]
+  },
+  {
+    "q": "Sinonim za „koordinacija“:",
+    "a": [
+      "usklađivanje",
+      "sinhronizacija",
+      "usaglašavanje"
+    ]
+  },
+  {
+    "q": "Antonim od „dezorganizovan“:",
+    "a": [
+      "organizovan",
+      "uređen",
+      "struktuisan"
+    ]
+  },
+  {
+    "q": "Sinonim za „resilijentan“:",
+    "a": [
+      "otporan",
+      "žilav",
+      "prilagodljiv"
+    ]
+  },
+  {
+    "q": "Antonim od „ranjiv“:",
+    "a": [
+      "otporan",
+      "zaštićen",
+      "stabilan"
+    ]
+  },
+  {
+    "q": "Sinonim za „egzistirati“:",
+    "a": [
+      "postojati",
+      "biti",
+      "opstajati"
+    ]
+  },
+  {
+    "q": "Antonim od „nepostojan“:",
+    "a": [
+      "stalan",
+      "postojan",
+      "stabilan"
+    ]
+  },
+  {
+    "q": "Sinonim za „elaboracija“:",
+    "a": [
+      "razrada",
+      "detaljisanje",
+      "objašnjenje"
+    ]
+  },
+  {
+    "q": "Antonim od „površinski“:",
+    "a": [
+      "dubinski",
+      "temeljan",
+      "suštinski"
+    ]
+  },
+  {
+    "q": "Sinonim za „konkluzija“:",
+    "a": [
+      "zaključak",
+      "ishod",
+      "rezime"
+    ]
+  },
+  {
+    "q": "Antonim od „otvoren“:",
+    "a": [
+      "zatvoren",
+      "zatvorenog tipa"
+    ]
+  },
+  {
+    "q": "Sinonim za „predominantan“:",
+    "a": [
+      "dominantan",
+      "preovlađujući",
+      "glavni"
+    ]
+  },
+  {
+    "q": "Antonim od „marginalan“:",
+    "a": [
+      "centralan",
+      "ključan",
+      "glavni"
+    ]
+  },
+  {
+    "q": "Sinonim za „empirijski“:",
+    "a": [
+      "iskustveni",
+      "činjenični",
+      "posmatrački"
+    ]
+  },
+  {
+    "q": "Antonim od „teorijski“:",
+    "a": [
+      "praktičan",
+      "primenjen"
+    ]
+  },
+  {
+    "q": "Sinonim za „heuristika“:",
+    "a": [
+      "pravilo",
+      "strategija",
+      "mentalna prečica"
+    ]
+  },
+  {
+    "q": "Antonim od „automatizovan“:",
+    "a": [
+      "ručni",
+      "manuelan"
+    ]
+  },
+  {
+    "q": "Sinonim za „potencijal“:",
+    "a": [
+      "mogućnost",
+      "kapacitet",
+      "potencijalnost"
+    ]
+  },
+  {
+    "q": "Antonim od „realizovan“:",
+    "a": [
+      "neostvaren",
+      "nerealizovan"
+    ]
+  },
+  {
+    "q": "Sinonim za „komplementaran“:",
+    "a": [
+      "dopunjujući",
+      "uzajaman",
+      "usklađen"
+    ]
+  },
+  {
+    "q": "Antonim od „samostalan“:",
+    "a": [
+      "zavisan",
+      "podređen"
+    ]
+  },
+  {
+    "q": "Sinonim za „egzemplar“:",
+    "a": [
+      "primerak",
+      "uzorak",
+      "model"
+    ]
+  },
+  {
+    "q": "Antonim od „opšteprihvaćen“:",
+    "a": [
+      "sporan",
+      "kontroverzan",
+      "neprihvaćen"
+    ]
+  },
+  {
+    "q": "Sinonim za „konciznost“:",
+    "a": [
+      "sažetost",
+      "jezgrovitost",
+      "kratkoća"
+    ]
+  },
+  {
+    "q": "Antonim od „elaboriran“:",
+    "a": [
+      "pojednostavljen",
+      "skraćen",
+      "reduciran"
+    ]
+  },
+  {
+    "q": "Sinonim za „konstituisati“:",
+    "a": [
+      "uspostaviti",
+      "formirati",
+      "ustanoviti"
+    ]
+  },
+  {
+    "q": "Antonim od „spontanost“:",
+    "a": [
+      "proračunatost",
+      "planiranost"
+    ]
+  },
+  {
+    "q": "Sinonim za „korespondencija“:",
+    "a": [
+      "podudarnost",
+      "saglasnost",
+      "usklađenost"
+    ]
+  },
+  {
+    "q": "Antonim od „objektivan“:",
+    "a": [
+      "subjektivan",
+      "pristrasan"
+    ]
+  },
+  {
+    "q": "Sinonim za „preliminaran“:",
+    "a": [
+      "uvodni",
+      "početni",
+      "probni"
+    ]
+  },
+  {
+    "q": "Antonim od „ekstreman“:",
+    "a": [
+      "umeren",
+      "uravnotežen",
+      "srednji"
+    ]
+  },
+  {
+    "q": "Sinonim za „afirmacija“:",
+    "a": [
+      "potvrda",
+      "priznanje",
+      "odobrenje"
+    ]
+  },
+  {
+    "q": "Antonim od „detaljisan“:",
+    "a": [
+      "uopšten",
+      "opšti",
+      "sažet"
+    ]
+  },
+  {
+    "q": "Sinonim za „konfiguracija“:",
+    "a": [
+      "raspored",
+      "postavka",
+      "struktura"
+    ]
+  },
+  {
+    "q": "Antonim od „implicitno značenje“:",
+    "a": [
+      "eksplicitno značenje",
+      "izričito značenje"
+    ]
+  },
+  {
+    "q": "Sinonim za „koordinisanost“:",
+    "a": [
+      "usklađenost",
+      "sinhronizovanost",
+      "povezanost"
+    ]
+  },
+  {
+    "q": "Antonim od „efektivan“:",
+    "a": [
+      "bezuspešan",
+      "neefikasan",
+      "neučinkovit"
+    ]
+  },
+  {
+    "q": "Sinonim za „atribucija“:",
+    "a": [
+      "pripisivanje",
+      "dodeljivanje",
+      "tumačenje uzroka"
+    ]
+  },
+  {
+    "q": "Antonim od „proporcionalan“:",
+    "a": [
+      "neproporcionalan",
+      "nesrazmeran"
+    ]
+  },
+  {
+    "q": "Sinonim za „eksplikacija“:",
+    "a": [
+      "pojašnjenje",
+      "razjašnjenje",
+      "objašnjenje"
+    ]
+  },
+  {
+    "q": "Antonim od „kontrolisan“:",
+    "a": [
+      "neobuzdan",
+      "nekontrolisan",
+      "stihijski"
+    ]
+  },
+  {
+    "q": "Sinonim za „generalizacija“:",
+    "a": [
+      "uopštavanje",
+      "generalno zaključivanje"
+    ]
+  },
+  {
+    "q": "Antonim od „specifično“:",
+    "a": [
+      "opšte",
+      "uopšteno",
+      "generalno"
+    ]
+  },
+  {
+    "q": "Sinonim za „kohezija“:",
+    "a": [
+      "povezanost",
+      "jedinstvo",
+      "koherentnost"
+    ]
+  },
+  {
+    "q": "Antonim od „linearan“:",
+    "a": [
+      "nelinearan",
+      "diskontinuiran"
+    ]
+  },
+  {
+    "q": "Sinonim za „regulativa“:",
+    "a": [
+      "pravila",
+      "propisi",
+      "norme"
+    ]
+  },
+  {
+    "q": "Antonim od „svesno“:",
+    "a": [
+      "nesvesno",
+      "automatizovano"
+    ]
+  },
+  {
+    "q": "Sinonim za „uslovnost“:",
+    "a": [
+      "zavisnost",
+      "uslovljenost",
+      "determinisanost"
+    ]
+  },
+  {
+    "q": "Antonim od „predvidivo“:",
+    "a": [
+      "neizvesno",
+      "nepredvidivo"
+    ]
+  },
+  {
+    "q": "Sinonim za „analitičnost“:",
+    "a": [
+      "raščlanjivanje",
+      "analitički pristup"
+    ]
+  },
+  {
+    "q": "Antonim od „sinhronizovan“:",
+    "a": [
+      "nesinhronizovan",
+      "neusklađen"
+    ]
+  },
+  {
+    "q": "Sinonim za „legitimacija“:",
+    "a": [
+      "opravdanje",
+      "potvrđivanje",
+      "legalizacija"
+    ]
+  },
+  {
+    "q": "Antonim od „kumulativan efekat“:",
+    "a": [
+      "pojedinačan efekat",
+      "izolovan efekat"
+    ]
+  },
+  {
+    "q": "Sinonim za „operativan“:",
+    "a": [
+      "funkcionalan",
+      "izvodljiv",
+      "aktivan"
+    ]
+  },
+  {
+    "q": "Antonim od „rigorozan“:",
+    "a": [
+      "popustljiv",
+      "blag",
+      "fleksibilan"
+    ]
+  },
+  {
+    "q": "Sinonim za „eksplicitnost“:",
+    "a": [
+      "jasnoća",
+      "izričitost",
+      "nedvosmislenost"
+    ]
+  },
+  {
+    "q": "Antonim od „dosledno“:",
+    "a": [
+      "proizvoljno",
+      "nedosledno",
+      "neujednačeno"
+    ]
+  },
+  {
+    "q": "Sinonim za „dinamika“:",
+    "a": [
+      "kretanje",
+      "promena",
+      "razvoj"
+    ]
+  },
+  {
+    "q": "Antonim od „orijentisano“:",
+    "a": [
+      "dezorijentisano",
+      "neusmereno"
+    ]
+  },
+  {
+    "q": "Sinonim za „redundancija“:",
+    "a": [
+      "višak",
+      "suvišnost",
+      "ponavljanje"
+    ]
+  },
+  {
+    "q": "Antonim od „efikasno“:",
+    "a": [
+      "neuspešno",
+      "neefikasno"
+    ]
+  },
+  {
+    "q": "Sinonim za „postulat“:",
+    "a": [
+      "pretpostavka",
+      "načelo",
+      "aksiom"
+    ]
+  },
+  {
+    "q": "Antonim od „afirmisati“:",
+    "a": [
+      "negirati",
+      "poricati",
+      "odbaciti"
+    ]
+  },
+  {
+    "q": "Sinonim za „strukturisanje“:",
+    "a": [
+      "organizovanje",
+      "uređivanje",
+      "sistematizovanje"
+    ]
+  },
+  {
+    "q": "Antonim od „prilagodljiv“:",
+    "a": [
+      "nefleksibilan",
+      "rigidan",
+      "krut"
+    ]
+  },
+  {
+    "q": "Sinonim za „eksperimentalan“:",
+    "a": [
+      "probni",
+      "eksperimentalni",
+      "istraživački"
+    ]
+  },
+  {
+    "q": "Antonim od „monolitan“:",
+    "a": [
+      "razuđen",
+      "razgranat",
+      "heterogen"
+    ]
+  },
+  {
+    "q": "Sinonim za „koegzistencija“:",
+    "a": [
+      "zajedničko postojanje",
+      "suzivot",
+      "istovremeno postojanje"
+    ]
+  },
+  {
+    "q": "Antonim od „harmoničan“:",
+    "a": [
+      "neusklađen",
+      "disonantan",
+      "haotičan"
+    ]
+  },
+  {
+    "q": "Sinonim za „anticipacija“:",
+    "a": [
+      "predviđanje",
+      "očekivanje",
+      "pretpostavljanje"
+    ]
+  },
+  {
+    "q": "Antonim od „stabilizovati“:",
+    "a": [
+      "destabilizovati",
+      "poremetiti",
+      "razdrmati"
+    ]
+  },
+  {
+    "q": "Sinonim za „aproprijacija“:",
+    "a": [
+      "prisvajanje",
+      "preuzimanje",
+      "uzurpiranje"
+    ]
+  },
+  {
+    "q": "Antonim od „inkluzija“:",
+    "a": [
+      "isključenje",
+      "ekskluzija"
+    ]
+  },
+  {
+    "q": "Sinonim za „transcendentan“:",
+    "a": [
+      "nadilazeći",
+      "prevazilazeći",
+      "iznadiskustveni"
+    ]
+  },
+  {
+    "q": "Antonim od „imanentan“:",
+    "a": [
+      "spoljašnji",
+      "transcendentan",
+      "ekstern"
+    ]
+  },
+  {
+    "q": "Sinonim za „deskripcija“:",
+    "a": [
+      "opis",
+      "prikaz",
+      "karakterizacija"
+    ]
+  },
+  {
+    "q": "Antonim od „sintetičan“:",
+    "a": [
+      "analitičan",
+      "raščlanjen"
+    ]
+  },
+  {
+    "q": "Sinonim za „konstelacija“:",
+    "a": [
+      "sklop",
+      "raspored",
+      "kombinacija"
+    ]
+  },
+  {
+    "q": "Antonim od „uniforman“:",
+    "a": [
+      "raznolik",
+      "šarolik",
+      "heterogen"
+    ]
+  },
+  {
+    "q": "Sinonim za „detekcija“:",
+    "a": [
+      "otkrivanje",
+      "identifikacija",
+      "prepoznavanje"
+    ]
+  },
+  {
+    "q": "Antonim od „eksplorativan“:",
+    "a": [
+      "rutinski",
+      "ustaljen",
+      "standardizovan"
+    ]
+  },
+  {
+    "q": "Sinonim za „supstancijalan“:",
+    "a": [
+      "suštinski",
+      "bitan",
+      "fundamentalan"
+    ]
+  },
+  {
+    "q": "Antonim od „epizodan“:",
+    "a": [
+      "kontinuiran",
+      "stalan",
+      "neprekidan"
+    ]
+  },
+  {
+    "q": "Sinonim za „parametar“:",
+    "a": [
+      "merilo",
+      "kriterijum",
+      "pokazatelj"
+    ]
+  },
+  {
+    "q": "Antonim od „akumulativan“:",
+    "a": [
+      "rasipnički",
+      "disipativan",
+      "nepostojan"
+    ]
+  },
+  {
+    "q": "Sinonim za „konsenzusan“:",
+    "a": [
+      "usaglašen",
+      "dogovoren",
+      "jednoglasan"
+    ]
+  },
+  {
+    "q": "Antonim od „polarizovan“:",
+    "a": [
+      "uravnotežen",
+      "neutralan",
+      "izbalansiran"
+    ]
+  },
+  {
+    "q": "Sinonim za „postulirati“:",
+    "a": [
+      "pretpostaviti",
+      "postaviti",
+      "utvrditi"
+    ]
+  },
+  {
+    "q": "Antonim od „inovativan“:",
+    "a": [
+      "zastareo",
+      "tradicionalan",
+      "konvencionalan"
+    ]
+  },
+  {
+    "q": "Sinonim za „inferencija“:",
+    "a": [
+      "zaključivanje",
+      "izvođenje zaključka",
+      "dedukcija"
+    ]
+  },
+  {
+    "q": "Antonim od „deduktivan“:",
+    "a": [
+      "induktivan"
+    ]
+  },
+  {
+    "q": "Sinonim za „kontekstualan“:",
+    "a": [
+      "okolnosni",
+      "situacioni",
+      "kontekstni"
+    ]
+  },
+  {
+    "q": "Antonim od „izolovan“:",
+    "a": [
+      "povezan",
+      "integrisan",
+      "uključen"
+    ]
+  },
+  {
+    "q": "Sinonim za „artifakt“:",
+    "a": [
+      "veštačka tvorevina",
+      "artefakt",
+      "proizvod ljudske izrade"
+    ]
+  },
+  {
+    "q": "Antonim od „organski“:",
+    "a": [
+      "veštački",
+      "sintetički"
+    ]
+  },
+  {
+    "q": "Sinonim za „subjektivitet“:",
+    "a": [
+      "lični doživljaj",
+      "subjektivnost",
+      "lična perspektiva"
+    ]
+  },
+  {
+    "q": "Antonim od „objektivnost“:",
+    "a": [
+      "pristrasnost",
+      "subjektivnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „kontingentan“:",
+    "a": [
+      "slučajan",
+      "uslovan",
+      "neizvestan"
+    ]
+  },
+  {
+    "q": "Antonim od „deterministički“:",
+    "a": [
+      "nasumičan",
+      "stohastički"
+    ]
+  },
+  {
+    "q": "Sinonim za „rezime“:",
+    "a": [
+      "sažetak",
+      "pregled",
+      "sinopsis"
+    ]
+  },
+  {
+    "q": "Antonim od „ekstenzivno“:",
+    "a": [
+      "ograničeno",
+      "intenzivno"
+    ]
+  },
+  {
+    "q": "Sinonim za „strukturisanost“:",
+    "a": [
+      "uređenost",
+      "organizovanost",
+      "koherentnost"
+    ]
+  },
+  {
+    "q": "Antonim od „fragmentisan“:",
+    "a": [
+      "celovit",
+      "integrisan"
+    ]
+  },
+  {
+    "q": "Sinonim za „teleološki“:",
+    "a": [
+      "svrhovit",
+      "ciljno usmeren",
+      "teleološki"
+    ]
+  },
+  {
+    "q": "Antonim od „besciljan“:",
+    "a": [
+      "usmeren",
+      "svrhovit"
+    ]
+  },
+  {
+    "q": "Sinonim za „premisa“:",
+    "a": [
+      "polazna tvrdnja",
+      "pretpostavka",
+      "osnova zaključivanja"
+    ]
+  },
+  {
+    "q": "Antonim od „zaključno“:",
+    "a": [
+      "uvodno",
+      "početno"
+    ]
+  },
+  {
+    "q": "Sinonim za „internalizacija“:",
+    "a": [
+      "usvajanje",
+      "unutrašnje prihvatanje"
+    ]
+  },
+  {
+    "q": "Antonim od „eksternalizovan“:",
+    "a": [
+      "internalizovan",
+      "unutrašnji"
+    ]
+  },
+  {
+    "q": "Sinonim za „kategorizacija“:",
+    "a": [
+      "razvrstavanje",
+      "klasifikacija",
+      "grupisanje"
+    ]
+  },
+  {
+    "q": "Antonim od „hijerarhijski“:",
+    "a": [
+      "ravnopravan",
+      "nehijerarhijski"
+    ]
+  },
+  {
+    "q": "Sinonim za „diferencijacija“:",
+    "a": [
+      "razlikovanje",
+      "razdvajanje",
+      "distinkcija"
+    ]
+  },
+  {
+    "q": "Antonim od „izjednačen“:",
+    "a": [
+      "različit",
+      "raznolik"
+    ]
+  },
+  {
+    "q": "Sinonim za „operacionalizacija“:",
+    "a": [
+      "primena",
+      "sprovođenje",
+      "prevođenje u praksu"
+    ]
+  },
+  {
+    "q": "Antonim od „teorijski utemeljen“:",
+    "a": [
+      "neutemeljen",
+      "nepotkrepljen"
+    ]
+  },
+  {
+    "q": "Sinonim za „validnost“:",
+    "a": [
+      "ispravnost",
+      "valjanost",
+      "pouzdanost"
+    ]
+  },
+  {
+    "q": "Antonim od „neupitan“:",
+    "a": [
+      "sporan",
+      "diskutabilan"
+    ]
+  },
+  {
+    "q": "Sinonim za „propozicija“:",
+    "a": [
+      "tvrdnja",
+      "iskaz",
+      "postavka"
+    ]
+  },
+  {
+    "q": "Antonim od „afirmisan autoritet“:",
+    "a": [
+      "nepriznat autoritet",
+      "nepotvrđen autoritet"
+    ]
+  },
+  {
+    "q": "Sinonim za „konvergencija“:",
+    "a": [
+      "zbližavanje",
+      "približavanje",
+      "sjedinjavanje"
+    ]
+  },
+  {
+    "q": "Antonim od „divergentan“:",
+    "a": [
+      "konvergentan",
+      "usmeren ka istom"
+    ]
+  },
+  {
+    "q": "Sinonim za „aproksimativno“:",
+    "a": [
+      "otprilike",
+      "približno",
+      "okvirno"
+    ]
+  },
+  {
+    "q": "Antonim od „egzaktno“:",
+    "a": [
+      "okvirno",
+      "približno",
+      "neprecizno"
+    ]
+  },
+  {
+    "q": "Sinonim za „preciznost“:",
+    "a": [
+      "tačnost",
+      "egzaktnost",
+      "preciznost"
+    ]
+  },
+  {
+    "q": "Antonim od „neodređen“:",
+    "a": [
+      "određen",
+      "jasan",
+      "definisan"
+    ]
+  },
+  {
+    "q": "Sinonim za „doslednost“:",
+    "a": [
+      "postojanost",
+      "konzistentnost",
+      "principijelnost"
+    ]
+  },
+  {
+    "q": "Antonim od „nedosledan“:",
+    "a": [
+      "dosledan",
+      "konzistentan"
+    ]
+  },
+  {
+    "q": "Sinonim za „efikasnost“:",
+    "a": [
+      "delotvornost",
+      "učinkovitost",
+      "efikasnost"
+    ]
+  },
+  {
+    "q": "Antonim od „neefikasan“:",
+    "a": [
+      "efikasan",
+      "delotvoran"
+    ]
+  },
+  {
+    "q": "Sinonim za „pouzdan“:",
+    "a": [
+      "siguran",
+      "verodostojan",
+      "stabilan"
+    ]
+  },
+  {
+    "q": "Antonim od „nepouzdan“:",
+    "a": [
+      "pouzdan",
+      "siguran"
+    ]
+  },
+  {
+    "q": "Sinonim za „sistematičan“:",
+    "a": [
+      "metodičan",
+      "uređen",
+      "plansan"
+    ]
+  },
+  {
+    "q": "Antonim od „stihijski“:",
+    "a": [
+      "sistematičan",
+      "organizovan",
+      "planski"
+    ]
+  },
+  {
+    "q": "Sinonim za „relevantnost“:",
+    "a": [
+      "značajnost",
+      "bitnost",
+      "važnost"
+    ]
+  },
+  {
+    "q": "Antonim od „nebitan“:",
+    "a": [
+      "bitan",
+      "značajan",
+      "relevantan"
+    ]
+  },
+  {
+    "q": "Sinonim za „usklađenost“:",
+    "a": [
+      "harmonizovanost",
+      "saglasnost",
+      "koherentnost"
+    ]
+  },
+  {
+    "q": "Antonim od „neusklađen“:",
+    "a": [
+      "usklađen",
+      "harmoničan"
+    ]
+  },
+  {
+    "q": "Sinonim za „jasnoća“:",
+    "a": [
+      "razumljivost",
+      "preglednost",
+      "čistoća"
+    ]
+  },
+  {
+    "q": "Antonim od „nejasan“:",
+    "a": [
+      "jasan",
+      "razumljiv",
+      "pregledan"
+    ]
+  },
+  {
+    "q": "Sinonim za „stabilan“:",
+    "a": [
+      "postojan",
+      "čvrst",
+      "uravnotežen"
+    ]
+  },
+  {
+    "q": "Antonim od „nestabilan“:",
+    "a": [
+      "stabilan",
+      "postojan"
+    ]
+  },
+  {
+    "q": "Sinonim za „fleksibilnost“:",
+    "a": [
+      "prilagodljivost",
+      "elastičnost",
+      "savitljivost"
+    ]
+  },
+  {
+    "q": "Antonim od „nefleksibilan“:",
+    "a": [
+      "fleksibilan",
+      "prilagodljiv"
+    ]
+  },
+  {
+    "q": "Sinonim za „kontinualan“:",
+    "a": [
+      "neprekidan",
+      "stalan",
+      "kontinuiran"
+    ]
+  },
+  {
+    "q": "Antonim od „isprekidan“:",
+    "a": [
+      "kontinuiran",
+      "neprekidan"
+    ]
+  },
+  {
+    "q": "Sinonim za „racionalnost“:",
+    "a": [
+      "razložnost",
+      "razumnost",
+      "logičnost"
+    ]
+  },
+  {
+    "q": "Antonim od „iracionalan“:",
+    "a": [
+      "racionalan",
+      "razuman"
+    ]
+  },
+  {
+    "q": "Sinonim za „objektivnost“:",
+    "a": [
+      "nepristrasnost",
+      "neutralnost",
+      "objektivnost"
+    ]
+  },
+  {
+    "q": "Antonim od „subjektivan“:",
+    "a": [
+      "objektivan",
+      "nepristrasan"
+    ]
+  },
+  {
+    "q": "Sinonim za „struktura“:",
+    "a": [
+      "sistem",
+      "sklop",
+      "organizacija"
+    ]
+  },
+  {
+    "q": "Antonim od „haotičan“:",
+    "a": [
+      "uređen",
+      "organizovan",
+      "strukturisan"
+    ]
+  },
+  {
+    "q": "Sinonim za „konkretnost“:",
+    "a": [
+      "određenost",
+      "opipljivost",
+      "jasnoća"
+    ]
+  },
+  {
+    "q": "Antonim od „apstraktan“:",
+    "a": [
+      "konkretan",
+      "opipljiv",
+      "stvaran"
+    ]
+  },
+  {
+    "q": "Sinonim za „analitičan“:",
+    "a": [
+      "raščlanjen",
+      "razložan",
+      "detaljan"
+    ]
+  },
+  {
+    "q": "Antonim od „sintetičan“:",
+    "a": [
+      "analitičan",
+      "raščlanjen"
+    ]
+  },
+  {
+    "q": "Sinonim za „intenzitet“:",
+    "a": [
+      "jačina",
+      "snaga",
+      "stepen"
+    ]
+  },
+  {
+    "q": "Antonim od „slab“:",
+    "a": [
+      "jak",
+      "snažan"
+    ]
+  },
+  {
+    "q": "Sinonim za „strog“:",
+    "a": [
+      "rigorozan",
+      "nepopustljiv",
+      "zahtevan"
+    ]
+  },
+  {
+    "q": "Antonim od „popustljiv“:",
+    "a": [
+      "strog",
+      "nepopustljiv"
+    ]
+  },
+  {
+    "q": "Sinonim za „konzistentan“:",
+    "a": [
+      "ujednačen",
+      "dosledan",
+      "postojan"
+    ]
+  },
+  {
+    "q": "Antonim od „neujednačen“:",
+    "a": [
+      "konzistentan",
+      "ujednačen"
+    ]
+  },
+  {
+    "q": "Sinonim za „opravdan“:",
+    "a": [
+      "legitiman",
+      "utemeljen",
+      "razložan"
+    ]
+  },
+  {
+    "q": "Antonim od „neopravdan“:",
+    "a": [
+      "opravdan",
+      "utemeljen"
+    ]
+  },
+  {
+    "q": "Sinonim za „predvidiv“:",
+    "a": [
+      "očekivan",
+      "izvestan",
+      "računljiv"
+    ]
+  },
+  {
+    "q": "Antonim od „nepredvidiv“:",
+    "a": [
+      "predvidiv",
+      "izvestan"
+    ]
+  },
+  {
+    "q": "Sinonim za „uravnoteženost“:",
+    "a": [
+      "balans",
+      "ravnoteža",
+      "harmonija"
+    ]
+  },
+  {
+    "q": "Antonim od „neuravnotežen“:",
+    "a": [
+      "uravnotežen",
+      "stabilan"
+    ]
+  },
+  {
+    "q": "Sinonim za „autonomija“:",
+    "a": [
+      "samostalnost",
+      "nezavisnost"
+    ]
+  },
+  {
+    "q": "Antonim od „zavisan“:",
+    "a": [
+      "samostalan",
+      "nezavisan"
+    ]
+  },
+  {
+    "q": "Sinonim za „validan“:",
+    "a": [
+      "ispravan",
+      "važeći",
+      "utemeljen"
+    ]
+  },
+  {
+    "q": "Antonim od „nevažeći“:",
+    "a": [
+      "važeći",
+      "ispravan"
+    ]
+  },
+  {
+    "q": "Sinonim za „ekonomičan“:",
+    "a": [
+      "štedljiv",
+      "racionalan",
+      "isplativ"
+    ]
+  },
+  {
+    "q": "Antonim od „rasipan“:",
+    "a": [
+      "ekonomičan",
+      "štedljiv"
+    ]
+  },
+  {
+    "q": "Sinonim za „usmerenost“:",
+    "a": [
+      "orijentisanost",
+      "fokus",
+      "usredsređenost"
+    ]
+  },
+  {
+    "q": "Antonim od „dezorijentisan“:",
+    "a": [
+      "orijentisan",
+      "usmeren"
+    ]
+  },
+  {
+    "q": "Sinonim za „povezanost“:",
+    "a": [
+      "kohezija",
+      "usklađenost",
+      "jedinstvo"
+    ]
+  },
+  {
+    "q": "Antonim od „rascepan“:",
+    "a": [
+      "povezan",
+      "celovit"
+    ]
+  },
+  {
+    "q": "Sinonim za „postepen“:",
+    "a": [
+      "fazni",
+      "stepenast",
+      "postupan"
+    ]
+  },
+  {
+    "q": "Antonim od „nagli“:",
+    "a": [
+      "postepen",
+      "umeren"
+    ]
+  },
+  {
+    "q": "Sinonim za „primaran“:",
+    "a": [
+      "osnovni",
+      "glavni",
+      "ključni"
+    ]
+  },
+  {
+    "q": "Sinonim za „razložan“:",
+    "a": [
+      "smislen",
+      "utemeljen",
+      "logičan"
+    ]
+  },
+  {
+    "q": "Antonim od „besmislen“:",
+    "a": [
+      "smislen",
+      "razložan"
+    ]
+  },
+  {
+    "q": "Sinonim za „postojanost“:",
+    "a": [
+      "stabilnost",
+      "trajnost",
+      "konzistentnost"
+    ]
+  },
+  {
+    "q": "Antonim od „promenljiv“:",
+    "a": [
+      "postojan",
+      "stalan",
+      "stabilan"
+    ]
+  },
+  {
+    "q": "Sinonim za „usklađen“:",
+    "a": [
+      "harmonizovan",
+      "usaglašen",
+      "koherentan"
+    ]
+  },
+  {
+    "q": "Antonim od „neusklađenost“:",
+    "a": [
+      "usklađenost",
+      "harmonija",
+      "saglasnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „razumljiv“:",
+    "a": [
+      "shvatljiv",
+      "jasan",
+      "pregledan"
+    ]
+  },
+  {
+    "q": "Antonim od „nerazumljiv“:",
+    "a": [
+      "razumljiv",
+      "jasan"
+    ]
+  },
+  {
+    "q": "Sinonim za „metodičnost“:",
+    "a": [
+      "sistematičnost",
+      "organizovanost",
+      "plansko delovanje"
+    ]
+  },
+  {
+    "q": "Antonim od „haotično“:",
+    "a": [
+      "uređeno",
+      "organizovano",
+      "sistematično"
+    ]
+  },
+  {
+    "q": "Sinonim za „značajan“:",
+    "a": [
+      "bitan",
+      "važan",
+      "relevantan"
+    ]
+  },
+  {
+    "q": "Antonim od „nevažan“:",
+    "a": [
+      "značajan",
+      "bitan",
+      "relevantan"
+    ]
+  },
+  {
+    "q": "Sinonim za „kontrolisan“:",
+    "a": [
+      "uređen",
+      "nadziran",
+      "regulisan"
+    ]
+  },
+  {
+    "q": "Antonim od „nekontrolisan“:",
+    "a": [
+      "kontrolisan",
+      "uređen",
+      "obuzdan"
+    ]
+  },
+  {
+    "q": "Sinonim za „funkcionalnost“:",
+    "a": [
+      "upotrebljivost",
+      "funkcija",
+      "praktičnost"
+    ]
+  },
+  {
+    "q": "Antonim od „nefunkcionalan“:",
+    "a": [
+      "funkcionalan",
+      "upotrebljiv"
+    ]
+  },
+  {
+    "q": "Sinonim za „umerenost“:",
+    "a": [
+      "ravnoteža",
+      "odmerenost",
+      "umerenost"
+    ]
+  },
+  {
+    "q": "Antonim od „preteran“:",
+    "a": [
+      "umeren",
+      "odmeren",
+      "razuman"
+    ]
+  },
+  {
+    "q": "Sinonim za „pouzdanost“:",
+    "a": [
+      "verodostojnost",
+      "sigurnost",
+      "stabilnost"
+    ]
+  },
+  {
+    "q": "Antonim od „neverodostojan“:",
+    "a": [
+      "pouzdan",
+      "verodostojan"
+    ]
+  },
+  {
+    "q": "Sinonim za „sažet“:",
+    "a": [
+      "koncizan",
+      "kratak",
+      "jezgrovit"
+    ]
+  },
+  {
+    "q": "Antonim od „razvučen“:",
+    "a": [
+      "sažet",
+      "koncizan"
+    ]
+  },
+  {
+    "q": "Sinonim za „neprekidan“:",
+    "a": [
+      "kontinuiran",
+      "stalan",
+      "neprestan"
+    ]
+  },
+  {
+    "q": "Antonim od „diskontinuiran“:",
+    "a": [
+      "kontinuiran",
+      "neprekidan"
+    ]
+  },
+  {
+    "q": "Sinonim za „razložnost“:",
+    "a": [
+      "smislenost",
+      "logičnost",
+      "utemeljenost"
+    ]
+  },
+  {
+    "q": "Antonim od „besmislenost“:",
+    "a": [
+      "razložnost",
+      "smislenost"
+    ]
+  },
+  {
+    "q": "Sinonim za „nepristrasan“:",
+    "a": [
+      "objektivan",
+      "neutralan"
+    ]
+  },
+  {
+    "q": "Antonim od „pristrasan“:",
+    "a": [
+      "nepristrasan",
+      "objektivan"
+    ]
+  },
+  {
+    "q": "Sinonim za „usmeren“:",
+    "a": [
+      "fokusiran",
+      "orijentisan",
+      "usredsređen"
+    ]
+  },
+  {
+    "q": "Antonim od „rasut“:",
+    "a": [
+      "usmeren",
+      "sabran",
+      "fokusiran"
+    ]
+  },
+  {
+    "q": "Sinonim za „uređenost“:",
+    "a": [
+      "organizovanost",
+      "struktura",
+      "red"
+    ]
+  },
+  {
+    "q": "Antonim od „neorganizovan“:",
+    "a": [
+      "uređen",
+      "organizovan",
+      "strukturisan"
+    ]
+  },
+  {
+    "q": "Sinonim za „smislen“:",
+    "a": [
+      "logičan",
+      "razložan",
+      "utemeljen"
+    ]
+  },
+  {
+    "q": "Antonim od „nelogičan“:",
+    "a": [
+      "logičan",
+      "razuman"
+    ]
+  },
+  {
+    "q": "Sinonim za „pouzdan izvor“:",
+    "a": [
+      "verifikovan izvor",
+      "pouzdan izvor",
+      "kredibilan izvor"
+    ]
+  },
+  {
+    "q": "Antonim od „neproveren“:",
+    "a": [
+      "proveren",
+      "verifikovan"
+    ]
+  },
+  {
+    "q": "Sinonim za „predvidljivost“:",
+    "a": [
+      "stabilnost ishoda",
+      "izvesnost",
+      "računljivost"
+    ]
+  },
+  {
+    "q": "Antonim od „neizvestan“:",
+    "a": [
+      "izvestan",
+      "predvidiv"
+    ]
+  },
+  {
+    "q": "Sinonim za „usklađivanje“:",
+    "a": [
+      "harmonizacija",
+      "usaglašavanje",
+      "koordinacija"
+    ]
+  },
+  {
+    "q": "Antonim od „razilaženje“:",
+    "a": [
+      "usklađivanje",
+      "saglasnost",
+      "približavanje"
+    ]
+  },
+  {
+    "q": "Sinonim za „postepenost“:",
+    "a": [
+      "faznost",
+      "postupnost",
+      "stepenastost"
+    ]
+  },
+  {
+    "q": "Antonim od „naglost“:",
+    "a": [
+      "postepenost",
+      "umerenost"
+    ]
+  },
+  {
+    "q": "Sinonim za „samostalnost“:",
+    "a": [
+      "autonomija",
+      "nezavisnost"
+    ]
+  },
+  {
+    "q": "Antonim od „zavisnost“:",
+    "a": [
+      "samostalnost",
+      "nezavisnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „ispravan“:",
+    "a": [
+      "tačan",
+      "valjan",
+      "ispravan"
+    ]
+  },
+  {
+    "q": "Antonim od „pogrešan“:",
+    "a": [
+      "ispravan",
+      "tačan"
+    ]
+  },
+  {
+    "q": "Sinonim za „uravnotežen“:",
+    "a": [
+      "balansiran",
+      "stabilan",
+      "harmoničan"
+    ]
+  },
+  {
+    "q": "Antonim od „neuravnoteženost“:",
+    "a": [
+      "ravnoteža",
+      "balans"
+    ]
+  },
+  {
+    "q": "Sinonim za „primenjiv“:",
+    "a": [
+      "upotrebljiv",
+      "izvodljiv",
+      "praktičan"
+    ]
+  },
+  {
+    "q": "Antonim od „neprimenljiv“:",
+    "a": [
+      "primenjiv",
+      "upotrebljiv"
+    ]
+  },
+  {
+    "q": "Sinonim za „uređen sistem“:",
+    "a": [
+      "struktura",
+      "organizovan sistem"
+    ]
+  },
+  {
+    "q": "Antonim od „nestrukturisan“:",
+    "a": [
+      "strukturisan",
+      "organizovan"
+    ]
+  },
+  {
+    "q": "Sinonim za „razložiti“:",
+    "a": [
+      "analizirati",
+      "raščlaniti",
+      "objasniti"
+    ]
+  },
+  {
+    "q": "Antonim od „sintetički“:",
+    "a": [
+      "analitički",
+      "raščlanjen"
+    ]
+  },
+  {
+    "q": "Sinonim za „jasan cilj“:",
+    "a": [
+      "definisan cilj",
+      "precizan cilj"
+    ]
+  },
+  {
+    "q": "Antonim od „nejasan“:",
+    "a": [
+      "definisan",
+      "jasan"
+    ]
+  },
+  {
+    "q": "Sinonim za „pouzdan mehanizam“:",
+    "a": [
+      "stabilan mehanizam",
+      "pouzdan sistem"
+    ]
+  },
+  {
+    "q": "Antonim od „nestabilan“:",
+    "a": [
+      "stabilan",
+      "postojan"
+    ]
+  },
+  {
+    "q": "Sinonim za „usklađen pristup“:",
+    "a": [
+      "koordinisan pristup",
+      "harmonizovan pristup"
+    ]
+  },
+  {
+    "q": "Antonim od „nekoordinisan“:",
+    "a": [
+      "koordinisan",
+      "usklađen"
+    ]
+  },
+  {
+    "q": "Sinonim za „kontinuitet“:",
+    "a": [
+      "neprekidnost",
+      "stalnost",
+      "trajnost"
+    ]
+  },
+  {
+    "q": "Antonim od „prekid“:",
+    "a": [
+      "kontinuitet",
+      "neprekidnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „razborit“:",
+    "a": [
+      "promišljen",
+      "razuman",
+      "oprezan"
+    ]
+  },
+  {
+    "q": "Antonim od „nepromišljen“:",
+    "a": [
+      "razborit",
+      "promišljen"
+    ]
+  },
+  {
+    "q": "Sinonim za „uverljiv“:",
+    "a": [
+      "argumentovan",
+      "ubedljiv",
+      "verodostojan"
+    ]
+  },
+  {
+    "q": "Antonim od „neubedljiv“:",
+    "a": [
+      "uverljiv",
+      "argumentovan"
+    ]
+  },
+  {
+    "q": "Sinonim za „postepeni razvoj“:",
+    "a": [
+      "evolucija",
+      "postupan napredak"
+    ]
+  },
+  {
+    "q": "Antonim od „stagnacija“:",
+    "a": [
+      "napredak",
+      "razvoj"
+    ]
+  },
+  {
+    "q": "Sinonim za „staložen“:",
+    "a": [
+      "smiren",
+      "uravnotežen",
+      "pribran"
+    ]
+  },
+  {
+    "q": "Antonim od „uznemiren“:",
+    "a": [
+      "staložen",
+      "smiren"
+    ]
+  },
+  {
+    "q": "Sinonim za „nepristrasnost“:",
+    "a": [
+      "neutralnost",
+      "objektivnost"
+    ]
+  },
+  {
+    "q": "Antonim od „pristrasnost“:",
+    "a": [
+      "nepristrasnost",
+      "objektivnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „koherencija“:",
+    "a": [
+      "povezanost",
+      "doslednost",
+      "usklađenost"
+    ]
+  },
+  {
+    "q": "Antonim od „rastrzanost“:",
+    "a": [
+      "koherencija",
+      "povezanost"
+    ]
+  },
+  {
+    "q": "Sinonim za „svrhovitost“:",
+    "a": [
+      "namenskost",
+      "ciljnost",
+      "smislenost"
+    ]
+  },
+  {
+    "q": "Antonim od „besmislen“:",
+    "a": [
+      "svrhovit",
+      "smislen"
+    ]
+  },
+  {
+    "q": "Sinonim za „uopštenost“:",
+    "a": [
+      "opštost",
+      "generalnost"
+    ]
+  },
+  {
+    "q": "Antonim od „specifičnost“:",
+    "a": [
+      "uopštenost",
+      "opštost"
+    ]
+  },
+  {
+    "q": "Sinonim za „strpljivost“:",
+    "a": [
+      "postojanost",
+      "istrajnost"
+    ]
+  },
+  {
+    "q": "Antonim od „nestrpljiv“:",
+    "a": [
+      "strpljiv",
+      "postojan"
+    ]
+  },
+  {
+    "q": "Sinonim za „umeren“:",
+    "a": [
+      "razuman",
+      "odmeren",
+      "uravnotežen"
+    ]
+  },
+  {
+    "q": "Antonim od „preteranost“:",
+    "a": [
+      "umerenost",
+      "odmerenost"
+    ]
+  },
+  {
+    "q": "Sinonim za „dosledno ponašanje“:",
+    "a": [
+      "konzistentnost",
+      "postojanost u ponašanju"
+    ]
+  },
+  {
+    "q": "Antonim od „nedoslednost“:",
+    "a": [
+      "doslednost",
+      "konzistentnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „objektivna procena“:",
+    "a": [
+      "nepristrasna procena",
+      "neutralna procena"
+    ]
+  },
+  {
+    "q": "Antonim od „subjektivna procena“:",
+    "a": [
+      "objektivna procena",
+      "nepristrasna procena"
+    ]
+  },
+  {
+    "q": "Sinonim za „efikasan pristup“:",
+    "a": [
+      "delotvoran pristup",
+      "efikasan metod"
+    ]
+  },
+  {
+    "q": "Antonim od „neefikasan pristup“:",
+    "a": [
+      "efikasan pristup",
+      "delotvoran pristup"
+    ]
+  },
+  {
+    "q": "Sinonim za „razumljiv iskaz“:",
+    "a": [
+      "jasan iskaz",
+      "pregledan iskaz"
+    ]
+  },
+  {
+    "q": "Antonim od „nejasan iskaz“:",
+    "a": [
+      "razumljiv iskaz",
+      "jasan iskaz"
+    ]
+  },
+  {
+    "q": "Sinonim za „stabilna osnova“:",
+    "a": [
+      "čvrst temelj",
+      "pouzdana osnova"
+    ]
+  },
+  {
+    "q": "Antonim od „krhka osnova“:",
+    "a": [
+      "stabilna osnova",
+      "čvrst temelj"
+    ]
+  },
+  {
+    "q": "Sinonim za „uzdržan“:",
+    "a": [
+      "suzdržan",
+      "rezervisan",
+      "obazriv"
+    ]
+  },
+  {
+    "q": "Antonim od „uzdržan“:",
+    "a": [
+      "impulsivan",
+      "nagao",
+      "nesuzdržan"
+    ]
+  },
+  {
+    "q": "Sinonim za „istrajan“:",
+    "a": [
+      "uporan",
+      "postojan",
+      "dosledan"
+    ]
+  },
+  {
+    "q": "Antonim od „istrajan“:",
+    "a": [
+      "kolebljiv",
+      "nepostojan",
+      "nestalan"
+    ]
+  },
+  {
+    "q": "Sinonim za „razboritost“:",
+    "a": [
+      "promišljenost",
+      "razumnost",
+      "opreznost"
+    ]
+  },
+  {
+    "q": "Antonim od „razboritost“:",
+    "a": [
+      "nepromišljenost",
+      "lakomislenost"
+    ]
+  },
+  {
+    "q": "Sinonim za „neminovan“:",
+    "a": [
+      "neizbežan",
+      "neizostavan"
+    ]
+  },
+  {
+    "q": "Antonim od „neminovan“:",
+    "a": [
+      "izbeživ",
+      "sprečiv"
+    ]
+  },
+  {
+    "q": "Sinonim za „postojan“:",
+    "a": [
+      "stalan",
+      "stabilan",
+      "trajan"
+    ]
+  },
+  {
+    "q": "Antonim od „postojan“:",
+    "a": [
+      "nepostojan",
+      "promenljiv"
+    ]
+  },
+  {
+    "q": "Sinonim za „pronicljiv“:",
+    "a": [
+      "bistar",
+      "oštrovid",
+      "intuitivan"
+    ]
+  },
+  {
+    "q": "Antonim od „pronicljiv“:",
+    "a": [
+      "površan",
+      "ograničen"
+    ]
+  },
+  {
+    "q": "Sinonim za „uzrok“:",
+    "a": [
+      "povod",
+      "razlog",
+      "izvor"
+    ]
+  },
+  {
+    "q": "Antonim od „uzrok“:",
+    "a": [
+      "posledica",
+      "ishod"
+    ]
+  },
+  {
+    "q": "Sinonim za „umerenost“:",
+    "a": [
+      "ravnoteža",
+      "odmerenost",
+      "umerenost"
+    ]
+  },
+  {
+    "q": "Antonim od „umerenost“:",
+    "a": [
+      "preterivanje",
+      "ekstremnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „dosetljiv“:",
+    "a": [
+      "domišljat",
+      "snalažljiv",
+      "okretan"
+    ]
+  },
+  {
+    "q": "Antonim od „dosetljiv“:",
+    "a": [
+      "tupav",
+      "sporouman"
+    ]
+  },
+  {
+    "q": "Sinonim za „neodložan“:",
+    "a": [
+      "hitan",
+      "urgentан"
+    ]
+  },
+  {
+    "q": "Antonim od „neodložan“:",
+    "a": [
+      "odložan",
+      "neurgentан"
+    ]
+  },
+  {
+    "q": "Sinonim za „uverljivost“:",
+    "a": [
+      "argumentovanost",
+      "ubedljivost",
+      "verodostojnost"
+    ]
+  },
+  {
+    "q": "Antonim od „uverljivost“:",
+    "a": [
+      "neubedljivost",
+      "slaba argumentacija"
+    ]
+  },
+  {
+    "q": "Sinonim za „pristrasan“:",
+    "a": [
+      "subjektivan",
+      "neobjektivan"
+    ]
+  },
+  {
+    "q": "Antonim od „pristrasan“:",
+    "a": [
+      "nepristrasan",
+      "objektivan"
+    ]
+  },
+  {
+    "q": "Sinonim za „postepeno“:",
+    "a": [
+      "fazno",
+      "postupno",
+      "stepenasto"
+    ]
+  },
+  {
+    "q": "Antonim od „postepeno“:",
+    "a": [
+      "naglo",
+      "iznenadno"
+    ]
+  },
+  {
+    "q": "Sinonim za „odmeren“:",
+    "a": [
+      "razuman",
+      "umeren",
+      "uravnotežen"
+    ]
+  },
+  {
+    "q": "Antonim od „odmeren“:",
+    "a": [
+      "ekstreman",
+      "preteran"
+    ]
+  },
+  {
+    "q": "Sinonim za „razumeti“:",
+    "a": [
+      "shvatiti",
+      "pojmiti"
+    ]
+  },
+  {
+    "q": "Antonim od „razumeti“:",
+    "a": [
+      "pogrešno tumačiti",
+      "nerazumeti"
+    ]
+  },
+  {
+    "q": "Sinonim za „temeljit“:",
+    "a": [
+      "detaljan",
+      "podroban",
+      "sveobuhvatan"
+    ]
+  },
+  {
+    "q": "Antonim od „temeljit“:",
+    "a": [
+      "površan",
+      "nepotpun"
+    ]
+  },
+  {
+    "q": "Sinonim za „usklađen“:",
+    "a": [
+      "harmoničan",
+      "koherentan",
+      "usaglašen"
+    ]
+  },
+  {
+    "q": "Antonim od „usklađen“:",
+    "a": [
+      "haotičan",
+      "neusklađen"
+    ]
+  },
+  {
+    "q": "Sinonim za „odlučan“:",
+    "a": [
+      "rezolutan",
+      "čvrst",
+      "nepokolebljiv"
+    ]
+  },
+  {
+    "q": "Antonim od „odlučan“:",
+    "a": [
+      "neodlučan",
+      "kolebljiv"
+    ]
+  },
+  {
+    "q": "Sinonim za „racionalan pristup“:",
+    "a": [
+      "logičan pristup",
+      "razuman pristup"
+    ]
+  },
+  {
+    "q": "Antonim od „racionalan pristup“:",
+    "a": [
+      "iracionalan pristup",
+      "emocionalan pristup"
+    ]
+  },
+  {
+    "q": "Sinonim za „odmerenost“:",
+    "a": [
+      "umerenost",
+      "ravnoteža"
+    ]
+  },
+  {
+    "q": "Antonim od „odmerenost“:",
+    "a": [
+      "preteranost",
+      "ekstremnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „nejasnoća“:",
+    "a": [
+      "zamagljenost",
+      "neodređenost"
+    ]
+  },
+  {
+    "q": "Antonim od „nejasnoća“:",
+    "a": [
+      "jasnoća",
+      "preciznost"
+    ]
+  },
+  {
+    "q": "Sinonim za „ukazati“:",
+    "a": [
+      "naglasiti",
+      "istaknuti",
+      "upozoriti"
+    ]
+  },
+  {
+    "q": "Antonim od „ukazati“:",
+    "a": [
+      "zanemariti",
+      "prećutati"
+    ]
+  },
+  {
+    "q": "Sinonim za „sklad“:",
+    "a": [
+      "harmonija",
+      "ravnoteža"
+    ]
+  },
+  {
+    "q": "Antonim od „sklad“:",
+    "a": [
+      "nesklad",
+      "disonanca"
+    ]
+  },
+  {
+    "q": "Sinonim za „odgovoran“:",
+    "a": [
+      "pouzdan",
+      "savestan"
+    ]
+  },
+  {
+    "q": "Antonim od „odgovoran“:",
+    "a": [
+      "neodgovoran",
+      "nemaran"
+    ]
+  },
+  {
+    "q": "Sinonim za „uzdržanost“:",
+    "a": [
+      "rezervisanost",
+      "obazrivost"
+    ]
+  },
+  {
+    "q": "Antonim od „uzdržanost“:",
+    "a": [
+      "otvorenost",
+      "neuzdržanost"
+    ]
+  },
+  {
+    "q": "Sinonim za „neizbežno“:",
+    "a": [
+      "neminovno",
+      "neizostavno"
+    ]
+  },
+  {
+    "q": "Antonim od „neizbežno“:",
+    "a": [
+      "izbežno",
+      "sprečivo"
+    ]
+  },
+  {
+    "q": "Sinonim za „precenjen“:",
+    "a": [
+      "prenaglašen",
+      "naduvan"
+    ]
+  },
+  {
+    "q": "Antonim od „precenjen“:",
+    "a": [
+      "potcenjen",
+      "zanemaren"
+    ]
+  },
+  {
+    "q": "Sinonim za „postepeni“:",
+    "a": [
+      "fazni",
+      "postupan",
+      "stepenast"
+    ]
+  },
+  {
+    "q": "Antonim od „postepeni“:",
+    "a": [
+      "nagli",
+      "iznenadan"
+    ]
+  },
+  {
+    "q": "Sinonim za „razjasniti“:",
+    "a": [
+      "pojasniti",
+      "razbistriti",
+      "razložiti"
+    ]
+  },
+  {
+    "q": "Antonim od „razjasniti“:",
+    "a": [
+      "zamrsiti",
+      "zamagliti"
+    ]
+  },
+  {
+    "q": "Sinonim za „nepristrasan“:",
+    "a": [
+      "neutralan",
+      "objektivan"
+    ]
+  },
+  {
+    "q": "Antonim od „nepristrasan“:",
+    "a": [
+      "pristrasan",
+      "subjektivan"
+    ]
+  },
+  {
+    "q": "Sinonim za „suzdržan“:",
+    "a": [
+      "rezervisan",
+      "uzdržan",
+      "obazriv"
+    ]
+  },
+  {
+    "q": "Antonim od „suzdržan“:",
+    "a": [
+      "otvoren",
+      "neuzdržan"
+    ]
+  },
+  {
+    "q": "Sinonim za „dosledno“:",
+    "a": [
+      "ujednačeno",
+      "konzistentno"
+    ]
+  },
+  {
+    "q": "Antonim od „dosledno“:",
+    "a": [
+      "nedosledno",
+      "neujednačeno"
+    ]
+  },
+  {
+    "q": "Sinonim za „saglasnost“:",
+    "a": [
+      "pristanak",
+      "dogovor",
+      "saglasje"
+    ]
+  },
+  {
+    "q": "Antonim od „saglasnost“:",
+    "a": [
+      "neslaganje",
+      "razilaženje"
+    ]
+  },
+  {
+    "q": "Sinonim za „nepredvidivo“:",
+    "a": [
+      "neočekivano",
+      "neizvesno"
+    ]
+  },
+  {
+    "q": "Antonim od „nepredvidivo“:",
+    "a": [
+      "očekivano",
+      "predvidivo"
+    ]
+  },
+  {
+    "q": "Sinonim za „uvid“:",
+    "a": [
+      "razumevanje",
+      "saznanje",
+      "shvatanje"
+    ]
+  },
+  {
+    "q": "Antonim od „uvid“:",
+    "a": [
+      "nerazumevanje",
+      "neshvatljivost"
+    ]
+  },
+  {
+    "q": "Sinonim za „ograničiti“:",
+    "a": [
+      "suziti",
+      "obuzdati",
+      "limitirati"
+    ]
+  },
+  {
+    "q": "Antonim od „ograničiti“:",
+    "a": [
+      "proširiti",
+      "osloboditi"
+    ]
+  },
+  {
+    "q": "Sinonim za „stabilizovati“:",
+    "a": [
+      "učvrstiti",
+      "uravnotežiti"
+    ]
+  },
+  {
+    "q": "Antonim od „stabilizovati“:",
+    "a": [
+      "uzdrmati",
+      "destabilizovati"
+    ]
+  },
+  {
+    "q": "Sinonim za „uverenje“:",
+    "a": [
+      "verovanje",
+      "ubeđenje"
+    ]
+  },
+  {
+    "q": "Antonim od „uverenje“:",
+    "a": [
+      "sumnja",
+      "neverica"
+    ]
+  },
+  {
+    "q": "Sinonim za „prilagoditi se“:",
+    "a": [
+      "uklopiti se",
+      "adaptirati se"
+    ]
+  },
+  {
+    "q": "Antonim od „prilagoditi se“:",
+    "a": [
+      "suprotstaviti se",
+      "opirati se"
+    ]
+  },
+  {
+    "q": "Sinonim za „usredsređen“:",
+    "a": [
+      "fokusiran",
+      "koncentrisan"
+    ]
+  },
+  {
+    "q": "Antonim od „usredsređen“:",
+    "a": [
+      "rastrojen",
+      "dekoncentrisan"
+    ]
+  },
+  {
+    "q": "Sinonim za „neodređen“:",
+    "a": [
+      "nejasan",
+      "zamagljen"
+    ]
+  },
+  {
+    "q": "Antonim od „neodređen“:",
+    "a": [
+      "precizan",
+      "određen"
+    ]
+  },
+  {
+    "q": "Sinonim za „prihvatljiv“:",
+    "a": [
+      "dopušten",
+      "adekvatan"
+    ]
+  },
+  {
+    "q": "Antonim od „prihvatljiv“:",
+    "a": [
+      "neprihvatljiv",
+      "nedopušten"
+    ]
+  },
+  {
+    "q": "Sinonim za „sagledavanje“:",
+    "a": [
+      "razmatranje",
+      "posmatranje"
+    ]
+  },
+  {
+    "q": "Antonim od „sagledavanje“:",
+    "a": [
+      "ignorisanje",
+      "zanemarivanje"
+    ]
+  },
+  {
+    "q": "Sinonim za „opravdati“:",
+    "a": [
+      "potkrepiti",
+      "utemeljiti"
+    ]
+  },
+  {
+    "q": "Antonim od „opravdati“:",
+    "a": [
+      "osporiti",
+      "negirati"
+    ]
+  },
+  {
+    "q": "Sinonim za „postojanost“:",
+    "a": [
+      "istrajnost",
+      "stabilnost"
+    ]
+  },
+  {
+    "q": "Antonim od „postojanost“:",
+    "a": [
+      "nestalnost",
+      "nepostojanost"
+    ]
+  },
+  {
+    "q": "Sinonim za „uznemirenost“:",
+    "a": [
+      "nemir",
+      "uzbuđenost"
+    ]
+  },
+  {
+    "q": "Antonim od „uznemirenost“:",
+    "a": [
+      "smirenost",
+      "staloženost"
+    ]
+  },
+  {
+    "q": "Sinonim za „uslovljenost“:",
+    "a": [
+      "zavisnost",
+      "ograničenost"
+    ]
+  },
+  {
+    "q": "Antonim od „uslovljenost“:",
+    "a": [
+      "samostalnost",
+      "nezavisnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „neusklađen“:",
+    "a": [
+      "nesaglasan",
+      "haotičan"
+    ]
+  },
+  {
+    "q": "Antonim od „neusklađen“:",
+    "a": [
+      "usklađen",
+      "harmoničan"
+    ]
+  },
+  {
+    "q": "Sinonim za „sažeti“:",
+    "a": [
+      "skratiti",
+      "sumirati"
+    ]
+  },
+  {
+    "q": "Antonim od „sažeti“:",
+    "a": [
+      "razvući",
+      "detaljisati"
+    ]
+  },
+  {
+    "q": "Sinonim za „razuman“:",
+    "a": [
+      "trezven",
+      "logičan"
+    ]
+  },
+  {
+    "q": "Antonim od „razuman“:",
+    "a": [
+      "nerazuman",
+      "iracionalan"
+    ]
+  },
+  {
+    "q": "Sinonim za „potceniti“:",
+    "a": [
+      "umanjiti",
+      "minimizovati"
+    ]
+  },
+  {
+    "q": "Antonim od „potceniti“:",
+    "a": [
+      "preceniti",
+      "prenaglasiti"
+    ]
+  },
+  {
+    "q": "Sinonim za „izričit“:",
+    "a": [
+      "nedvosmislen",
+      "jasan"
+    ]
+  },
+  {
+    "q": "Antonim od „izričit“:",
+    "a": [
+      "dvosmislen",
+      "nejasan"
+    ]
+  },
+  {
+    "q": "Sinonim za „stabilnost“:",
+    "a": [
+      "čvrstina",
+      "postojanost"
+    ]
+  },
+  {
+    "q": "Antonim od „stabilnost“:",
+    "a": [
+      "nestabilnost",
+      "kolebljivost"
+    ]
+  },
+  {
+    "q": "Sinonim za „neposredno“:",
+    "a": [
+      "direktno",
+      "izravno"
+    ]
+  },
+  {
+    "q": "Antonim od „neposredno“:",
+    "a": [
+      "posredno",
+      "indirektno"
+    ]
+  },
+  {
+    "q": "Sinonim za „umeriti“:",
+    "a": [
+      "izbalansirati",
+      "uravnotežiti"
+    ]
+  },
+  {
+    "q": "Antonim od „umeriti“:",
+    "a": [
+      "prenaglasiti",
+      "pojačati"
+    ]
+  },
+  {
+    "q": "Sinonim za „pouzdan“:",
+    "a": [
+      "siguran",
+      "verodostojan"
+    ]
+  },
+  {
+    "q": "Antonim od „pouzdan“:",
+    "a": [
+      "nepouzdan",
+      "nesiguran"
+    ]
+  },
+  {
+    "q": "Sinonim za „razjasnjenje“:",
+    "a": [
+      "pojašnjenje",
+      "razjašnjenje"
+    ]
+  },
+  {
+    "q": "Antonim od „razjasnjenje“:",
+    "a": [
+      "zamagljenje",
+      "zamršenost"
+    ]
+  },
+  {
+    "q": "Sinonim za „usmerenost“:",
+    "a": [
+      "fokus",
+      "orijentisanost"
+    ]
+  },
+  {
+    "q": "Antonim od „usmerenost“:",
+    "a": [
+      "rasutost",
+      "dezorijentisanost"
+    ]
+  },
+  {
+    "q": "Sinonim za „smislen“:",
+    "a": [
+      "logičan",
+      "razložan"
+    ]
+  },
+  {
+    "q": "Antonim od „smislen“:",
+    "a": [
+      "besmislen",
+      "nelogičan"
+    ]
+  },
+  {
+    "q": "Sinonim za „neposlušan“:",
+    "a": [
+      "nepokoran",
+      "buntovan"
+    ]
+  },
+  {
+    "q": "Antonim od „neposlušan“:",
+    "a": [
+      "poslušan",
+      "pokoran"
+    ]
+  },
+  {
+    "q": "Sinonim za „sadržajan“:",
+    "a": [
+      "bogat",
+      "značajan"
+    ]
+  },
+  {
+    "q": "Antonim od „sadržajan“:",
+    "a": [
+      "prazan",
+      "beznačajan"
+    ]
+  },
+  {
+    "q": "Sinonim za „usporiti“:",
+    "a": [
+      "zadržati",
+      "usporavati"
+    ]
+  },
+  {
+    "q": "Antonim od „usporiti“:",
+    "a": [
+      "ubrzati",
+      "pospešiti"
+    ]
+  },
+  {
+    "q": "Sinonim za „razborit“:",
+    "a": [
+      "promišljen",
+      "razuman"
+    ]
+  },
+  {
+    "q": "Antonim od „razborit“:",
+    "a": [
+      "nepromišljen",
+      "lakomislen"
+    ]
+  },
+  {
+    "q": "Sinonim za „nejasan stav“:",
+    "a": [
+      "neodređen stav",
+      "zamagljen stav"
+    ]
+  },
+  {
+    "q": "Antonim od „nejasan stav“:",
+    "a": [
+      "jasan stav",
+      "definisan stav"
+    ]
+  },
+  {
+    "q": "Sinonim za „ograničenje“:",
+    "a": [
+      "barijera",
+      "prepreka"
+    ]
+  },
+  {
+    "q": "Antonim od „ograničenje“:",
+    "a": [
+      "sloboda",
+      "mogućnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „doslednost“:",
+    "a": [
+      "postojanost",
+      "konzistentnost"
+    ]
+  },
+  {
+    "q": "Antonim od „doslednost“:",
+    "a": [
+      "nedoslednost",
+      "neujednačenost"
+    ]
+  },
+  {
+    "q": "Sinonim za „ubediti“:",
+    "a": [
+      "uveriti",
+      "privoleti"
+    ]
+  },
+  {
+    "q": "Antonim od „ubediti“:",
+    "a": [
+      "razuveriti",
+      "odvratiti"
+    ]
+  },
+  {
+    "q": "Sinonim za „nepouzdan izvor“:",
+    "a": [
+      "sumnjiv izvor",
+      "neverodostojan izvor"
+    ]
+  },
+  {
+    "q": "Antonim od „nepouzdan izvor“:",
+    "a": [
+      "pouzdan izvor",
+      "verodostojan izvor"
+    ]
+  },
+  {
+    "q": "Sinonim za „raspršen“:",
+    "a": [
+      "razbacan",
+      "rasut"
+    ]
+  },
+  {
+    "q": "Antonim od „raspršen“:",
+    "a": [
+      "usmeren",
+      "sabran"
+    ]
+  },
+  {
+    "q": "Sinonim za „ublažiti“:",
+    "a": [
+      "umanjiti",
+      "olakšati"
+    ]
+  },
+  {
+    "q": "Antonim od „ublažiti“:",
+    "a": [
+      "pojačati",
+      "intenzivirati"
+    ]
+  },
+  {
+    "q": "Sinonim za „odmeren govor“:",
+    "a": [
+      "uzdržan govor",
+      "smiren govor"
+    ]
+  },
+  {
+    "q": "Antonim od „odmeren govor“:",
+    "a": [
+      "napadan govor",
+      "agresivan govor"
+    ]
+  },
+  {
+    "q": "Sinonim za „podržati“:",
+    "a": [
+      "stati iza",
+      "podupreti"
+    ]
+  },
+  {
+    "q": "Antonim od „podržati“:",
+    "a": [
+      "osporiti",
+      "suprotstaviti se"
+    ]
+  },
+  {
+    "q": "Sinonim za „postojati“:",
+    "a": [
+      "egzistirati",
+      "biti prisutan"
+    ]
+  },
+  {
+    "q": "Antonim od „postojati“:",
+    "a": [
+      "ne postojati",
+      "iščeznuti"
+    ]
+  },
+  {
+    "q": "Sinonim za „neusklađenost“:",
+    "a": [
+      "nesklad",
+      "neujednačenost"
+    ]
+  },
+  {
+    "q": "Antonim od „neusklađenost“:",
+    "a": [
+      "usklađenost",
+      "harmonija"
+    ]
+  },
+  {
+    "q": "Sinonim za „uopšten“:",
+    "a": [
+      "generalizovan",
+      "opšti"
+    ]
+  },
+  {
+    "q": "Antonim od „uopšten“:",
+    "a": [
+      "konkretan",
+      "specifičan"
+    ]
+  },
+  {
+    "q": "Sinonim za „zadržati se“:",
+    "a": [
+      "ostati",
+      "zadržavati se"
+    ]
+  },
+  {
+    "q": "Antonim od „zadržati se“:",
+    "a": [
+      "otići",
+      "napustiti"
+    ]
+  },
+  {
+    "q": "Sinonim za „nejasno izražen“:",
+    "a": [
+      "dvosmislen"
+    ]
+  },
+  {
+    "q": "Antonim od „nejasno izražen“:",
+    "a": [
+      "nedvosmislen"
+    ]
+  },
+  {
+    "q": "Sinonim za „učvrstiti stav“:",
+    "a": [
+      "konsolidovati stav"
+    ]
+  },
+  {
+    "q": "Antonim od „učvrstiti stav“:",
+    "a": [
+      "poljuljati stav"
+    ]
+  },
+  {
+    "q": "Sinonim za „postojan“:",
+    "a": [
+      "stabilan",
+      "trajan",
+      "stalan"
+    ]
+  },
+  {
+    "q": "Antonim od „postojan“:",
+    "a": [
+      "nestalan",
+      "promenljiv",
+      "nepostojan"
+    ]
+  },
+  {
+    "q": "Sinonim za „neprikladan“:",
+    "a": [
+      "neprimeren",
+      "neodgovarajući"
+    ]
+  },
+  {
+    "q": "Antonim od „neprikladan“:",
+    "a": [
+      "primeren",
+      "odgovarajući"
+    ]
+  },
+  {
+    "q": "Sinonim za „olakšati“:",
+    "a": [
+      "pojednostaviti",
+      "ublažiti",
+      "olakšavati"
+    ]
+  },
+  {
+    "q": "Antonim od „olakšati“:",
+    "a": [
+      "otežati",
+      "zakomplikovati"
+    ]
+  },
+  {
+    "q": "Sinonim za „usaglašen“:",
+    "a": [
+      "usklađen",
+      "harmonizovan",
+      "koherentan"
+    ]
+  },
+  {
+    "q": "Antonim od „usaglašen“:",
+    "a": [
+      "neusaglašen",
+      "neusklađen"
+    ]
+  },
+  {
+    "q": "Sinonim za „istrajati“:",
+    "a": [
+      "opstati",
+      "izdržati",
+      "perzistirati"
+    ]
+  },
+  {
+    "q": "Antonim od „istrajati“:",
+    "a": [
+      "odustati",
+      "popustiti"
+    ]
+  },
+  {
+    "q": "Sinonim za „zamagliti“:",
+    "a": [
+      "zamrsiti",
+      "zamutiti",
+      "zasenčiti"
+    ]
+  },
+  {
+    "q": "Antonim od „zamagliti“:",
+    "a": [
+      "razjasniti",
+      "razbistriti"
+    ]
+  },
+  {
+    "q": "Sinonim za „suštinski“:",
+    "a": [
+      "bitan",
+      "osnovni",
+      "fundamentalan"
+    ]
+  },
+  {
+    "q": "Antonim od „suštinski“:",
+    "a": [
+      "sporedan",
+      "nebitan",
+      "sekundaran"
+    ]
+  },
+  {
+    "q": "Sinonim za „odlučnost“:",
+    "a": [
+      "rezolutnost",
+      "čvrstina",
+      "nepokolebljivost"
+    ]
+  },
+  {
+    "q": "Antonim od „odlučnost“:",
+    "a": [
+      "neodlučnost",
+      "kolebljivost"
+    ]
+  },
+  {
+    "q": "Sinonim za „ograničavajući“:",
+    "a": [
+      "restriktivan",
+      "sputavajući"
+    ]
+  },
+  {
+    "q": "Antonim od „ograničavajući“:",
+    "a": [
+      "oslobađajući",
+      "podsticajan"
+    ]
+  },
+  {
+    "q": "Sinonim za „rastegnut“:",
+    "a": [
+      "razvučen",
+      "produžen"
+    ]
+  },
+  {
+    "q": "Antonim od „rastegnut“:",
+    "a": [
+      "sažet",
+      "koncizan"
+    ]
+  },
+  {
+    "q": "Sinonim za „neubedljiv“:",
+    "a": [
+      "slab",
+      "neuverljiv"
+    ]
+  },
+  {
+    "q": "Antonim od „neubedljiv“:",
+    "a": [
+      "uverljiv",
+      "argumentovan"
+    ]
+  },
+  {
+    "q": "Sinonim za „uravnotežiti“:",
+    "a": [
+      "izjednačiti",
+      "izbalansirati",
+      "uskladiti"
+    ]
+  },
+  {
+    "q": "Antonim od „uravnotežiti“:",
+    "a": [
+      "poremetiti",
+      "destabilizovati"
+    ]
+  },
+  {
+    "q": "Sinonim za „prihvatiti“:",
+    "a": [
+      "usvojiti",
+      "prihvatiti kao svoje"
+    ]
+  },
+  {
+    "q": "Antonim od „prihvatiti“:",
+    "a": [
+      "odbaciti",
+      "odreći se"
+    ]
+  },
+  {
+    "q": "Sinonim za „nedorečen“:",
+    "a": [
+      "nepotpun",
+      "nejasan",
+      "zamagljen"
+    ]
+  },
+  {
+    "q": "Antonim od „nedorečen“:",
+    "a": [
+      "potpun",
+      "razjašnjen"
+    ]
+  },
+  {
+    "q": "Sinonim za „neopravdan“:",
+    "a": [
+      "neosnovan",
+      "neutemeljen"
+    ]
+  },
+  {
+    "q": "Antonim od „neopravdan“:",
+    "a": [
+      "opravdan",
+      "utemeljen"
+    ]
+  },
+  {
+    "q": "Sinonim za „razvučenost“:",
+    "a": [
+      "opširnost",
+      "razvlačenje"
+    ]
+  },
+  {
+    "q": "Antonim od „razvučenost“:",
+    "a": [
+      "sažetost",
+      "konciznost"
+    ]
+  },
+  {
+    "q": "Sinonim za „uzdrmati“:",
+    "a": [
+      "poljuljati",
+      "uznemiriti"
+    ]
+  },
+  {
+    "q": "Antonim od „uzdrmati“:",
+    "a": [
+      "učvrstiti",
+      "stabilizovati"
+    ]
+  },
+  {
+    "q": "Sinonim za „površan sud“:",
+    "a": [
+      "brzoplet sud",
+      "nepromišljen sud"
+    ]
+  },
+  {
+    "q": "Antonim od „površan sud“:",
+    "a": [
+      "temeljan sud",
+      "promišljen sud"
+    ]
+  },
+  {
+    "q": "Sinonim za „nedosledan“:",
+    "a": [
+      "neujednačen",
+      "nekonzistentan"
+    ]
+  },
+  {
+    "q": "Antonim od „nedosledan“:",
+    "a": [
+      "dosledan",
+      "konzistentan"
+    ]
+  },
+  {
+    "q": "Sinonim za „razmatrati“:",
+    "a": [
+      "analizirati",
+      "razmotriti"
+    ]
+  },
+  {
+    "q": "Antonim od „razmatrati“:",
+    "a": [
+      "zanemariti",
+      "ignorirati"
+    ]
+  },
+  {
+    "q": "Sinonim za „uobličen“:",
+    "a": [
+      "formiran",
+      "definisan"
+    ]
+  },
+  {
+    "q": "Antonim od „uobličen“:",
+    "a": [
+      "neformiran",
+      "nejasan"
+    ]
+  },
+  {
+    "q": "Sinonim za „oslonac“:",
+    "a": [
+      "uporište",
+      "podrška"
+    ]
+  },
+  {
+    "q": "Antonim od „oslonac“:",
+    "a": [
+      "teret",
+      "prepreka"
+    ]
+  },
+  {
+    "q": "Sinonim za „neodlučnost“:",
+    "a": [
+      "kolebljivost",
+      "nepostojanost"
+    ]
+  },
+  {
+    "q": "Antonim od „neodlučnost“:",
+    "a": [
+      "odlučnost",
+      "rezolutnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „sveobuhvatan“:",
+    "a": [
+      "potpun",
+      "celovit"
+    ]
+  },
+  {
+    "q": "Antonim od „sveobuhvatan“:",
+    "a": [
+      "ograničen",
+      "delimičan"
+    ]
+  },
+  {
+    "q": "Sinonim za „nedvosmislen“:",
+    "a": [
+      "jasan",
+      "precizan"
+    ]
+  },
+  {
+    "q": "Antonim od „nedvosmislen“:",
+    "a": [
+      "dvosmislen",
+      "nejasan"
+    ]
+  },
+  {
+    "q": "Sinonim za „nepotpun“:",
+    "a": [
+      "okrnjen",
+      "delimičan"
+    ]
+  },
+  {
+    "q": "Antonim od „nepotpun“:",
+    "a": [
+      "celovit",
+      "potpun"
+    ]
+  },
+  {
+    "q": "Sinonim za „neoprezan“:",
+    "a": [
+      "lakomislen",
+      "nepromišljen"
+    ]
+  },
+  {
+    "q": "Antonim od „neoprezan“:",
+    "a": [
+      "obazriv",
+      "oprezan"
+    ]
+  },
+  {
+    "q": "Sinonim za „neobičan“:",
+    "a": [
+      "nesvakidašnji",
+      "neuobičajen"
+    ]
+  },
+  {
+    "q": "Antonim od „neobičan“:",
+    "a": [
+      "uobičajen",
+      "običan"
+    ]
+  },
+  {
+    "q": "Sinonim za „sumnjiv“:",
+    "a": [
+      "problematičan",
+      "nepouzdan"
+    ]
+  },
+  {
+    "q": "Antonim od „sumnjiv“:",
+    "a": [
+      "pouzdan",
+      "verodostojan"
+    ]
+  },
+  {
+    "q": "Sinonim za „neelastičan“:",
+    "a": [
+      "krut",
+      "nefleksibilan"
+    ]
+  },
+  {
+    "q": "Antonim od „neelastičan“:",
+    "a": [
+      "fleksibilan",
+      "elastičan"
+    ]
+  },
+  {
+    "q": "Sinonim za „razrađen plan“:",
+    "a": [
+      "detaljan plan",
+      "temeljno razrađen plan"
+    ]
+  },
+  {
+    "q": "Antonim od „razrađen plan“:",
+    "a": [
+      "površan plan",
+      "nepotpun plan"
+    ]
+  },
+  {
+    "q": "Sinonim za „neujednačen“:",
+    "a": [
+      "nekonzistentan",
+      "nepravilan"
+    ]
+  },
+  {
+    "q": "Antonim od „neujednačen“:",
+    "a": [
+      "ujednačen",
+      "konzistentan"
+    ]
+  },
+  {
+    "q": "Sinonim za „uverenost“:",
+    "a": [
+      "sigurnost",
+      "samopouzdanje"
+    ]
+  },
+  {
+    "q": "Antonim od „uverenost“:",
+    "a": [
+      "nesigurnost",
+      "sumnja"
+    ]
+  },
+  {
+    "q": "Sinonim za „jasno iznet“:",
+    "a": [
+      "precizno iznet",
+      "nedvosmisleno iznet"
+    ]
+  },
+  {
+    "q": "Antonim od „jasno iznet“:",
+    "a": [
+      "nejasno iznet",
+      "dvosmisleno iznet"
+    ]
+  },
+  {
+    "q": "Sinonim za „validnost“:",
+    "a": [
+      "ispravnost",
+      "važenje"
+    ]
+  },
+  {
+    "q": "Antonim od „nevažeći“:",
+    "a": [
+      "važeći",
+      "validan"
+    ]
+  },
+  {
+    "q": "Sinonim za „koherentan“:",
+    "a": [
+      "povezan",
+      "usklađen"
+    ]
+  },
+  {
+    "q": "Antonim od „nepovezan“:",
+    "a": [
+      "koherentan",
+      "povezan"
+    ]
+  },
+  {
+    "q": "Sinonim za „konzistentnost“:",
+    "a": [
+      "doslednost",
+      "ujednačenost"
+    ]
+  },
+  {
+    "q": "Antonim od „nedoslednost“:",
+    "a": [
+      "konzistentnost",
+      "doslednost"
+    ]
+  },
+  {
+    "q": "Sinonim za „preciznost“:",
+    "a": [
+      "tačnost",
+      "određenost"
+    ]
+  },
+  {
+    "q": "Antonim od „neodređen“:",
+    "a": [
+      "određen",
+      "precizan"
+    ]
+  },
+  {
+    "q": "Sinonim za „objektivnost“:",
+    "a": [
+      "nepristrasnost",
+      "neutralnost"
+    ]
+  },
+  {
+    "q": "Antonim od „pristrasan“:",
+    "a": [
+      "objektivan",
+      "nepristrasan"
+    ]
+  },
+  {
+    "q": "Sinonim za „racionalan“:",
+    "a": [
+      "razložan",
+      "logičan"
+    ]
+  },
+  {
+    "q": "Antonim od „iracionalan“:",
+    "a": [
+      "racionalan",
+      "razuman"
+    ]
+  },
+  {
+    "q": "Sinonim za „empirijski“:",
+    "a": [
+      "iskustveni",
+      "činjenični"
+    ]
+  },
+  {
+    "q": "Antonim od „teorijski“:",
+    "a": [
+      "praktičan",
+      "primenjen"
+    ]
+  },
+  {
+    "q": "Sinonim za „interpretacija“:",
+    "a": [
+      "tumačenje",
+      "objašnjenje"
+    ]
+  },
+  {
+    "q": "Antonim od „doslovan“:",
+    "a": [
+      "interpretativan",
+      "prenesen"
+    ]
+  },
+  {
+    "q": "Sinonim za „konceptualan“:",
+    "a": [
+      "pojmovni",
+      "teorijski"
+    ]
+  },
+  {
+    "q": "Antonim od „nekonceptualan“:",
+    "a": [
+      "konceptualan",
+      "pojmovni"
+    ]
+  },
+  {
+    "q": "Sinonim za „relevantnost“:",
+    "a": [
+      "značajnost",
+      "bitnost"
+    ]
+  },
+  {
+    "q": "Antonim od „beznačajan“:",
+    "a": [
+      "relevantan",
+      "značajan"
+    ]
+  },
+  {
+    "q": "Sinonim za „sistematičnost“:",
+    "a": [
+      "metodičnost",
+      "plansko postupanje"
+    ]
+  },
+  {
+    "q": "Antonim od „stihičan“:",
+    "a": [
+      "sistematičan",
+      "organizovan"
+    ]
+  },
+  {
+    "q": "Sinonim za „kohezija“:",
+    "a": [
+      "povezanost",
+      "usklađenost"
+    ]
+  },
+  {
+    "q": "Antonim od „rascepan“:",
+    "a": [
+      "kohezivan",
+      "povezan"
+    ]
+  },
+  {
+    "q": "Sinonim za „determinisan“:",
+    "a": [
+      "određen",
+      "utvrđen"
+    ]
+  },
+  {
+    "q": "Antonim od „indeterminisan“:",
+    "a": [
+      "determinisan",
+      "određen"
+    ]
+  },
+  {
+    "q": "Sinonim za „apstraktan“:",
+    "a": [
+      "pojmovni",
+      "neopipljiv"
+    ]
+  },
+  {
+    "q": "Antonim od „konkretan“:",
+    "a": [
+      "apstraktan",
+      "pojmovni"
+    ]
+  },
+  {
+    "q": "Sinonim za „analitičan“:",
+    "a": [
+      "raščlanjen",
+      "detaljan"
+    ]
+  },
+  {
+    "q": "Antonim od „sintetičan“:",
+    "a": [
+      "analitičan",
+      "raščlanjen"
+    ]
+  },
+  {
+    "q": "Sinonim za „fundamentalan“:",
+    "a": [
+      "osnovni",
+      "temeljni"
+    ]
+  },
+  {
+    "q": "Antonim od „sporedan“:",
+    "a": [
+      "fundamentalan",
+      "ključan"
+    ]
+  },
+  {
+    "q": "Sinonim za „implicitno“:",
+    "a": [
+      "prećutno",
+      "posredno"
+    ]
+  },
+  {
+    "q": "Antonim od „eksplicitno“:",
+    "a": [
+      "implicitno",
+      "prećutno"
+    ]
+  },
+  {
+    "q": "Sinonim za „normativan“:",
+    "a": [
+      "propisan",
+      "pravilan"
+    ]
+  },
+  {
+    "q": "Antonim od „deskriptivan“:",
+    "a": [
+      "normativan",
+      "propisujući"
+    ]
+  },
+  {
+    "q": "Sinonim za „ontološki“:",
+    "a": [
+      "bićevni",
+      "egzistencijalni"
+    ]
+  },
+  {
+    "q": "Antonim od „ontološki“:",
+    "a": [
+      "epistemološki",
+      "saznajni"
+    ]
+  },
+  {
+    "q": "Sinonim za „epistemološki“:",
+    "a": [
+      "saznajni",
+      "spoznajni"
+    ]
+  },
+  {
+    "q": "Antonim od „epistemološki“:",
+    "a": [
+      "ontološki",
+      "bićevni"
+    ]
+  },
+  {
+    "q": "Sinonim za „teleološki“:",
+    "a": [
+      "svrhovit",
+      "ciljni"
+    ]
+  },
+  {
+    "q": "Antonim od „teleološki“:",
+    "a": [
+      "mehanicistički",
+      "kauzalan"
+    ]
+  },
+  {
+    "q": "Sinonim za „imanentan“:",
+    "a": [
+      "unutrašnji",
+      "svojstven"
+    ]
+  },
+  {
+    "q": "Antonim od „imanentan“:",
+    "a": [
+      "transcendentan",
+      "spoljašnji"
+    ]
+  },
+  {
+    "q": "Sinonim za „transcendentan“:",
+    "a": [
+      "nadiskustven",
+      "nadilazeći"
+    ]
+  },
+  {
+    "q": "Antonim od „transcendentan“:",
+    "a": [
+      "imanentan",
+      "unutrašnji"
+    ]
+  },
+  {
+    "q": "Sinonim za „deduktivan“:",
+    "a": [
+      "izvođen iz opšteg",
+      "logički izveden"
+    ]
+  },
+  {
+    "q": "Antonim od „deduktivan“:",
+    "a": [
+      "induktivan",
+      "empirijski"
+    ]
+  },
+  {
+    "q": "Sinonim za „induktivan“:",
+    "a": [
+      "izvođen iz posebnog",
+      "empirijski uopštavajući"
+    ]
+  },
+  {
+    "q": "Antonim od „induktivan“:",
+    "a": [
+      "deduktivan",
+      "logički izveden"
+    ]
+  },
+  {
+    "q": "Sinonim za „kauzalnost“:",
+    "a": [
+      "uzročnost",
+      "kauzalna veza"
+    ]
+  },
+  {
+    "q": "Antonim od „kauzalnost“:",
+    "a": [
+      "slučajnost",
+      "nekauzalnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „kontingentan“:",
+    "a": [
+      "slučajan",
+      "ne-nužan"
+    ]
+  },
+  {
+    "q": "Antonim od „kontingentan“:",
+    "a": [
+      "nužan",
+      "neizbežan"
+    ]
+  },
+  {
+    "q": "Sinonim za „nužan“:",
+    "a": [
+      "neizbežan",
+      "obavezan"
+    ]
+  },
+  {
+    "q": "Antonim od „nužan“:",
+    "a": [
+      "kontingentan",
+      "slučajan"
+    ]
+  },
+  {
+    "q": "Sinonim za „apodiktički“:",
+    "a": [
+      "nužno važeći",
+      "bezizuzetan"
+    ]
+  },
+  {
+    "q": "Antonim od „apodiktički“:",
+    "a": [
+      "verovatan",
+      "moguć"
+    ]
+  },
+  {
+    "q": "Sinonim za „heuristički“:",
+    "a": [
+      "istraživački",
+      "otkrivalački"
+    ]
+  },
+  {
+    "q": "Antonim od „heuristički“:",
+    "a": [
+      "dogmatski",
+      "nekritički"
+    ]
+  },
+  {
+    "q": "Sinonim za „dogmatski“:",
+    "a": [
+      "nekritički",
+      "krut"
+    ]
+  },
+  {
+    "q": "Antonim od „dogmatski“:",
+    "a": [
+      "kritički",
+      "fleksibilan"
+    ]
+  },
+  {
+    "q": "Sinonim za „dijalektički“:",
+    "a": [
+      "protivrečan",
+      "dinamičan"
+    ]
+  },
+  {
+    "q": "Antonim od „dijalektički“:",
+    "a": [
+      "jednostran",
+      "statičan"
+    ]
+  },
+  {
+    "q": "Sinonim za „aksiom“:",
+    "a": [
+      "polazna istina",
+      "samorazumljiva tvrdnja"
+    ]
+  },
+  {
+    "q": "Antonim od „aksiom“:",
+    "a": [
+      "hipoteza",
+      "pretpostavka"
+    ]
+  },
+  {
+    "q": "Sinonim za „hipoteza“:",
+    "a": [
+      "pretpostavka",
+      "radna teza"
+    ]
+  },
+  {
+    "q": "Antonim od „hipoteza“:",
+    "a": [
+      "dokaz",
+      "potvrđena tvrdnja"
+    ]
+  },
+  {
+    "q": "Sinonim za „paradoks“:",
+    "a": [
+      "protivrečnost",
+      "naizgledna protivurečnost"
+    ]
+  },
+  {
+    "q": "Antonim od „paradoks“:",
+    "a": [
+      "doslednost",
+      "konzistentnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „aprioran“:",
+    "a": [
+      "preiskustven",
+      "nezavisan od iskustva"
+    ]
+  },
+  {
+    "q": "Antonim od „aprioran“:",
+    "a": [
+      "aposterioran",
+      "iskustven"
+    ]
+  },
+  {
+    "q": "Sinonim za „aposterioran“:",
+    "a": [
+      "iskustven",
+      "empirijski"
+    ]
+  },
+  {
+    "q": "Antonim od „aposterioran“:",
+    "a": [
+      "aprioran",
+      "preiskustven"
+    ]
+  },
+  {
+    "q": "Sinonim za „noumen“:",
+    "a": [
+      "stvar po sebi",
+      "nepojavni bitak"
+    ]
+  },
+  {
+    "q": "Antonim od „noumen“:",
+    "a": [
+      "fenomen",
+      "pojavni oblik"
+    ]
+  },
+  {
+    "q": "Sinonim za „fenomen“:",
+    "a": [
+      "pojavni oblik",
+      "pojava"
+    ]
+  },
+  {
+    "q": "Antonim od „fenomen“:",
+    "a": [
+      "noumen",
+      "stvar po sebi"
+    ]
+  },
+  {
+    "q": "Sinonim za „kategorija“:",
+    "a": [
+      "osnovni pojam",
+      "temeljni koncept"
+    ]
+  },
+  {
+    "q": "Antonim od „kategorija“:",
+    "a": [
+      "pojedinačnost",
+      "individualnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „transcendentalan“:",
+    "a": [
+      "uslov saznanja",
+      "saznajni okvir"
+    ]
+  },
+  {
+    "q": "Antonim od „transcendentalan“:",
+    "a": [
+      "empirijski",
+      "iskustveni"
+    ]
+  },
+  {
+    "q": "Sinonim za „empirijski“:",
+    "a": [
+      "iskustveni",
+      "činjenični"
+    ]
+  },
+  {
+    "q": "Antonim od „empirijski“:",
+    "a": [
+      "transcendentalan",
+      "preiskustven"
+    ]
+  },
+  {
+    "q": "Sinonim za „entelehija“:",
+    "a": [
+      "ostvarena svrha",
+      "ispunjena forma"
+    ]
+  },
+  {
+    "q": "Antonim od „entelehija“:",
+    "a": [
+      "potencijalnost",
+      "mogućnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „potencijalnost“:",
+    "a": [
+      "mogućnost",
+      "latentnost"
+    ]
+  },
+  {
+    "q": "Antonim od „potencijalnost“:",
+    "a": [
+      "aktualnost",
+      "ostvarenost"
+    ]
+  },
+  {
+    "q": "Sinonim za „aktualnost“:",
+    "a": [
+      "ostvarenost",
+      "realizovanost"
+    ]
+  },
+  {
+    "q": "Antonim od „aktualnost“:",
+    "a": [
+      "potencijalnost",
+      "latentnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „supstancija“:",
+    "a": [
+      "bitak",
+      "suština"
+    ]
+  },
+  {
+    "q": "Antonim od „supstancija“:",
+    "a": [
+      "akcident",
+      "sporedno svojstvo"
+    ]
+  },
+  {
+    "q": "Sinonim za „akcident“:",
+    "a": [
+      "slučajno svojstvo",
+      "nebitna odlika"
+    ]
+  },
+  {
+    "q": "Antonim od „akcident“:",
+    "a": [
+      "supstancija",
+      "suština"
+    ]
+  },
+  {
+    "q": "Sinonim za „negacija“:",
+    "a": [
+      "poricanje",
+      "odricanje"
+    ]
+  },
+  {
+    "q": "Antonim od „negacija“:",
+    "a": [
+      "afirmacija",
+      "potvrđivanje"
+    ]
+  },
+  {
+    "q": "Sinonim za „negacija negacije“:",
+    "a": [
+      "sinteza",
+      "prevazilaženje protivrečnosti"
+    ]
+  },
+  {
+    "q": "Antonim od „negacija negacije“:",
+    "a": [
+      "puka negacija",
+      "jednostavno poricanje"
+    ]
+  },
+  {
+    "q": "Sinonim za „inferencija“:",
+    "a": [
+      "zaključivanje",
+      "izvođenje"
+    ]
+  },
+  {
+    "q": "Antonim od „inferencija“:",
+    "a": [
+      "opažanje"
+    ]
+  },
+  {
+    "q": "Sinonim za „silogizam“:",
+    "a": [
+      "zaključivanje"
+    ]
+  },
+  {
+    "q": "Antonim od „silogizam“:",
+    "a": [
+      "premisa"
+    ]
+  },
+  {
+    "q": "Sinonim za „premisa“:",
+    "a": [
+      "osnova",
+      "pretpostavka"
+    ]
+  },
+  {
+    "q": "Antonim od „premisa“:",
+    "a": [
+      "zaključak"
+    ]
+  },
+  {
+    "q": "Sinonim za „modalitet“:",
+    "a": [
+      "način",
+      "vid"
+    ]
+  },
+  {
+    "q": "Antonim od „modalitet“:",
+    "a": [
+      "sadržaj"
+    ]
+  },
+  {
+    "q": "Sinonim za „abstrakcija“:",
+    "a": [
+      "uopštavanje"
+    ]
+  },
+  {
+    "q": "Antonim od „abstrakcija“:",
+    "a": [
+      "konkretizacija"
+    ]
+  },
+  {
+    "q": "Sinonim za „konkretno“:",
+    "a": [
+      "pojedinačno"
+    ]
+  },
+  {
+    "q": "Antonim od „konkretno“:",
+    "a": [
+      "apstraktno"
+    ]
+  },
+  {
+    "q": "Sinonim za „interpretacija“:",
+    "a": [
+      "tumačenje"
+    ]
+  },
+  {
+    "q": "Antonim od „interpretacija“:",
+    "a": [
+      "doslovnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „hermeneutika“:",
+    "a": [
+      "tumačenje"
+    ]
+  },
+  {
+    "q": "Antonim od „hermeneutika“:",
+    "a": [
+      "formalizam"
+    ]
+  },
+  {
+    "q": "Sinonim za „korespondencija“:",
+    "a": [
+      "podudarnost"
+    ]
+  },
+  {
+    "q": "Antonim od „korespondencija“:",
+    "a": [
+      "nepodudarnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „koherentnost“:",
+    "a": [
+      "doslednost",
+      "povezanost"
+    ]
+  },
+  {
+    "q": "Antonim od „koherentnost“:",
+    "a": [
+      "nekonzistentnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „fundament“:",
+    "a": [
+      "osnova",
+      "temelj"
+    ]
+  },
+  {
+    "q": "Antonim od „fundament“:",
+    "a": [
+      "nadgradnja"
+    ]
+  },
+  {
+    "q": "Sinonim za „legitimnost“:",
+    "a": [
+      "opravdanost"
+    ]
+  },
+  {
+    "q": "Antonim od „legitimnost“:",
+    "a": [
+      "neopravdanost"
+    ]
+  },
+  {
+    "q": "Sinonim za „plauzibilnost“:",
+    "a": [
+      "uverljivost"
+    ]
+  },
+  {
+    "q": "Antonim od „plauzibilnost“:",
+    "a": [
+      "neuverljivost"
+    ]
+  },
+  {
+    "q": "Sinonim za „autonomija“:",
+    "a": [
+      "samostalnost"
+    ]
+  },
+  {
+    "q": "Antonim od „autonomija“:",
+    "a": [
+      "heteronomija"
+    ]
+  },
+  {
+    "q": "Sinonim za „heteronomija“:",
+    "a": [
+      "zavisnost"
+    ]
+  },
+  {
+    "q": "Antonim od „heteronomija“:",
+    "a": [
+      "autonomija"
+    ]
+  },
+  {
+    "q": "Sinonim za „determinacija“:",
+    "a": [
+      "određenje"
+    ]
+  },
+  {
+    "q": "Antonim od „determinacija“:",
+    "a": [
+      "indeterminacija"
+    ]
+  },
+  {
+    "q": "Sinonim za „indeterminacija“:",
+    "a": [
+      "neodređenost"
+    ]
+  },
+  {
+    "q": "Antonim od „indeterminacija“:",
+    "a": [
+      "determinacija"
+    ]
+  },
+  {
+    "q": "Sinonim za „univerzalnost“:",
+    "a": [
+      "opštost"
+    ]
+  },
+  {
+    "q": "Antonim od „univerzalnost“:",
+    "a": [
+      "partikularnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „partikularnost“:",
+    "a": [
+      "pojedinačnost"
+    ]
+  },
+  {
+    "q": "Antonim od „partikularnost“:",
+    "a": [
+      "univerzalnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „objektivitet“:",
+    "a": [
+      "nepristrasnost"
+    ]
+  },
+  {
+    "q": "Antonim od „objektivitet“:",
+    "a": [
+      "subjektivnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „subjektivnost“:",
+    "a": [
+      "pristrasnost"
+    ]
+  },
+  {
+    "q": "Antonim od „subjektivnost“:",
+    "a": [
+      "objektivnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „racionalizam“:",
+    "a": [
+      "intelektualizam"
+    ]
+  },
+  {
+    "q": "Antonim od „racionalizam“:",
+    "a": [
+      "empirizam"
+    ]
+  },
+  {
+    "q": "Sinonim za „empirizam“:",
+    "a": [
+      "iskustvenost"
+    ]
+  },
+  {
+    "q": "Antonim od „empirizam“:",
+    "a": [
+      "racionalizam"
+    ]
+  },
+  {
+    "q": "Sinonim za „normativnost“:",
+    "a": [
+      "obaveznost"
+    ]
+  },
+  {
+    "q": "Antonim od „normativnost“:",
+    "a": [
+      "deskriptivnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „deskriptivnost“:",
+    "a": [
+      "opisnost"
+    ]
+  },
+  {
+    "q": "Antonim od „deskriptivnost“:",
+    "a": [
+      "normativnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „kauzalnost“:",
+    "a": [
+      "uzročnost"
+    ]
+  },
+  {
+    "q": "Antonim od „kauzalnost“:",
+    "a": [
+      "slučajnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „kontinuitet“:",
+    "a": [
+      "neprekidnost"
+    ]
+  },
+  {
+    "q": "Antonim od „kontinuitet“:",
+    "a": [
+      "diskontinuitet"
+    ]
+  },
+  {
+    "q": "Sinonim za „diskontinuitet“:",
+    "a": [
+      "prekidnost"
+    ]
+  },
+  {
+    "q": "Antonim od „diskontinuitet“:",
+    "a": [
+      "kontinuitet"
+    ]
+  },
+  {
+    "q": "Sinonim za „imanentno“:",
+    "a": [
+      "unutrašnje"
+    ]
+  },
+  {
+    "q": "Antonim od „imanentno“:",
+    "a": [
+      "transcendentno"
+    ]
+  },
+  {
+    "q": "Sinonim za „transcendentno“:",
+    "a": [
+      "nadiskustveno"
+    ]
+  },
+  {
+    "q": "Antonim od „transcendentno“:",
+    "a": [
+      "imanentno"
+    ]
+  },
+  {
+    "q": "Sinonim za „legitimacija“:",
+    "a": [
+      "opravdanje"
+    ]
+  },
+  {
+    "q": "Antonim od „legitimacija“:",
+    "a": [
+      "delegitimacija"
+    ]
+  },
+  {
+    "q": "Sinonim za „sinteza“:",
+    "a": [
+      "ujedinjenje"
+    ]
+  },
+  {
+    "q": "Antonim od „sinteza“:",
+    "a": [
+      "analiza"
+    ]
+  },
+  {
+    "q": "Sinonim za „analiza“:",
+    "a": [
+      "raščlamba"
+    ]
+  },
+  {
+    "q": "Antonim od „analiza“:",
+    "a": [
+      "sinteza"
+    ]
+  },
+  {
+    "q": "Sinonim za „parcijalnost“:",
+    "a": [
+      "delimičnost"
+    ]
+  },
+  {
+    "q": "Antonim od „parcijalnost“:",
+    "a": [
+      "celovitost"
+    ]
+  },
+  {
+    "q": "Sinonim za „celovitost“:",
+    "a": [
+      "totalitet"
+    ]
+  },
+  {
+    "q": "Antonim od „celovitost“:",
+    "a": [
+      "fragmentarnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „totalitet“:",
+    "a": [
+      "celina"
+    ]
+  },
+  {
+    "q": "Antonim od „totalitet“:",
+    "a": [
+      "deo"
+    ]
+  },
+  {
+    "q": "Sinonim za „redukcija“:",
+    "a": [
+      "svođenje"
+    ]
+  },
+  {
+    "q": "Antonim od „redukcija“:",
+    "a": [
+      "ekspanzija"
+    ]
+  },
+  {
+    "q": "Sinonim za „ekspanzija“:",
+    "a": [
+      "širenje",
+      "proširenje"
+    ]
+  },
+  {
+    "q": "Antonim od „ekspanzija“:",
+    "a": [
+      "redukcija",
+      "sužavanje"
+    ]
+  },
+  {
+    "q": "Sinonim za „apodiktičnost“:",
+    "a": [
+      "nužnost",
+      "izvesnost"
+    ]
+  },
+  {
+    "q": "Antonim od „apodiktičnost“:",
+    "a": [
+      "kontingencija",
+      "verovatnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „kontingencija“:",
+    "a": [
+      "slučajnost",
+      "neizvesnost"
+    ]
+  },
+  {
+    "q": "Antonim od „kontingencija“:",
+    "a": [
+      "nužnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „transcendentalno“:",
+    "a": [
+      "uslovnost"
+    ]
+  },
+  {
+    "q": "Antonim od „transcendentalno“:",
+    "a": [
+      "empiričnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „empiričnost“:",
+    "a": [
+      "iskustvenost"
+    ]
+  },
+  {
+    "q": "Antonim od „empiričnost“:",
+    "a": [
+      "aprioritet"
+    ]
+  },
+  {
+    "q": "Sinonim za „aprioritet“:",
+    "a": [
+      "preiskustvenost",
+      "prediskustvenost"
+    ]
+  },
+  {
+    "q": "Antonim od „aprioritet“:",
+    "a": [
+      "empiričnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „imanentizam“:",
+    "a": [
+      "unutrašnjost"
+    ]
+  },
+  {
+    "q": "Antonim od „imanentizam“:",
+    "a": [
+      "transcendentalizam"
+    ]
+  },
+  {
+    "q": "Sinonim za „teleologizam“:",
+    "a": [
+      "svrhovitost"
+    ]
+  },
+  {
+    "q": "Antonim od „teleologizam“:",
+    "a": [
+      "mehanicizam"
+    ]
+  },
+  {
+    "q": "Sinonim za „nominalizam“:",
+    "a": [
+      "imenovanje"
+    ]
+  },
+  {
+    "q": "Antonim od „nominalizam“:",
+    "a": [
+      "realizam"
+    ]
+  },
+  {
+    "q": "Sinonim za „realizam“:",
+    "a": [
+      "objektivizam"
+    ]
+  },
+  {
+    "q": "Antonim od „realizam“:",
+    "a": [
+      "konstruktivizam",
+      "idealizam"
+    ]
+  },
+  {
+    "q": "Sinonim za „intencionalnost“:",
+    "a": [
+      "usmerenost",
+      "namernost"
+    ]
+  },
+  {
+    "q": "Antonim od „intencionalnost“:",
+    "a": [
+      "slučajnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „fenomenalnost“:",
+    "a": [
+      "pojavljivanje"
+    ]
+  },
+  {
+    "q": "Antonim od „fenomenalnost“:",
+    "a": [
+      "noumenalnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „noumenalnost“:",
+    "a": [
+      "bitnost"
+    ]
+  },
+  {
+    "q": "Antonim od „noumenalnost“:",
+    "a": [
+      "fenomenalnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „subzistencija“:",
+    "a": [
+      "opstojnost"
+    ]
+  },
+  {
+    "q": "Antonim od „subzistencija“:",
+    "a": [
+      "nestalnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „ontički“:",
+    "a": [
+      "činjenični"
+    ]
+  },
+  {
+    "q": "Antonim od „ontički“:",
+    "a": [
+      "ontološki"
+    ]
+  },
+  {
+    "q": "Sinonim za „ontološki“:",
+    "a": [
+      "bitnosni"
+    ]
+  },
+  {
+    "q": "Antonim od „ontološki“:",
+    "a": [
+      "empirijski"
+    ]
+  },
+  {
+    "q": "Sinonim za „epohé“:",
+    "a": [
+      "suspenzija"
+    ]
+  },
+  {
+    "q": "Antonim od „epohé“:",
+    "a": [
+      "afirmacija"
+    ]
+  },
+  {
+    "q": "Sinonim za „inteligibilno“:",
+    "a": [
+      "pojmljivo"
+    ]
+  },
+  {
+    "q": "Antonim od „inteligibilno“:",
+    "a": [
+      "nepojmljivo"
+    ]
+  },
+  {
+    "q": "Sinonim za „spekulativno“:",
+    "a": [
+      "pojmovno"
+    ]
+  },
+  {
+    "q": "Antonim od „spekulativno“:",
+    "a": [
+      "empirijsko"
+    ]
+  },
+  {
+    "q": "Sinonim za „refleksija“:",
+    "a": [
+      "promišljanje",
+      "razmatranje"
+    ]
+  },
+  {
+    "q": "Antonim od „refleksija“:",
+    "a": [
+      "nepromišljenost"
+    ]
+  },
+  {
+    "q": "Sinonim za „supozicija“:",
+    "a": [
+      "pretpostavka"
+    ]
+  },
+  {
+    "q": "Antonim od „supozicija“:",
+    "a": [
+      "dokazanost"
+    ]
+  },
+  {
+    "q": "Sinonim za „korelacija“:",
+    "a": [
+      "uzajamnost",
+      "povezanost"
+    ]
+  },
+  {
+    "q": "Antonim od „korelacija“:",
+    "a": [
+      "izolovanost"
+    ]
+  },
+  {
+    "q": "Sinonim za „regres“:",
+    "a": [
+      "povratak"
+    ]
+  },
+  {
+    "q": "Antonim od „regres“:",
+    "a": [
+      "progres"
+    ]
+  },
+  {
+    "q": "Sinonim za „progres“:",
+    "a": [
+      "napredak"
+    ]
+  },
+  {
+    "q": "Antonim od „progres“:",
+    "a": [
+      "stagnacija"
+    ]
+  },
+  {
+    "q": "Sinonim za „konstitucija“:",
+    "a": [
+      "ustanovljenje"
+    ]
+  },
+  {
+    "q": "Antonim od „konstitucija“:",
+    "a": [
+      "raspuštanje"
+    ]
+  },
+  {
+    "q": "Sinonim za „posteriornost“:",
+    "a": [
+      "iskustvenost"
+    ]
+  },
+  {
+    "q": "Antonim od „posteriornost“:",
+    "a": [
+      "aprioritet"
+    ]
+  },
+  {
+    "q": "Sinonim za „kauzalitet“:",
+    "a": [
+      "uzročnost"
+    ]
+  },
+  {
+    "q": "Antonim od „kauzalitet“:",
+    "a": [
+      "akauzalnost"
+    ]
+  },
+  {
+    "q": "Sinonim za „akauzalnost“:",
+    "a": [
+      "neuzročnost"
+    ]
+  },
+  {
+    "q": "Antonim od „akauzalnost“:",
+    "a": [
+      "kauzalitet"
+    ]
+  },
+  {
+    "q": "Sinonim za „transcendentalizam“:",
+    "a": [
+      "kriticizam"
+    ]
+  },
+  {
+    "q": "Antonim od „transcendentalizam“:",
+    "a": [
+      "empirizam"
+    ]
+  },
+  {
+    "q": "Sinonim za „fenomenologija“:",
+    "a": [
+      "deskripcija"
+    ]
+  },
+  {
+    "q": "Antonim od „fenomenologija“:",
+    "a": [
+      "naturalizam"
+    ]
+  },
+  {
+    "q": "Sinonim za „noumen“:",
+    "a": [
+      "stvarposebi"
+    ]
+  },
+  {
+    "q": "Antonim od „noumen“:",
+    "a": [
+      "fenomen"
+    ]
+  },
+  {
+    "q": "Sinonim za „fenomen“:",
+    "a": [
+      "pojava"
+    ]
+  },
+  {
+    "q": "Antonim od „fenomen“:",
+    "a": [
+      "noumen"
+    ]
+  },
+  {
+    "q": "Sinonim za „subsumcija“:",
+    "a": [
+      "podvođenje"
+    ]
+  },
+  {
+    "q": "Antonim od „subsumcija“:",
+    "a": [
+      "izdvajanje"
+    ]
+  },
+  {
+    "q": "Sinonim za „legibilnost“:",
+    "a": [
+      "čitljivost"
+    ]
+  },
+  {
+    "q": "Antonim od „legibilnost“:",
+    "a": [
+      "nečitljivost"
+    ]
+  },
+  {
+    "q": "Sinonim za „intuitivnost“:",
+    "a": [
+      "neposrednost"
+    ]
+  },
+  {
+    "q": "Antonim od „intuitivnost“:",
+    "a": [
+      "posredovanost"
+    ]
+  },
+  {
+    "q": "Sinonim za „medijacija“:",
+    "a": [
+      "posredovanje"
+    ]
+  },
+  {
+    "q": "Antonim od „medijacija“:",
+    "a": [
+      "neposrednost"
+    ]
+  }
+]

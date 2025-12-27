@@ -1,0 +1,128 @@
+/* =====================================================
+   AUTH (LOGIN / REGISTER / RESET) – FINAL POLISH
+===================================================== */
+
+/* PANEL */
+.auth-panel {
+  max-width: 420px;
+  width: 100%;
+  padding: 32px 28px;
+  animation: authFade 0.35s ease-out;
+}
+
+/* TITLE */
+.auth-panel .home-title {
+  margin-bottom: 22px;
+  font-size: 26px;
+  letter-spacing: 1px;
+}
+
+/* INPUTS */
+.auth-panel .input {
+  width: 100%;
+  height: 38px;
+  padding: 0 12px;
+  margin-bottom: 10px;
+
+  font-size: 14px;
+  color: #e7e9ff;
+
+  background: rgba(10, 14, 30, 0.85);
+  border: 1px solid rgba(140,160,255,0.25);
+  border-radius: 8px;
+  outline: none;
+
+  transition: all 0.25s ease;
+}
+
+.auth-panel .input::placeholder {
+  color: rgba(200,210,255,0.45);
+}
+
+.auth-panel .input:focus {
+  border-color: rgba(170,120,255,0.85);
+  box-shadow: 0 0 12px rgba(170,120,255,0.35);
+  background: rgba(10, 14, 30, 0.95);
+}
+
+/* PRIMARY BUTTON */
+.auth-panel .neon-btn {
+  width: 100%;
+  margin-top: 14px;
+  font-size: 15px;
+  letter-spacing: 0.5px;
+}
+
+/* SECONDARY BUTTON (NAZAD) */
+.neon-btn.secondary {
+  width: 100%;
+  margin-top: 14px;
+  font-size: 13px;
+  opacity: 0.85;
+}
+
+/* LINKS (Forgot / Sign up / Login) */
+.auth-links {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+  font-size: 13px;
+}
+
+.auth-links span {
+  color: #9aaeff;
+  cursor: pointer;
+  transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+.auth-links span:hover {
+  color: #c7d2ff;
+  text-shadow: 0 0 6px rgba(160,180,255,0.6);
+}
+
+/* FADE IN ANIMATION */
+@keyframes authFade {
+  from { opacity: 0; transform: scale(0.96); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+/* ================================
+   PASSWORD FIELD (eye toggle)
+================================ */
+
+.password-field {
+  position: relative;
+  width: 100%;
+}
+
+.password-field .asoc-input {
+  width: 100%;
+  padding-right: 48px;
+}
+
+/* 👁 dugme */
+.toggle-password {
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+
+  background: transparent;
+  border: none;
+
+  font-size: 20px;
+  cursor: pointer;
+
+  color: #ffffff;      /* ⬅️ privremeno belo za test */
+  opacity: 0.9;
+
+  z-index: 10;         /* ⬅️ NAJBITNIJE */
+  pointer-events: auto;
+}
+
+/* hover (posle možeš da menjaš boju) */
+.toggle-password:hover {
+  opacity: 1;
+}
+
+

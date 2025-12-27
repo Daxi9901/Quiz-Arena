@@ -1,0 +1,381 @@
+/* ===============================
+   BACKGROUND
+=============================== */
+body {
+  background:
+    radial-gradient(circle at 50% 30%, rgba(168, 85, 247, 0.18), transparent 60%),
+    radial-gradient(circle at 50% 80%, rgba(56, 189, 248, 0.14), transparent 65%),
+    #05060f;
+
+  color: #e5e7eb;
+  overflow-x: hidden;
+}
+
+/* ===============================
+   SCREEN WRAPPER
+=============================== */
+#screen {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+/* ===============================
+   MAIN PANEL
+=============================== */
+.home-panel {
+  transform: translateX(var(--panel-offset-x));
+  position: relative;
+  width: min(26rem, 92vw);
+  padding: 4.8rem 2.8rem;
+  border-radius: 1.4rem;
+  text-align: center;
+
+  background: rgba(8, 10, 20, 0.96);
+  box-shadow: 0 1.5rem 4rem rgba(0,0,0,0.7);
+
+  backdrop-filter: blur(14px);
+  overflow: hidden;
+  z-index: 1;
+}
+
+.home-panel::before {
+  content: "";
+  position: absolute;
+  inset: -2px;
+  border-radius: inherit;
+
+  background: linear-gradient(
+    90deg,
+    #ff00cc,
+    #7c7cff,
+    #00eaff,
+    #00ff9d,
+    #ffcc00,
+    #ff00cc
+  );
+
+  background-size: 300% 300%;
+  animation: rgbBorder 15s linear infinite;
+
+  filter: blur(6px);
+  opacity: 0.6;
+
+  z-index: -2;
+}
+
+.home-panel::after {
+  content: "";
+  position: absolute;
+  inset: 2px;
+  border-radius: inherit;
+
+  background: linear-gradient(
+    180deg,
+    rgba(20, 22, 40, 0.92),
+    rgba(10, 12, 25, 0.97)
+  );
+
+  z-index: -1;
+}
+
+
+@keyframes rgbPanel {
+  0%   { background-position:   0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position:   0% 50%; }
+}
+
+@keyframes panelPulse {
+  0%, 100% { opacity: 0.65; }
+  50%      { opacity: 0.85; }
+}
+
+/* ===============================
+   TITLE
+=============================== */
+.home-title {
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  margin-bottom: 34px;
+
+background: linear-gradient(
+  90deg,
+  #a78bfa,
+  #7dd3fc,
+  #f472ff,
+  #4fd678
+);
+
+  background-size: 300% 300%;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  text-shadow:
+    0 0 8px rgba(139, 92, 246, 0.4),
+    0 0 14px rgba(56, 189, 248, 0.25);
+
+  animation: titleColorShift 12s ease-in-out infinite;
+}
+
+@keyframes titleColorShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* ===============================
+   RGB NEON BUTTON
+=============================== */
+.neon-btn {
+  position: relative;
+  width: 100%;
+  padding: 16px 18px;
+  margin: 14px 0;
+
+  font-size: 16px;
+  font-weight: 600;
+  color: #e5e7eb;
+  background: rgba(8, 10, 20, 0.92);
+
+  border-radius: 14px;
+  border: none;
+  cursor: pointer;
+
+  z-index: 1;
+  overflow: hidden;
+
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* RGB BORDER */
+.neon-btn::before {
+  content: "";
+  position: absolute;
+  inset: -2px;
+  border-radius: inherit;
+
+  background: linear-gradient(
+    90deg,
+    #ff00cc,
+    #7c7cff,
+    #00eaff,
+    #00ff9d,
+    #ffcc00,
+    #ff00cc
+  );
+
+  background-size: 300% 300%;
+  animation: rgbBorder 15s linear infinite;
+
+  filter: blur(6px);
+  opacity: 0.6;
+
+  z-index: -2;
+}
+
+/* INNER CUT (da dugme ostane tamno) */
+.neon-btn::after {
+  content: "";
+  position: absolute;
+  inset: 2px;
+  border-radius: inherit;
+  background: rgba(8, 10, 20, 0.95);
+  z-index: -1;
+}
+
+/* HOVER */
+.neon-btn:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 0 20px rgba(255, 0, 204, 0.45),
+    0 0 40px rgba(0, 234, 255, 0.35);
+}
+
+.neon-btn:hover::before {
+  opacity: 1;
+  filter: blur(10px);
+}
+
+/* ACTIVE */
+.neon-btn:active {
+  transform: translateY(0);
+}
+
+@keyframes rgbBorder {
+  0%   { background-position:   0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position:   0% 50%; }
+}
+
+.button-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  width: 100%;
+}
+
+/* ===============================
+   GAME BUTTONS – FLEXIBLE ROW
+=============================== */
+.game-buttons {
+  display: flex;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+/* ===============================
+   ASOCIJACIJE – DUGMAD U RAVNI
+=============================== */
+.asoc-buttons {
+  display: flex;
+  gap: 16px;
+  margin-top: 10px;
+}
+
+.asoc-buttons .neon-btn {
+  flex: 1;
+  height: 54px;
+  font-size: 16px;
+  border-radius: 16px;
+}
+
+/* ===============================
+   TAČAN ODGOVOR / NEXT INFO
+=============================== */
+.answer-box {
+  margin-top: 18px;
+  padding: 12px 16px;
+  border-radius: 14px;
+
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(120,180,255,0.35);
+
+  text-align: center;
+  font-size: 15px;
+  color: #9affc8;
+
+  box-shadow: inset 0 0 10px rgba(255,255,255,0.04);
+}
+
+.next-game-info {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 13px;
+  color: #cfd3ff;
+  opacity: 0.85;
+}
+
+/* ===============================
+   UNIVERSAL GAME HEADER
+=============================== */
+
+.game-header {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 26px;
+}
+
+/* NASLOV IGRE – LEVO, VEĆI */
+.game-title {
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  background: linear-gradient(
+    90deg,
+    #f472ff,
+    #a78bfa,
+    #7dd3fc
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.game-header-hud {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 10px 16px;
+  border-radius: 16px;
+
+  background: rgba(255,255,255,0.04);
+  box-shadow: inset 0 0 10px rgba(255,255,255,0.05);
+
+  font-size: 14px;
+}
+
+.game-hud-left,
+.game-hud-right {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.game-hud-timer {
+  color: #cfd3ff;
+  font-weight: 600;
+}
+
+.game-hud-score {
+  color: #ffd86b;
+  font-weight: 700;
+}
+
+
+
+
+/* ===============================
+   MOBILE – LAYOUT FIX (NO COLOR CHANGES)
+=============================== */
+@media (max-width: 480px) {
+
+  /* screen */
+  #screen {
+    align-items: center;
+    padding: 20px 0 84px;
+  }
+
+  /* panel – ključni fix */
+  .home-panel {
+    width: 92vw;
+    padding: 32px 18px;
+    border-radius: 24px;
+
+    /* 🔑 ovo rešava “dugačku cev” */
+    min-height: unset;
+    height: auto;
+  }
+
+  /* naslov */
+  .home-title {
+    font-size: 28px;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+  }
+
+  /* dugmad */
+  .button-stack {
+    gap: 14px;
+  }
+
+  .neon-btn {
+    height: 54px;
+    font-size: 15px;
+    border-radius: 16px;
+  }
+}
+
